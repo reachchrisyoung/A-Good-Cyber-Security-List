@@ -630,13 +630,13 @@ Bookmarks
 
 [Introduction to Computer Science and Programming in Python - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/)
 
-[Berkeley Python Course](http://www-inst.eecs.berkeley.edu/~selfpace/python/)
+[CS 9H: Python for Programmers - Berkeley Python Course](http://www-inst.eecs.berkeley.edu/~selfpace/python/)
 
 [The Python Tutorial — Python 3.7.0 documentation](https://docs.python.org/3/tutorial/)
 
 [Welcome to Python 101! — Python 101 1.0 documentation](https://python101.pythonlibrary.org/)
 
-[MIT - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
+[EdX - MITx -  Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
 
 [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 
@@ -694,15 +694,11 @@ Bookmarks
 
 [Interfacing Python and C: Advanced “ctypes” Features – dbader.org](https://dbader.org/blog/python-ctypes-tutorial-part-2)
 
-[Serious Python | No Starch Press](https://nostarch.com/seriouspython)
+[Book - Serious Python | No Starch Press](https://nostarch.com/seriouspython)
 
-[Math Adventures with Python | No Starch Press](https://nostarch.com/mathadventures)
-
-[How to Write Perfect Python Command-line Interfaces — Learn by Example](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)
+[Book - Math Adventures with Python | No Starch Press](https://nostarch.com/mathadventures)
 
 [Writing Python Command-Line Tools With Click – dbader.org](https://dbader.org/blog/python-commandline-tools-with-click)
-
-[Python - Multiple constructors](http://coding.derkeiler.com/Archive/Python/comp.lang.python/2005-02/1294.html)
 
 [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html#)
 
@@ -752,8 +748,6 @@ Bookmarks
 
 [Mathematical functions — NumPy v1.16 Manual](https://docs.scipy.org/doc/numpy/reference/routines.math.html)
 
-[Random sampling (numpy.random) — NumPy v1.16 Manual](https://docs.scipy.org/doc/numpy/reference/routines.random.html)
-
 [Broadcasting — NumPy v1.16 Manual](https://docs.scipy.org/doc/numpy/user/basics.broadcasting.html)
 
 [Array creation — NumPy v1.16 Manual](https://docs.scipy.org/doc/numpy/user/basics.creation.html)
@@ -774,7 +768,7 @@ Bookmarks
 
 [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 
-[PyPI tutorial](https://packaging.python.org/)
+[Python Packaging Tutorial - User Guide](https://packaging.python.org/)
 
 [10 Essential Python Tips And Tricks For Programmers - GeeksforGeeks](https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/)
 
@@ -800,9 +794,7 @@ Bookmarks
 
 </dl>
 
-
-
-[Python Tutorial: Home - 2019](https://www.bogotobogo.com/python/pytut.php)
+[Python Tutorial: Python Home - 2020](https://www.bogotobogo.com/python/pytut.php)
 
 
 
@@ -854,10 +846,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 #### Rust
 
 <dl>
@@ -866,17 +854,11 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 #### x86 Assembly
 
 <dl>
 
-[Easy x86-64](http://ian.seyler.me/easy_x86-64/)
-
-[Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
+[Book - Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation - on Amazon](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
 
 [c - Can I use Intel syntax of x86 assembly with GCC? - Stack Overflow](https://stackoverflow.com/questions/9347909/can-i-use-intel-syntax-of-x86-assembly-with-gcc)
 
@@ -890,15 +872,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 #### Full Stack Development
 
 <dl>
-
-
 
 ##### Front End Development
 
@@ -910,10 +886,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ###### JavaScript
 
 <dl>
@@ -921,10 +893,6 @@ Bookmarks
 [JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 </dl>
-
-
-
-
 
 ##### Frameworks
 
@@ -936,19 +904,13 @@ Bookmarks
 
 </dl>
 
-
-
 [A collection of full-stack resources for programmers.](https://github.com/charlax/professional-programming)
 
 [YouTube - Web Dev Stuff](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 [freeCodeCamp - Full Stack Tutorial](https://learn.freecodecamp.org/)
 
-[Courses | The Odin Project](https://www.theodinproject.com/courses)
-
 [Full Stack Book: crash-course-django](https://github.com/codexplore-io/crash-course-django)
-
-[Super Crash Course in Full Stack Web Development with Python and Django](http://www.codexplore.io/books/crash-course/)
 
 [The Odin Project | Free Course on Web Development](https://www.theodinproject.com/home)
 
@@ -956,25 +918,17 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 #### Unix Stuff (Shell Stuff)
 
 <dl>
-
-
 
 ##### Courses
 
 <dl>
 
-[Berkeley UNIX Course](http://www-inst.eecs.berkeley.edu/~selfpace/unix/)
+[CS 9E: Productive Use of the Unix Environment - Berkeley UNIX Course](http://www-inst.eecs.berkeley.edu/~selfpace/unix/)
 
 </dl>
-
-
 
 [Learn Shell Programming - Free Interactive Shell Programming Tutorial](http://www.learnshell.org/)
 
@@ -986,21 +940,17 @@ Bookmarks
 
 [#!/bin/bash](https://www.reddit.com/r/bash/)
 
-[Linux Command Line Tutorial](https://learnpythonthehardway.org/book/appendixa.html)
+[Linux Command Line Use Tutorial - hosted at "Learn Python The Hard Way"](https://learnpythonthehardway.org/book/appendixa.html)
 
 [LinuxCommand.org: Learning the shell.](http://linuxcommand.org/lc3_learning_the_shell.php)
 
 [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
-
-[The Bash Academy](http://www.bash.academy/)
 
 [A curated list of Shell Stuff](https://github.com/alebcay/awesome-shell)
 
 [OverTheWire: Bandit - Wargame For Learning UNIX Shell Stuff](http://overthewire.org/wargames/bandit/)
 
 [OverTheWire: Leviathan - Unix Wargame](http://overthewire.org/wargames/leviathan/)
-
-[Bash tips & tricks: good and not-so-good bash practices | Pragmatic Coders](https://pragmaticcoders.com/blog/bash-tips-and-tricks/)
 
 [Bash scripting cheatsheet](https://devhints.io/bash)
 
@@ -1014,29 +964,19 @@ Bookmarks
 
 </dl>
 
-
-
 [Open Source: 2018 - Java/C++/Python/BigData/Android/](https://www.bogotobogo.com/index.php)
 
 [Project-based-learning: Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning)
 
 </dl>
 
-
-
-
-
 ##### Intro Courses/Tutorials/Books
 
 <dl>
 
-
-
 ##### Books
 
 <dl>
-
-[free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 [The Pragmatic Programmer: From Journeyman to Master: 8601404321023: Computer Science Books @ Amazon.com](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
@@ -1048,21 +988,11 @@ Bookmarks
 
 [SICP - Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/)
 
-[The Pragmatic Programmer: From Journeyman to Master: 8601404321023: Computer Science Books @ Amazon.com](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
-
-[free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
-
-[Free Programming Books – GoalKicker.com](https://goalkicker.com/?fbclid=IwAR1oOo1DczRZygIUd2KQ31qWqVHucHtcY6ylYVcj7pzFKGrwKFbXE_icumw)
-
-[Welcome to the SICP Web Site](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
-
 [Catalog - zyBooks](https://www.zybooks.com/catalog/)
 
 [Code Complete: A Practical Handbook of Software Construction, Second Edition: Steve McConnell: 0790145196705: Amazon.com: Books](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 
 </dl>
-
-
 
 ### Harvard Stuff (CS 50)
 
@@ -1080,9 +1010,7 @@ Bookmarks
 
 [CS 61: Systems Programming and Machine Organization](https://cs61.seas.harvard.edu/site/2018/)
 
-
 </dl>
-
 
 ### Carnegie Mellon - Intro to Comp Sci
 
@@ -1137,8 +1065,6 @@ Bookmarks
 
 [Stevey's Blog Rants: Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 
-
-
 ### Is CS Useful? What is CS?
 
 <dl>
@@ -1148,7 +1074,6 @@ Bookmarks
 [Is computer science all about coding? If not, what do we actually learn in computer science in the university? - Quora](https://www.quora.com/Is-computer-science-all-about-coding-If-not-what-do-we-actually-learn-in-computer-science-in-the-university)
 
 [Is "Computer Science != Software Engineering" an excuse to teach programming poorly? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/11721/is-computer-science-software-engineering-an-excuse-to-teach-programming-poo)
-
 
 ### Other Good CS Stuff
 
