@@ -158,13 +158,9 @@ Bookmarks
 
 [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
-[CS50](https://cs50.harvard.edu/2018/fall/)
-
 [Practical Programming in C | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
 
 [Learn C in Y Minutes](https://learnxinyminutes.com/docs/c/)
-
-[Home | Lynda | Georgia Institute of Technology | Atlanta, GA](http://lynda.gatech.edu/)
 
 [How Do I Declare A Function Pointer in C?](https://goshdarnfunctionpointers.com/)
 
@@ -200,9 +196,7 @@ Bookmarks
 
 <dl>
 
-[Phases of translation - cppreference.com](https://en.cppreference.com/w/c/language/translation_phases)
-
-[Steps of compiling a C program - Becky Chen - Medium](https://medium.com/@bchen720/steps-of-compiling-a-c-program-7a9a531eb9f8)
+[Phases of translation: The C Source File - cppreference.com](https://en.cppreference.com/w/c/language/translation_phases)
 
 [The Four Stages of Compiling a C Program](https://www.calleerlandsson.com/the-four-stages-of-compiling-a-c-program/)
 
@@ -222,19 +216,13 @@ Bookmarks
 
 </dl>
 
-
-
-[C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=pd_sim_14_5/139-5608711-4730009?_encoding=UTF8&pd_rd_i=0131103628&pd_rd_r=89ea1745-7254-11e9-8ad6-676656a66066&pd_rd_w=5hN5E&pd_rd_wg=R476m&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=B8N0DR0HFPYKW8EHMMG5&psc=1&refRID=B8N0DR0HFPYKW8EHMMG5)
-
 [C Programming: A Modern Approach, 2nd Edition](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
 
 [CMU Recommended - C Traps and Pitfalls](https://www.amazon.com/C-Traps-Pitfalls-Andrew-Koenig/dp/0201179288)
 
 [Also CMU Recommended - Computer Systems: A Programmer's Perspective](https://www.amazon.com/dp/013409266X/ref=cm_sw_su_dp)
 
-[Mastering Algorithms with C > Mastering Algorithms with C : Safari Books Online](http://techbus.safaribooksonline.com/1565924533/id732826#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTEtNTY1OTItNDUzLTMlMkZpZDczMjgyNiZxdWVyeT0=)
-
-[C Book Answers](https://github.com/lekkas/c-algorithms)
+[Mastering Algorithms with C : OReilly](https://www.oreilly.com/library/view/mastering-algorithms-with/1565924533/)
 
 [The Definitive C Book Guide and List – seclab](https://seclab.skku.edu/the-definitive-c-book-guide-and-list/)
 
@@ -266,9 +254,7 @@ Bookmarks
 
 </dl>
 
-
-
-[Beej's Guide to C Programming](https://beej.us/guide/bgc/html/single/bgc.html)
+[Beej's Guide to C Programming](https://beej.us/guide/bgc/html/)
 
 </dl>
 
@@ -283,8 +269,6 @@ Bookmarks
 [C Storage Classes](https://www.tutorialspoint.com/cprogramming/c_storage_classes.htm)
 
 [10.2 Pointers and Arrays; Pointer Arithmetic](https://www.eskimo.com/~scs/cclass/notes/sx10b.html)
-
-[C for C++ Programmers](http://people.cs.uchicago.edu/~iancooke/osstuff/ccc.html)
 
 [c - What does getting the address of an array variable mean? - Stack Overflow](https://stackoverflow.com/questions/38202077/what-does-getting-the-address-of-an-array-variable-mean)
 
@@ -304,7 +288,7 @@ Bookmarks
 
 <dl>
 
-[C Programming: Advanced Data Types](https://www.edx.org/course/c-programming-advanced-data-types)
+[Advanced Data Types >> EdX - DartmouthX, IMTx: C Programming: Advanced Data Types](https://www.edx.org/course/c-programming-advanced-data-types)
 
 </dl>
 
@@ -316,7 +300,7 @@ Bookmarks
 
 <dl>
 
-[Become an embedded programmer in 5 months : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/a6hcbu/become_an_embedded_programmer_in_5_months/)
+[Become an embedded programmer in 5 months - r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/a6hcbu/become_an_embedded_programmer_in_5_months/)
 
 </dl>
 
@@ -342,9 +326,7 @@ Bookmarks
 
 <dl>
 
-[Berkeley C Course](http://www-inst.eecs.berkeley.edu/~selfpace/c/)
-
-[http://www-inst.eecs.berkeley.edu/~selfpace/c/](http://www-inst.eecs.berkeley.edu/~selfpace/c/)
+[CS 9C: C for Programmers - Berkeley C Course](http://www-inst.eecs.berkeley.edu/~selfpace/c/)
 
 [How to C (as of 2016)](https://matt.sh/howto-c)
 
@@ -360,27 +342,9 @@ Bookmarks
 
 [How Do I Declare A Function Pointer in C?](https://fuckingfunctionpointers.com/)
 
-[cdecl: C gibberish ↔ English](https://cdecl.org/?q=int+%28*f%29%28int%2C+int%29)
-
-[How to C (as of 2016)](https://matt.sh/howto-c)
-
-[C Book Answers](https://github.com/lekkas/c-algorithms)
-
-[Mastering Algorithms with C > Mastering Algorithms with C : Safari Books Online](http://techbus.safaribooksonline.com/1565924533/id732826#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTEtNTY1OTItNDUzLTMlMkZpZDczMjgyNiZxdWVyeT0=)
-
 [Learn C The Hard Way](http://c.learncodethehardway.org/book/)
 
-[C/C++ for Hackers « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/c-c-for-hackers/)
-
-[C reference - cppreference.com](https://en.cppreference.com/w/c)
-
-[The Definitive C Book Guide and List – seclab](https://seclab.skku.edu/the-definitive-c-book-guide-and-list/)
-
-[Learn C the Hard Way](https://learncodethehardway.org/c/)
-
-[Style Guide for C — CS50 Docs](https://cs50.readthedocs.io/style/c/)
-
-[UMBC | Essential C (45 page summary of everything you need to know)](http://cslibrary.stanford.edu/101/)
+[Essential C (45 page summary of everything you need to know RE: the C Language) | Stanford)](http://cslibrary.stanford.edu/101/)
 
 </dl>
 
