@@ -998,13 +998,9 @@ Bookmarks
 
 <dl>
 
-[CS50](https://cs50.harvard.edu/2018/fall/)
-
 [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
 [CS50 - Reference](https://reference.cs50.net/)
-
-[Introduction to Game Development](https://cs50.github.io/games/)
 
 [CSCI S-51: Introduction to Computer Science II](https://hc3.seas.harvard.edu/walton/cs51/web/index.html)
 
@@ -1029,8 +1025,6 @@ Bookmarks
 [Berkeley 61B - Data Structures](https://www2.eecs.berkeley.edu/Courses/CS61B/)
 
 [Berkeley 61C - Computer Architecture](https://www2.eecs.berkeley.edu/Courses/CS61C/)
-
-[Berkeley CS and EE Course Achives](http://www-inst.eecs.berkeley.edu/classes-eecs.html)
 
 [Computer Science 61A, 001 - Spring 2011 : Free Movies : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
 
@@ -1087,8 +1081,6 @@ Bookmarks
 
 [List of free university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 
-[awesome-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
-
 [Googles CS Guide](https://techdevguide.withgoogle.com/)
 
 [professional-programming github repo](https://github.com/charlax/professional-programming#professional-programming)
@@ -1111,7 +1103,7 @@ Bookmarks
 
 [Programming Pearls (2nd Edition): Jon Bentley: 0785342657883: Amazon.com: Books](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 
-[Code Complete: A Practical Handbook of Software Construction, Second Edition: Steve McConnell: 0790145196705: Amazon.com: Books](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=cm_cr_arp_d_product_top?ie=UTF8)
+[Code Complete: A Practical Handbook of Software Construction, Second Edition: Steve McConnell: 0790145196705: Amazon.com: Books](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/)
 
 [First Few Chaps CMU Recommended - The Practice of Programming (Addison-Wesley Professional Computing Series) eBook: Brian W. Kernighan, Rob Pike: Kindle Store](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing-ebook/dp/B00HU50A12)
 
@@ -1121,15 +1113,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Makefile/CMake
 
 <dl>
-
-[Must Read - Makefiles – Mrbook's Stuff](http://mrbook.org/blog/tutorials/make/)
 
 [Automatic make file generator](http://www.robertnz.net/genmake.htm)
 
@@ -1138,8 +1124,6 @@ Bookmarks
 [CMake Tutorial | CMake](https://cmake.org/cmake-tutorial/)
 
 [Introduction to CMake | Skand Hurkat](https://skandhurkat.com/post/intro-to-cmake/)
-
-[CMake Tutorial | CMake](https://cmake.org/cmake-tutorial/)
 
 [Unix Makefile Tutorial](http://www.tutorialspoint.com/makefile/index.htm)
 
@@ -1219,8 +1203,6 @@ Bookmarks
 
 [Introduction to Object-oriented Programming - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-14/)
 
-[Object-Oriented Programming - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/)
-
 [Encapsulation, Inheritance, Shadowing - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-16/)
 
 [University of Helsinki - Object-Oriented programming with Java, part I](http://moocfi.github.io/courses/2013/programming-part-1/)
@@ -1273,7 +1255,7 @@ Bookmarks
 
 [Refactoring: When and Why (Okay example in PERL)](https://medium.com/@audi17.2/refactoring-when-and-why-b5262ae92fcb)
 
-[The Clean Coder: A Code of Conduct for Professional Programmers: Robert C. Martin: 4708364241379: Amazon.com: Books](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=0137081073&pd_rd_r=979e48c3-f72a-11e8-b224-df517db04d31&pd_rd_w=kGnlx&pd_rd_wg=o4jpB&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=TG9C9V8KNQE1XB4MAYQ5&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TG9C9V8KNQE1XB4MAYQ5)
+[The Clean Coder: A Code of Conduct for Professional Programmers: Robert C. Martin: 4708364241379: Amazon.com: Books](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
 [Refactoring](https://refactoring.com/)
 
@@ -1351,8 +1333,6 @@ Bookmarks
 
 <dl>
 
-[MUST READ - The Interview Study Guide For Software Engineers](https://www.coriers.com/the-interview-study-guide-for-software-engineers/)
-
 [How do you get better at coding interviews? : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/ai4q1i/how_do_you_get_better_at_coding_interviews/eel4su9/)
 
 [A list of events and fellowship opportunities for Computer Science students](https://github.com/anu0012/awesome-computer-science-opportunities)
@@ -1362,8 +1342,6 @@ Bookmarks
 [Google Interview Problems: Synonymous Queries – Alex Golec – Medium](https://medium.com/@alexgolec/google-interview-problems-synonymous-queries-36425145387c)
 
 [joyoyao/interviews: Everything you need to know to get the job.](https://github.com/joyoyao/interviews)
-
-[The Interview Study Guide For Data Engineers](https://www.coriers.com/the-interview-study-guide-for-data-engineers/)
 
 [User Level thread Vs Kernel Level thread - LeetCode Discuss](https://leetcode.com/discuss/interview-question/operating-system/124631/User-Level-thread-Vs-Kernel-Level-thread)
 
@@ -1437,19 +1415,11 @@ Bookmarks
 
 <dl>
 
-[Harvard - Advanced Algorithms (CS 224)](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
-
 [Advanced Data Structures - GeeksforGeeks](https://www.geeksforgeeks.org/advanced-data-structures/)
 
 </dl>
 
-
-
 </dl>
-
-
-
-
 
 ### Good Videos For Algorithms
 
