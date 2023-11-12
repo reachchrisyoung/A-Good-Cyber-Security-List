@@ -1811,25 +1811,15 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### RTOS
 
 <dl>
 
 </dl>
 
-
-
-
-
 ### Linux Specific Stuff
 
 <dl>
-
-
 
 ### Linux Kernel Research Stuff
 
@@ -1838,8 +1828,6 @@ Bookmarks
 [User-mode Linux - Wikipedia](https://en.wikipedia.org/wiki/User-mode_Linux)
 
 [Heavily Commented Linux Kernel Source Code](http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf)
-
-[Wonderful World of Linux 3.0 | Kniggit.net](https://kniggit.net/wonderful-world-linux/wonderful-world-linux-3-0/)
 
 [linux_internals.pdf](http://www.cse.unsw.edu.au/~cs9242/11/lectures/08-linux_internals.pdf)
 
@@ -1851,8 +1839,6 @@ Bookmarks
 
 [Syscall Hooking via the Interrupt Descriptor Table (2.6)](https://web.archive.org/web/20150504080415/http://www.elliotbradbury.com/linux-syscall-hooking-interrupt-descriptor-table/)
 
-[CMSC 421 - Adding a System Call to the Linux Kernel](https://bluegrit.cs.umbc.edu/~lsebald1/cmsc421-sp2019/hello-syscall.shtml)
-
 [SYSENTER - OSDev Wiki](https://wiki.osdev.org/SYSENTER)
 
 [HowTos/I need the Kernel Source - CentOS Wiki](https://wiki.centos.org/HowTos/I_need_the_Kernel_Source)
@@ -1860,10 +1846,6 @@ Bookmarks
 [Implementing a System Call on Linux 2.6 for i386](https://www.tldp.org/HOWTO/html_single/Implement-Sys-Call-Linux-2.6-i386/)
 
 [The Linux Kernel, Kernel Modules And Hardware Drivers](http://haifux.org/lectures/86-sil/kernel-modules-drivers/kernel-modules-drivers.html)
-
-[The Linux Kernel API](http://kernelbook.sourceforge.net/kernel-api.html/)
-
-[Linux Interrupt Handling](ftp://ftp.lpp.polytechnique.fr/jeandet/keep/sync/LINUX/interrupt/t3.pdf)
 
 [Understanding the Linux Kernel, Third Edition - Amazon](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
 
@@ -1885,7 +1867,7 @@ Bookmarks
 
 [CPU Rings, Privilege, and Protection | Many But Finite](https://manybutfinite.com/post/cpu-rings-privilege-and-protection/)
 
-[Linux Memory Management](http://www.cse.psu.edu/~axs53/spring01/linux/memory.ppt)
+[Linux Memory Management - MS ppt file](http://www.cse.psu.edu/~axs53/spring01/linux/memory.ppt)
 
 [Inside the Linux 2.6 Completely Fair Scheduler – IBM Developer](https://developer.ibm.com/tutorials/l-completely-fair-scheduler/)
 
@@ -1893,31 +1875,19 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### IPC - Interprocess Communication Mechanisms
 
 <dl>
 
 [Message Queue/IPC](https://www.tldp.org/LDP/tlk/ipc/ipc.html)
 
-[Beej - Message Queues](https://beej.us/guide/bgipc/html/multi/mq.html)
-
 [Message Queue](https://www.tldp.org/LDP/lpg/node28.html#SECTION00742100000000000000)
 
 </dl>
 
-
-
-
-
 ### Memory Management
 
 <dl>
-
-
 
 ### Shared Memory
 
@@ -1927,29 +1897,15 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Mapped Memory
-
-
 
 [Memory Management](https://www.tldp.org/LDP/tlk/mm/memory.html)
 
-[Linux Memory Management](http://www.cse.psu.edu/~axs53/spring01/linux/memory.ppt)
-
 </dl>
-
-
-
-
 
 ### Process & Threads
 
 <dl>
-
-
 
 ### Pthreads
 
