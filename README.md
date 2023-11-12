@@ -392,19 +392,15 @@ Bookmarks
 
 [Recommended Intermediate Book: Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
 
-[proper resource management and exception safety in C++ through Resource Acquisition is Initialization (RAII) in addition to in-depth coverage of a variety of other topics including the pimpl idiom, name lookup, good class design, and the C++ memory model](https://www.amazon.com/dp/0201615622/?tag=stackoverflow17-20)
+[Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions.  This text encompasses proper resource management and exception safety in C++ through Resource Acquisition is Initialization (RAII) in addition to in-depth coverage of a variety of other topics including the pimpl idiom, name lookup, good class design, and the C++ memory model.](https://www.amazon.com/dp/0201615622/?tag=stackoverflow17-20)
 
-[generic programming, optimization, and resource management; this book also has an excellent exposition of how to write modular code](https://www.amazon.com/dp/0201760428/?tag=stackoverflow17-20)
+[Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems, and Solutions (1st ed.).  This reference revolves around generic programming, optimization, and resource management.  Further, this book also has an excellent exposition of how to write modular code.](https://www.amazon.com/dp/0201760428/?tag=stackoverflow17-20)
 
-[101 best practices, idioms, and common pitfalls that can help you to write correct, understandable, and efficient C++ code](https://www.amazon.com/dp/0321113586/?tag=stackoverflow17-20)
+[C++ Coding Standards: 101 Rules, Guidelines, and Best Practices (1st ed.).  101 best practices, idioms, and common pitfalls that can help you to write correct, understandable, and efficient C++ code.](https://www.amazon.com/dp/0321113586/?tag=stackoverflow17-20)
 
-[Amazon.com: Accelerated C++: Practical Programming by Example](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X)
+[Accelerated C++: Practical PRogramming by Example (1st ed.).](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X)
 
 </dl>
-
-
-
-[The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 </dl>
 
@@ -436,7 +432,7 @@ Bookmarks
 
 [Learn C++ - Free Interactive C++ Tutorial](http://learn-cpp.org/)
 
-[Learn C++](http://www.learncpp.com/)
+[Learn C++ - Alternative Free C++ Tutorial-](http://www.learncpp.com/)
 
 [C++ Programming Language - GeeksforGeeks](http://www.geeksforgeeks.org/c-plus-plus/)
 
@@ -456,7 +452,7 @@ Bookmarks
 
 
 
-[C++ Tutorial Front Page - 2018](https://www.bogotobogo.com/cplusplus/cpptut.php)
+[C++ Tutorial Home - 2020](https://www.bogotobogo.com/cplusplus/cpptut.php)
 
 [C++ FAQ](https://isocpp.org/wiki/faq)
 
@@ -464,7 +460,7 @@ Bookmarks
 
 [Big Picture Issues, C++ FAQ](https://isocpp.org/wiki/faq/big-picture)
 
-[C++ Programming/Code/Statements/Functions - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Statements/Functions)
+[C++ Programming/Code/Statements/Functions - Wikibooks](https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Statements/Functions)
 
 </dl>
 
@@ -482,13 +478,11 @@ Bookmarks
 
 <dl>
 
-[Pass By Reference](https://www.cs.fsu.edu/~myers/c++/notes/references.html)
+[Pass By Reference vs Pass By Value](https://www.cs.fsu.edu/~myers/c++/notes/references.html)
 
 [c++ - Isn't "const" redundant when passing by value? - Stack Overflow](https://stackoverflow.com/questions/8714250/isnt-const-redundant-when-passing-by-value)
 
 [Const Correctness, C++ FAQ](https://isocpp.org/wiki/faq/const-correctness)
-
-[C++ Programming/Code/Statements/Functions - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Statements/Functions#by_reference)
 
 </dl>
 
@@ -502,11 +496,9 @@ Bookmarks
 
 [C++ Stuff from r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/a34sws/codecademy_finally_launched_learn_c/)
 
-[Effective Modern C++ [Book]](https://www.oreilly.com/library/view/effective-modern-c/9781491908419/)
-
 [RAII - cppreference.com](https://en.cppreference.com/w/cpp/language/raii)
 
-[c++ - Why is list initialization (using curly braces) better than the alternatives? - Stack Overflow](https://stackoverflow.com/questions/18222926/why-is-list-initialization-using-curly-braces-better-than-the-alternatives)
+[C++ - Advantages of List Initialization (using curly brackets)](https://stackoverflow.com/questions/18222926/why-is-list-initialization-using-curly-braces-better-than-the-alternatives)
 
 [C++ Braced Initialization](https://blog.quasardb.net/2017/03/05/cpp-braced-initialization)
 
@@ -514,15 +506,13 @@ Bookmarks
 
 [ObjectOrientedProgramminginC4thEdition.pdf](https://fac.ksu.edu.sa/sites/default/files/ObjectOrientedProgramminginC4thEdition.pdf)
 
-[CPP_v1.1.pdf](https://ms.sapientia.ro/~manyi/teaching/c++/CPP_v1.1.pdf)
-
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
-[The C++ Standard](https://isocpp.org/)
+[The Standard C++](https://isocpp.org/)
 
 [Ampersand (&) operator in a C++ function argument](https://www.quora.com/What-does-ampersand-operator-do-in-a-C-C++-function-argument)
 
-[pointers - How to pass objects to functions in C++? - Stack Overflow](https://stackoverflow.com/questions/2139224/how-to-pass-objects-to-functions-in-c/2139254#2139254)
+[Pointers - How to pass objects to functions in C++? - Stack Overflow](https://stackoverflow.com/questions/7626116/how-to-pass-object-to-function-in-c)
 
 [Use constexpr for faster, smaller, and safer code | Trail of Bits Blog](https://blog.trailofbits.com/2019/06/27/use-constexpr-for-faster-smaller-and-safer-code/)
 
@@ -532,12 +522,6 @@ Bookmarks
 
 [Embedded Systems Coding Standard](http://stroustrup.com/JSF-AV-rules.pdf)
 
-[Good C++ Coding Standards: 101 Rules, Guidelines, and Best Practices (9780321113580): Herb Sutter, Andrei Alexandrescu: Books](https://www.amazon.com/exec/obidos/ASIN/0321113586/)
-
-[C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-
-
-
 ###### Coding Standards
 
 <dl>
@@ -546,33 +530,17 @@ Bookmarks
 
 </dl>
 
-
-
 [Resource Acquisition is Initialisation (RAII) Explained — Tom Dalling](https://www.tomdalling.com/blog/software-design/resource-acquisition-is-initialisation-raii-explained/)
 
 </dl>
-
-
-
-
 
 ###### Data Structures
 
 <dl>
 
-[USC - CSCI 104 – Data Structures and Object Oriented Design](http://www-scf.usc.edu/~csci104/20142/lectures/)
-
-[Data Structures and Algorithms in C++, Second Edition: Safari Books Online - Premium](http://techbus.safaribooksonline.com/book/programming/cplusplus/9780470383278)
-
 [Notes on Data Structures and Programming Techniques (CPSC 223, Spring 2018)](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#cplusplus)
 
-[Storage Classes in C++](https://www.tutorialspoint.com/cplusplus/cpp_storage_classes.htm)
-
 </dl>
-
-
-
-
 
 ###### Memory Management
 
