@@ -40,10 +40,6 @@ Bookmarks
 
 [Offensive Security 2013 - FSU - Lecture5: Reverse Engineering (x86) Workshop Day 1 - YouTube](https://www.youtube.com/watch?v=Pg8bmV9vcKg&feature=youtu.be)
 
-[Offensive Computer Security Home Page Spring 2014](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
-
-[Training for manipulating all kinds of things: Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
-
 </dl>
 
 
@@ -52,13 +48,9 @@ Bookmarks
 
 <dl>
 
-[Modern Binary Exploitation - Spring 2015](http://security.cs.rpi.edu/courses/binexp-spring2015/)
-
 [GitHub - RPISEC/MBE: Course materials for Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)
 
 [GitHub - RPISEC/Malware: Course materials for Malware Analysis by RPISEC](https://github.com/RPISEC/Malware)
-
-[security.cs.rpi.edu/courses/malware-spring2013/](http://security.cs.rpi.edu/courses/malware-spring2013/)
 
 </dl>
 
@@ -95,8 +87,6 @@ Bookmarks
 
 [How to Build a Successful Career in Cybersecurity - Daniel Miessler](https://danielmiessler.com/blog/build-successful-infosec-career/)
 
-[Good List of Practice Areas in CyberSecurity](https://blogs.sans.org/pen-testing/files/2018/01/PENT-PSTR-WHITEBOARD-V3-0118_web.pdf)
-
 [Hacker Manifesto - Wikipedia](https://en.wikipedia.org/wiki/Hacker_Manifesto)
 
 [So, you want to work in security? – freeCodeCamp](https://medium.freecodecamp.org/so-you-want-to-work-in-security-bc6c10157d23)
@@ -117,8 +107,6 @@ Bookmarks
 
 
 
-[LiveOverflow - LiveOverflow](http://liveoverflow.com/)
-
 [VeteranSec – A Veteran Cyber Security Community](https://veteransec.com/)
 
 [Hackaday | Fresh hacks every day](http://hackaday.com/)
@@ -127,19 +115,15 @@ Bookmarks
 
 [NYU Tandon Vulnerability Research and Pen Test Course](https://github.com/isislab/Hack-Night)
 
-[CBT Nuggets - Awesome For Certs](https://www.cbtnuggets.com/solutions/government)
-
-[Whitehatters Computer Security Club](https://www.wcsc.usf.edu/noobs)
+[CBT Nuggets - Awesome For Certs](https://www.cbtnuggets.com/certification-playlist)
 
 [Open Security Training - Lots of Beginner Stuff](http://opensecuritytraining.info/Training.html)
 
 [Null Byte — Random Hacking Tutorials](https://null-byte.wonderhowto.com/)
 
-[Free Military Cyber Training - PCTC (Requires Invite?)](https://pctc.cert.org/lms)
-
 [600 free online courses you can take from universities worldwide](https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/)
 
-[Lynda.com (Requires Library Card) - Lots of Free Training On Various Subjects](https://www.lynda.com/)
+[LinkedIn Learning - Cybersecurity](https://www.linkedin.com/learning/search?keywords=cybersecurity)
 
 </dl>
 
