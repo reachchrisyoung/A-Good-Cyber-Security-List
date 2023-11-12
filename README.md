@@ -1465,8 +1465,6 @@ Bookmarks
 
 [Algorithms for Visual Learners | Hackaday](https://hackaday.com/2018/05/06/algorithms-for-visual-learners/)
 
-[Algorithms | Computer science | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/)
-
 [Red Blob Games](https://www.redblobgames.com/)
 
 [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](http://bigocheatsheet.com/)
@@ -1539,27 +1537,15 @@ Bookmarks
 
 <dl>
 
-[Berkeley Foundations of Software Engineering](https://www.mooc-list.com/university-entity/university-california-berkeley?title=software+engineer&field_start_date_value_op=between&field_start_date_value%5Bvalue%5D%5Bdate%5D=&field_start_date_value%5Bmin%5D%5Bdate%5D=&field_start_date_value%5Bmax%5D%5Bdate%5D=&sort_by=field_start_date_value&sort_order=DESC)
-
-[UC Berkeley CS 169 Software Engineering](http://cs169.saas-class.org/)
-
 [Allen Holub: Training/Consulting/Programming: Agile, Architecture, Swift, Java](https://www.holub.com/goodies/rules.html)
 
 [CMU - Syllabus for Software Engineering](https://www.cs.cmu.edu/~aldrich/courses/15-413/)
 
 </dl>
 
-
-
-
-
 ### Computer Organization and Architecture
 
 <dl>
-
-[Georgia Tech - High Performance Computer Architecture - Udacity](https://classroom.udacity.com/courses/ud007)
-
-[MIT - Comp Org, Arch, and Digital Design](https://6004.mit.edu/web/spring19/course_information)
 
 [Cornell - CS 3410 Comp System Organization - Fall 2016](http://www.cs.cornell.edu/courses/cs3410/2016fa/)
 
@@ -1586,8 +1572,6 @@ Bookmarks
 ### Carnegie Mellon University OS Course
 
 <dl>
-
-[OS Book used by CMU](http://iips.icci.edu.iq/images/exam/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf)
 
 [Other OS Book used by CMU](https://www.amazon.com/Operating-Systems-Principles-Thomas-Anderson/dp/0985673524)
 
@@ -1679,15 +1663,15 @@ Bookmarks
 
 <dl>
 
-[ud923-birrell-paper.pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-birrell-paper.pdf)
+[An Introduction to Programming with Threads -- ud923 Birrell Paper pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-birrell-paper.pdf)
 
-[eykholt.pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-eykholt-paper.pdf)
+[Beyond Multiprocessing ... Multithreading the SunOS Kernel -- eykholt pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-eykholt-paper.pdf)
 
-[ud923-stein-shah-paper.pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-stein-shah-paper.pdf)
+[Implementing Lightweight Threads -- ud923 Stein Shah Paper pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-stein-shah-paper.pdf)
 
-[paper.dvi](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-pai-paper.pdf)
+[Flash: An Efficient and Portable Web Server -- Pai, Drushel, and Zwaenepoel Paper pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-pai-paper.pdf)
 
-[The Case For Architecture-Aware OS Kernel](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-fedorova-paper.pdf)
+[The Case For Architecture-Aware OS Kernel -- PDF, called "Chip Multithreading Systems Need a New Operation System Scheduler".](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-fedorova-paper.pdf)
 
 [The performance of spin lock alternatives for shared-money multiprocessors - Parallel and Distributed Systems, IEEE Transactions on](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-anderson-paper.pdf)
 
@@ -1708,8 +1692,6 @@ Bookmarks
 [GOOD - SystemProgramming Wiki · GitHub](https://github.com/angrave/SystemProgramming/wiki)
 
 [An Introduction to programming with threads](http://www.hpl.hp.com/techreports/Compaq-DEC/SRC-RR-35.pdf)
-
-[hessmjr/operating-systems: Georgia Tech OMSCS - Operating Systems](https://github.com/hessmjr/operating-systems)
 
 [drharris/pretty-bonnie: Helps with Bonnie test output on Udacity.](https://github.com/drharris/pretty-bonnie)
 
@@ -1738,8 +1720,6 @@ Bookmarks
 <dl>
 
 [AOSPrereq-and-Concepts-List.pdf](https://www.omscs.gatech.edu/sites/default/files/images/AOSPrereq-and-Concepts-List.pdf)
-
-[Advanced Operating Systems Readings - Udacity](https://www.udacity.com/wiki/ud156-readings)
 
 </dl>
 
@@ -1838,8 +1818,6 @@ Bookmarks
 ### RTOS
 
 <dl>
-
-[Waterloo - CS452 - Spring 2012](http://www.cgl.uwaterloo.ca/wmcowan/teaching/cs452/s12/)
 
 </dl>
 
