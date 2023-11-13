@@ -1915,10 +1915,6 @@ Bookmarks
 
 </dl>
 
-
-
-[An overview of Linux processes - Real world Linux Blog](https://www.ibm.com/developerworks/community/blogs/58e72888-6340-46ac-b488-d31aa4058e9c/entry/an_overview_of_linux_processes21?lang=en)
-
 [TLDP - Ch 4 - Processes](https://www.tldp.org/LDP/tlk/kernel/processes.html)
 
 [Introduction to Linux Threads – Part I](https://www.thegeekstuff.com/2012/03/linux-threads-intro/)
@@ -1939,8 +1935,6 @@ Bookmarks
 
 [Linux Device Drivers, 3rd Edition: Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman: 9780596005900: Amazon.com: Books](https://www.amazon.com/Linux-Device-Drivers-Jonathan-Corbet/dp/0596005903/ref=sr_1_4?ie=UTF8&qid=1483650712&sr=8-4&keywords=understanding+linux+kernel)
 
-[Linux Kernel Teaching — The Linux Kernel documentation](https://linux-kernel-labs.github.io/master/)
-
 [Is linux 'the eudyptula challenge' still alive? - Quora](https://www.quora.com/Is-linux-the-eudyptula-challenge-still-alive)
 
 </dl>
@@ -1958,10 +1952,6 @@ Bookmarks
 [Linux Kernel Programming Challenge | eudyptula-challenge](https://github.com/agelastic/eudyptula)
 
 </dl>
-
-
-
-
 
 ### Generic Kernels and Kernel Programming
 
@@ -1999,69 +1989,31 @@ Bookmarks
 
 [Paging Implementation](https://os.phil-opp.com/paging-implementation/)
 
-[x89k - OS Dev for Dummies](http://x89k.cf/operating%20systems/2018/12/10/OSdevfordummies.html)
-
-[GitHub - lduck11007/os-tutorial: How to create an OS from scratch](https://github.com/lduck11007/os-tutorial)
-
 </dl>
-
-
-
-
 
 ### Distributed Systems and Parallel Computing
 
 <dl>
 
-
-
 ### CMU - Distributed Systems
 
 <dl>
 
-[Problem Sets and Solutions](https://www.andrew.cmu.edu/course/15-440/PROBLEMSETS/2015-2018/)
-
 [Guide to Reliable Distributed Systems: Building High-Assurance Applications and Cloud-Hosted Services](https://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance-ebook/dp/B007ELT702)
 
-[P1-handout.pdf](https://www.andrew.cmu.edu/course/15-440/PROJECTS/15440-p1-handout.pdf)
-
-[P2-handout.pdf](https://www.andrew.cmu.edu/course/15-440/PROJECTS/15440-p2-handout.pdf)
-
-[P3-handout.pdf](https://www.andrew.cmu.edu/course/15-440/PROJECTS/15440-p3-handout.pdf)
-
-[P4-handout.pdf](https://www.andrew.cmu.edu/course/15-440/PROJECTS/15440-p4-handout.pdf)
-
-[ProblemSet1.pdf](https://www.andrew.cmu.edu/course/15-440/PROBLEMSETS/ProblemSet1.pdf)
-
-[ProblemSet2.pdf](https://www.andrew.cmu.edu/course/15-440/PROBLEMSETS/ProblemSet2.pdf)
-
-[ProblemSet3.pdf](https://www.andrew.cmu.edu/course/15-440/PROBLEMSETS/ProblemSet3.pdf)
-
-[ProblemSet4.pdf](https://www.andrew.cmu.edu/course/15-440/PROBLEMSETS/ProblemSet4.pdf)
-
 [Distributed Systems: Principles and Paradigms](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X)
-
-[Course Readings](https://www.andrew.cmu.edu/course/15-440/readings.html)
 
 [15-440, Fall 2010: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F10/index.html)
 
 </dl>
 
-
-
-
-
 ### UMBC Distributed Systems
 
 <dl>
 
-[IS651 | Distributed Systems](https://userpages.umbc.edu/~jianwu/is651/651.syll.s18.html)
-
 [Distributed Systems Textbook](https://userpages.umbc.edu/~jianwu/is651/651book/is651-toc.php)
 
 </dl>
-
-
 
 [A pattern language for microservices](https://microservices.io/patterns/index.html)
 
@@ -2073,25 +2025,17 @@ Bookmarks
 
 [CMU - Parallel Computer Architecture and Programming : Parallel Computer Architecture and Programming : 15-418/618 Spring 2015](http://15418.courses.cs.cmu.edu/spring2015/)
 
-[Introduction to Parallel Computing](https://www-users.cs.umn.edu/~karypis/parbook/)
-
 [Designing Data-Intensive Applications - O'Reilly Media](http://shop.oreilly.com/product/0636920032175.do)
 
 [CSEP552: PMP Distributed Systems, Spring 2013](https://courses.cs.washington.edu/courses/csep552/13sp/)
 
 </dl>
 
-
-
-
-
 ### Functional Programming / Programming Language Design
 
 <dl>
 
 [Princeton - COS 326: Functional Programming](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php)
-
-[UC Berkeley - CS164: Hack Your Language!](https://sites.google.com/a/bodik.org/cs164/home)
 
 [Cornell - CS 3110 - Functional Programming and DS](http://www.cs.cornell.edu/courses/cs3110/2014fa/course_info.php)
 
@@ -2103,37 +2047,25 @@ Bookmarks
 
 [CS 15-150: Principles of Functional Programming (Fall 2015)](https://www.cs.cmu.edu/~iliano/courses/15F-CMU-CS150/schedule.shtml)
 
-[CS 5010: Program Design Paradigms](https://course.ccs.neu.edu/cs5010/index.html)
-
 [CSCI 334: Principles of Programming Languages](http://www.cs.williams.edu/~dbarowy/cs334s18/#home)
 
 [Repl.it - Oak Programming Language](https://repl.it/@cmihai/Oak-Programming-Language)
 
 </dl>
 
-
-
-
-
 ### Compilers
 
 <dl>
 
-
-
 ### Compiler Specific Courses
 
 <dl>
-
-[UMD - CMSC430: Introduction to Compilers](http://www.cs.umd.edu/class/spring2015/cmsc430/)
 
 [Stanford - CS143: Compilers](https://web.stanford.edu/class/cs143/)
 
 [UIUC - CS 421 Programming Languages and Compilers](https://courses.engr.illinois.edu/cs421/fa2014/)
 
 [Cornell - CS 4120 - Intro to Compilers](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
-
-[Compilers and Compiler Generators](http://www.cs.ru.ac.za/compilers/pdfvers.pdf)
 
 [compiler construction - What's the difference between parse trees and abstract syntax trees? - Stack Overflow](https://stackoverflow.com/questions/5967888/whats-the-difference-between-parse-trees-and-abstract-syntax-trees)
 
@@ -2144,8 +2076,6 @@ Bookmarks
 [UT Austin - Advanced Compiler Techniques](http://www.cs.utexas.edu/users/mckinley/380C/)
 
 </dl>
-
-
 
 [Compilers: Principles, Techniques, and Tools --- Second Errata Sheet](http://infolab.stanford.edu/~ullman/dragon/errata.html)
 
@@ -2171,15 +2101,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Machine Learning/AI/Data Science
 
 <dl>
-
-
 
 ### Intro to Machine Learning?
 
@@ -2197,17 +2121,11 @@ Bookmarks
 
 [Metacademy - Deep learning from the bottom up](https://metacademy.org/roadmaps/rgrosse/deep_learning)
 
-[Deep Learning For Coders—36 hours of lessons for free](http://course.fast.ai/start.html)
-
 [Machine Learning - complete course notes](http://www.holehouse.org/mlclass/)
 
 [Machine Learning Tutorial Part 1 | Machine Learning For Beginners - YouTube](https://www.youtube.com/watch?v=E3l_aeGjkeI)
 
 </dl>
-
-
-
-
 
 ### Machine Learning Books
 
@@ -2223,35 +2141,23 @@ Bookmarks
 
 [Field Guide to Genetic Programming](http://digitalcommons.morris.umn.edu/cgi/viewcontent.cgi?article=1001&context=cs_facpubs)
 
-[Artificial Intelligence: A Modern Approach (3rd Edition)](https://www.ics.uci.edu/~rickl/courses/cs-171/aima-resources/Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
-
 [Machine Learning Books : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 
 [Essentials.pdf](https://cs.gmu.edu/~sean/book/metaheuristics/Essentials.pdf)
 
 [An Introduction to Genetic Algorithms (Complex Adaptive Systems): Melanie Mitchell: 9780262631853: Amazon.com: Books](https://www.amazon.com/dp/0262631857/?tag=stackoverflow17-20)
 
-[Microsoft Word - EvolProg_Introduction.doc](http://www.cse.dmu.ac.uk/~mgongora/csci3405/EvolProg_Intro.pdf)
-
 [awesome-machine-learning/books.md at master · josephmisiti/awesome-machine-learning · GitHub](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
 </dl>
-
-
-
-
 
 ### Machine Learning Courses
 
 <dl>
 
-
-
 ### Crash Courses
 
 <dl>
-
-[https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 
 [Machine Learning & Artificial Intelligence: Crash Course Computer Science #34 - YouTube](https://www.youtube.com/watch?v=z-EtmaFJieY)
 
@@ -2259,13 +2165,7 @@ Bookmarks
 
 [Machine Learning Crash Course 2015 - YouTube - YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ4TgDuCDINRu8hOMw31gRj)
 
-[Prof. Lorenzo Rosasco (part 1) - Machine Learning: A basic toolkit - YouTube](https://www.youtube.com/watch?v=vxFNir9yavg&index=9&list=PLyGKBDfnk-iB_rPiS0BbSHefK1HJMrPK_)
-
 </dl>
-
-
-
-
 
 ### Cornells Machine Learning for Intelligent Systems
 
@@ -2278,8 +2178,6 @@ Bookmarks
 [Lecture Notes](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)
 
 </dl>
-
-
 
 [A List of Awesome Machine Learning Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md#machine-learning)
 
@@ -2295,8 +2193,6 @@ Bookmarks
 
 [Stanford University: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 
-[Columbia - Machine Learning 4771](http://www.cs.columbia.edu/~jebara/4771/index.html)
-
 [CS 189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
 [Stanford University CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
@@ -2307,21 +2203,11 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Meh
 
 <dl>
 
 [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
-
-[Deep Learning](http://deeplearning.net/)
-
-[Tutorials « Deep Learning](http://deeplearning.net/reading-list/tutorials/)
-
-[Deep Learning Tutorials — DeepLearning 0.1 documentation](http://deeplearning.net/tutorial/)
 
 [Creating a genetic algorithm for beginners](http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3)
 
@@ -2330,10 +2216,6 @@ Bookmarks
 [NEATEvolve.lua - Pastebin.com](https://pastebin.com/ZZmSNaHX)
 
 </dl>
-
-
-
-
 
 ### AI Courses
 
@@ -2351,10 +2233,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Data Science
 
 <dl>
@@ -2369,37 +2247,23 @@ Bookmarks
 
 [Learning From Data - Online Course (MOOC)](https://work.caltech.edu/telecourse.html)
 
-[Algorithms for Big Data (CS 229r)](http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html)
-
 </dl>
-
-
-
-
 
 ### Reinforcement Learning
 
 <dl>
 
-
-
 ### Q Learning
 
 <dl>
 
-[A Painless Q-Learning Tutorial](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
-
 </dl>
-
-
 
 [RL Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 [Reinforcement Learning Introduction - Georgia Tech - Machine Learning - YouTube](https://www.youtube.com/watch?v=_ocNerSvh5Y&list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
 
 </dl>
-
-
 
 [Collection: Getting started with machine learning · GitHub](https://github.com/collections/machine-learning)
 
@@ -2413,19 +2277,13 @@ Bookmarks
 
 [Machine Learning for Cyber Security Resources](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
-[Introduction To Genetic Algorithms | Codecademy](https://www.codecademy.com/courses/javascript-beginner-en-pqhEw/0/1)
-
 [index - MachineLearning](https://www.reddit.com/r/MachineLearning/wiki/index)
-
-[Welcome — Theano 1.0.0 documentation](http://deeplearning.net/software/theano/)
 
 [TensorFlow](https://www.tensorflow.org/)
 
 [Start Here With Machine Learning - Machine Learning Mastery](https://machinelearningmastery.com/start-here/#getstarted)
 
 [Choosing the right estimator — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-
-[Geoffrey Hinton Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks/home/welcome)
 
 [[D] What is the best ML paper you read in 2018 and why? : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/a6cbzm/d_what_is_the_best_ml_paper_you_read_in_2018_and/)
 
@@ -2435,23 +2293,13 @@ Bookmarks
 
 [Georgia Tech | Machine Learning](https://classroom.udacity.com/courses/ud262)
 
-
-
 ### Machine Learning Challenges
 
 <dl>
 
-[openai Gym](https://gym.openai.com/)
-
 </dl>
 
-
-
 </dl>
-
-
-
-
 
 ### Computer Vision
 
@@ -2462,10 +2310,6 @@ Bookmarks
 [Intro Computer Vision Resources](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/computer_vision.md)
 
 </dl>
-
-
-
-
 
 ### Secure Programming
 
@@ -2479,15 +2323,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Network Programming
 
 <dl>
-
-[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/single/bgnet.html)
 
 [Intro Computer Networks Resources](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_networks.md)
 
@@ -2497,21 +2335,13 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### High Performance Computing
 
 <dl>
 
 [Agner Fog](https://www.agner.org/)
 
-[Gamasutra: Niklas Gray's Blog - Data Structures Part 1: Bulk Data](https://www.gamasutra.com/blogs/NiklasGray/20190724/347232/Data_Structures_Part_1_Bulk_Data.php)
-
 </dl>
-
-
 
 [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
 
@@ -2527,21 +2357,13 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### SW Reverse Engineering/Malware Analysis
 
 <dl>
 
-
-
 ### Courses/Learning/Challenges
 
 <dl>
-
-
 
 ### Books
 
