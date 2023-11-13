@@ -2369,8 +2369,6 @@ Bookmarks
 
 <dl>
 
-[Reverse Engineering for Beginners Book (REALLY LONG)](http://beginners.re/RE4B-EN.pdf)
-
 [Reversing: Secrets of Reverse Engineering: Eldad Eilam](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817)
 
 [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler: Chris Eagle](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898)
@@ -2393,33 +2391,17 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Intro Courses
 
 <dl>
-
-
 
 ### Good Hands On Intro to Cracking and Basic RE
 
 <dl>
 
-[Lenas Reversing for Newbies](https://tuts4you.com/e107_plugins/download/download.php?view.2876)
-
-[Tutorials « The Legend Of Random](http://octopuslabs.io/legend/blog/sample-page.html)
-
-[Cracking Sublime Text 3](http://blog.fernandodominguez.me/cracking-sublime-text-3/)
-
 [zerosum0x0: Removing Sublime Text Nag Window](https://zerosum0x0.blogspot.com/2016/09/removing-sublime-text-nag-window.html)
 
 </dl>
-
-
-
-
 
 ### Video Presentations
 
@@ -2437,10 +2419,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Open Security Training
 
 <dl>
@@ -2451,13 +2429,7 @@ Bookmarks
 
 </dl>
 
-
-
-[Software RE Resources | NSA Codebreaker Challenge](https://codebreaker.ltsnet.net/resources)
-
 [Software Reverse Engineering and Malware Analysis](http://www.cs.fsu.edu/~liux/courses/reversing/calendar.html)
-
-[Microcorruption - Interactive Intro to RE](https://microcorruption.com/login)
 
 [RE for Beginners | Reverse Engineering](https://www.begin.re/)
 
@@ -2467,9 +2439,7 @@ Bookmarks
 
 [Reverse Engineering 101 - Reverse Engineering - 0x00sec](https://0x00sec.org/t/reverse-engineering-101/1233)
 
-[[Tutorial] Reversing a multi stage binary step-by-step - Reverse Engineering - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/tutorial-reversing-a-multi-stage-binary-step-by-step/2692)
-
-[RPISEC INTROSEC](https://introsec.backdrifting.net/lectures/2017fall/06_reverse_engineering.html#1)
+[Welcome to the Poly Bomb - Reversing a multi-stage binary step by step - Reverse Engineering](https://0x00sec.org/t/tutorial-reversing-a-multi-stage-binary-step-by-step/2692)
 
 [How to Reverse Engineer Software (Windows) in a Right Way](https://www.apriorit.com/dev-blog/364-how-to-reverse-engineer-software-windows-in-a-right-way?utm_source=reddit&utm_medium=blog-march19&utm_campaign=feed)
 
@@ -2477,31 +2447,19 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Challenges
 
 <dl>
 
-
-
 ### Bombs
 
 <dl>
-
-[RPI Bomb](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/rev2/bomb)
 
 [Reversing and Exploiting a Nuclear Bomb ;) - Reverse Engineering - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/reversing-and-exploiting-a-nuclear-bomb/3412)
 
 [Linux Bomb Walkthrough – Part1 (Setup) – mcb101](https://mcb101.blog/2019/02/15/linux-binary-bomb-walkthrough-setup/)
 
 </dl>
-
-
-
-
 
 ### Crackme
 
@@ -2541,21 +2499,13 @@ Bookmarks
 
 [VIDEO: Tips, Tricks, and Clues to Escape the LabyREnth CTF](https://unit42.paloaltonetworks.com/unit42-video-tips-tricks-clues-escape-labyrenth-ctf/)
 
-[Palo Alto - LabyREnth](http://blog.labyrenth.com/community/)
-
 [[Crackme] ESET Crackme Challenge 2015 - Archived - Tuts 4 You](https://forum.tuts4you.com/topic/36862-crackme-eset-crackme-challenge-2015/)
 
 ["ESET - Malware analyst challenge"](http://www.nullsecurity.org/article/eset_malware_anlyst_challenge)
 
-[ESET CrackMe Challenge 2015 Walkthrough - UIC Academy](https://quequero.org/2016/01/eset-crackme-challenge-2015-walkthrough/)
-
 [Crack me ESET site](https://join.eset.com/en/challenges/crack-me)
 
 [SANS 2018 Holiday Hack Writeup](https://www.holidayhackchallenge.com/2018/winners/esnet_hhc18/)
-
-[SANS Penetration Testing | SANS 2015 Shmoo Challenge Winners and Official Answer | SANS Institute](https://pen-testing.sans.org/blog/2015/03/23/sans-2015-shmoo-challenge-winners-and-official-answer)
-
-[ROOTCON 2019's CTF Writeups for Web Category - InfoSec Write-ups - Medium](https://medium.com/bugbountywriteup/rootcon-2019s-ctf-writeups-for-web-category-753abe95fe15)
 
 [SAN 2015 Challenge #ShmooCon - writeup](https://evandrix.github.io/blogpost-20150205-sans-pentest@shmoocon/)
 
@@ -2567,23 +2517,13 @@ Bookmarks
 
 [Coding | Reversing: Flare-On Challenge 2017 Writeup](https://0xec.blogspot.com/2017/10/flare-on-challenge-2017-writeup.html)
 
-[2017 Flare-On Challenge Solutions « 2017 Flare-On Challenge Solutions | FireEye Inc](https://www.fireeye.com/blog/threat-research/2017/10/2017-flare-on-challenge-solutions.html)
-
 [Network Forensics Puzzle Contest](http://forensicscontest.com/puzzles)
 
 [Network Forensics Puzzle Contest 2014 Walkthrough – Network Forensics Puzzle Contest](http://forensicscontest.com/2014/08/14/network-forensics-puzzle-contest-2014-walkthrough#more-1221)
 
-[Network Forensics Puzzle 2014 – BytePuzzles](https://bytepuzzles.com/products/network-forensics-puzzle-2014)
-
 [DEFCON 22 Network Forensics Puzzle Contest Walkthrough : netsec](https://www.reddit.com/r/netsec/comments/2dnc8c/defcon_22_network_forensics_puzzle_contest/)
 
-[SANS Digital Forensics and Incident Response Challenge](https://digital-forensics.sans.org/community/challenges)
-
 </dl>
-
-
-
-[Reverse Engineering & Exploitation of a “Connected Alarm Clock” – Courk's Blog](https://courk.fr/index.php/2017/09/10/reverse-engineering-exploitation-connected-clock/)
 
 [2018 B-day Reverse Engineering Challenge](http://rikaard.io/post/2018-bday-reversing/)
 
