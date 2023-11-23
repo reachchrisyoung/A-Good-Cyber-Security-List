@@ -2553,63 +2553,21 @@ Bookmarks
 
 [Assembly Basics](https://platform.avatao.com/paths/a0dc20fc-f1b5-43c9-89fc-3a5fccfb5f0b/challenges/e63cb4dd-4777-4d2d-b81d-a822277983bc)
 
-[Getting ready for Assembly Programming – Anatomy of Intel Processor - Part 2](https://scriptdotsh.com/index.php/2018/05/13/anatomy-of-intel-processor/)
-
-[Getting ready for Assembly Language Programming – Part 1](https://scriptdotsh.com/index.php/2018/05/05/linux-asm-32bit-part-1/)
-
-[Getting started with Assembly language programming - End of theory - Part 3](https://scriptdotsh.com/index.php/2018/07/14/end-of-theory/)
-
-[Assembly Language Programming and Shellcoding - Lab setup and some important things - Part 4](https://scriptdotsh.com/index.php/2018/07/21/labsetup/)
-
-[Assembly Language Programming and Shellcoding - Hello World - Part 5](https://scriptdotsh.com/index.php/2018/07/29/hello-world/)
-
-[Assembly Language Programming and Shellcoding - Important Functions - Part 6](https://scriptdotsh.com/index.php/2018/10/12/rot1/)
-
-[Assembly Language Programming and Shellcoding – Important Functions – Part 7](https://scriptdotsh.com/index.php/2018/10/26/rot2/)
-
-[A crash course in x86 Assembly](https://x89k.tk/reverse%20engineering%20basics/2018/06/14/reb3.html)
-
 [Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 </dl>
-
-
-
-
 
 ### Linux RE - 64bit
 
 <dl>
 
-[Part 1 - Reverse Engineering Basics - Linux x64](https://scriptdotsh.com/index.php/2018/04/09/ground-zero-part-1-reverse-engineering-basics/)
-
-[Part 1-2 – Reverse Engineering Password Protected Reverse Shells – Linux x64](https://scriptdotsh.com/index.php/2018/07/26/ground-zero-part-1-2-reverse-engineering-password-protected-reverse-shells-linux-x64/)
-
-[Part 3 - Reverse Engineering Basics - Linux on ARM64](https://scriptdotsh.com/index.php/2018/04/26/ground-zero-part-3-reverse-engineering-basics-linux-on-arm64/)
-
-[Part 3-2 - Reverse Engineering - Patching Binaries with Radare2 - ARM64 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/08/13/reverse-engineering-patching-binaries-with-radare2-arm-aarch64/)
-
 </dl>
-
-
-
-
 
 ### Windows RE - 64bit
 
 <dl>
 
-[Part 2 - Reverse Engineering Basics - Windows x64 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/04/16/ground-zero-part-2-reverse-engineering-basics/)
-
-[Part 2-2 – Reverse Engineering – XOR encryption – Windows x64 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/05/09/ground-zero-part-2-2-reverse-engineering-xor-encryption-windows-x64/)
-
-[Part 2-3 – Reverse Engineering – Building Cracked Binaries – Windows x64 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/06/09/ground-zero-part-2-3-reverse-engineering-building-cracked-binaries-windows-x64/)
-
 </dl>
-
-
-
-
 
 ### Wargames
 
@@ -2627,7 +2585,7 @@ Bookmarks
 
 [Blizzard CTF 2017 – The LichKing Reverse Engineering challenge walkthrough | Shortjump!](http://0xeb.net/2018/02/blizzard-ctf-2017-the-lichking-reverse-engineering-challenge-walkthrough/)
 
-[Beginner RE Resources](https://github.com/the-akira/computer_science_web_resources/blob/master/db/reverse_engineering.md)
+[Beginner Reverse Engineering Resources](https://github.com/the-akira/computer_science_web_resources/blob/master/db/reverse_engineering.md)
 
 [[Tutorial] An example of reversing an undocumented game file format](https://www.unknowncheats.me/forum/general-programming-and-reversing/332048-example-reversing-undocumented-game-file-format.html)
 
@@ -2635,15 +2593,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Debugging
 
 <dl>
-
-
 
 ### GDB - Debugger
 
