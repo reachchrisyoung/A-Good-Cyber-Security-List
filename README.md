@@ -40,10 +40,6 @@ Bookmarks
 
 [Offensive Security 2013 - FSU - Lecture5: Reverse Engineering (x86) Workshop Day 1 - YouTube](https://www.youtube.com/watch?v=Pg8bmV9vcKg&feature=youtu.be)
 
-[Offensive Computer Security Home Page Spring 2014](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
-
-[Training for manipulating all kinds of things: Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
-
 </dl>
 
 
@@ -52,13 +48,9 @@ Bookmarks
 
 <dl>
 
-[Modern Binary Exploitation - Spring 2015](http://security.cs.rpi.edu/courses/binexp-spring2015/)
-
 [GitHub - RPISEC/MBE: Course materials for Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)
 
 [GitHub - RPISEC/Malware: Course materials for Malware Analysis by RPISEC](https://github.com/RPISEC/Malware)
-
-[security.cs.rpi.edu/courses/malware-spring2013/](http://security.cs.rpi.edu/courses/malware-spring2013/)
 
 </dl>
 
@@ -95,8 +87,6 @@ Bookmarks
 
 [How to Build a Successful Career in Cybersecurity - Daniel Miessler](https://danielmiessler.com/blog/build-successful-infosec-career/)
 
-[Good List of Practice Areas in CyberSecurity](https://blogs.sans.org/pen-testing/files/2018/01/PENT-PSTR-WHITEBOARD-V3-0118_web.pdf)
-
 [Hacker Manifesto - Wikipedia](https://en.wikipedia.org/wiki/Hacker_Manifesto)
 
 [So, you want to work in security? – freeCodeCamp](https://medium.freecodecamp.org/so-you-want-to-work-in-security-bc6c10157d23)
@@ -117,8 +107,6 @@ Bookmarks
 
 
 
-[LiveOverflow - LiveOverflow](http://liveoverflow.com/)
-
 [VeteranSec – A Veteran Cyber Security Community](https://veteransec.com/)
 
 [Hackaday | Fresh hacks every day](http://hackaday.com/)
@@ -127,19 +115,15 @@ Bookmarks
 
 [NYU Tandon Vulnerability Research and Pen Test Course](https://github.com/isislab/Hack-Night)
 
-[CBT Nuggets - Awesome For Certs](https://www.cbtnuggets.com/solutions/government)
-
-[Whitehatters Computer Security Club](https://www.wcsc.usf.edu/noobs)
+[CBT Nuggets - Awesome For Certs](https://www.cbtnuggets.com/certification-playlist)
 
 [Open Security Training - Lots of Beginner Stuff](http://opensecuritytraining.info/Training.html)
 
 [Null Byte — Random Hacking Tutorials](https://null-byte.wonderhowto.com/)
 
-[Free Military Cyber Training - PCTC (Requires Invite?)](https://pctc.cert.org/lms)
-
 [600 free online courses you can take from universities worldwide](https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/)
 
-[Lynda.com (Requires Library Card) - Lots of Free Training On Various Subjects](https://www.lynda.com/)
+[LinkedIn Learning - Cybersecurity](https://www.linkedin.com/learning/search?keywords=cybersecurity)
 
 </dl>
 
@@ -174,13 +158,9 @@ Bookmarks
 
 [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
-[CS50](https://cs50.harvard.edu/2018/fall/)
-
 [Practical Programming in C | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
 
 [Learn C in Y Minutes](https://learnxinyminutes.com/docs/c/)
-
-[Home | Lynda | Georgia Institute of Technology | Atlanta, GA](http://lynda.gatech.edu/)
 
 [How Do I Declare A Function Pointer in C?](https://goshdarnfunctionpointers.com/)
 
@@ -216,9 +196,7 @@ Bookmarks
 
 <dl>
 
-[Phases of translation - cppreference.com](https://en.cppreference.com/w/c/language/translation_phases)
-
-[Steps of compiling a C program - Becky Chen - Medium](https://medium.com/@bchen720/steps-of-compiling-a-c-program-7a9a531eb9f8)
+[Phases of translation: The C Source File - cppreference.com](https://en.cppreference.com/w/c/language/translation_phases)
 
 [The Four Stages of Compiling a C Program](https://www.calleerlandsson.com/the-four-stages-of-compiling-a-c-program/)
 
@@ -238,19 +216,13 @@ Bookmarks
 
 </dl>
 
-
-
-[C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=pd_sim_14_5/139-5608711-4730009?_encoding=UTF8&pd_rd_i=0131103628&pd_rd_r=89ea1745-7254-11e9-8ad6-676656a66066&pd_rd_w=5hN5E&pd_rd_wg=R476m&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=B8N0DR0HFPYKW8EHMMG5&psc=1&refRID=B8N0DR0HFPYKW8EHMMG5)
-
 [C Programming: A Modern Approach, 2nd Edition](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
 
 [CMU Recommended - C Traps and Pitfalls](https://www.amazon.com/C-Traps-Pitfalls-Andrew-Koenig/dp/0201179288)
 
 [Also CMU Recommended - Computer Systems: A Programmer's Perspective](https://www.amazon.com/dp/013409266X/ref=cm_sw_su_dp)
 
-[Mastering Algorithms with C > Mastering Algorithms with C : Safari Books Online](http://techbus.safaribooksonline.com/1565924533/id732826#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTEtNTY1OTItNDUzLTMlMkZpZDczMjgyNiZxdWVyeT0=)
-
-[C Book Answers](https://github.com/lekkas/c-algorithms)
+[Mastering Algorithms with C : OReilly](https://www.oreilly.com/library/view/mastering-algorithms-with/1565924533/)
 
 [The Definitive C Book Guide and List – seclab](https://seclab.skku.edu/the-definitive-c-book-guide-and-list/)
 
@@ -282,9 +254,7 @@ Bookmarks
 
 </dl>
 
-
-
-[Beej's Guide to C Programming](https://beej.us/guide/bgc/html/single/bgc.html)
+[Beej's Guide to C Programming](https://beej.us/guide/bgc/html/)
 
 </dl>
 
@@ -299,8 +269,6 @@ Bookmarks
 [C Storage Classes](https://www.tutorialspoint.com/cprogramming/c_storage_classes.htm)
 
 [10.2 Pointers and Arrays; Pointer Arithmetic](https://www.eskimo.com/~scs/cclass/notes/sx10b.html)
-
-[C for C++ Programmers](http://people.cs.uchicago.edu/~iancooke/osstuff/ccc.html)
 
 [c - What does getting the address of an array variable mean? - Stack Overflow](https://stackoverflow.com/questions/38202077/what-does-getting-the-address-of-an-array-variable-mean)
 
@@ -320,7 +288,7 @@ Bookmarks
 
 <dl>
 
-[C Programming: Advanced Data Types](https://www.edx.org/course/c-programming-advanced-data-types)
+[Advanced Data Types >> EdX - DartmouthX, IMTx: C Programming: Advanced Data Types](https://www.edx.org/course/c-programming-advanced-data-types)
 
 </dl>
 
@@ -332,7 +300,7 @@ Bookmarks
 
 <dl>
 
-[Become an embedded programmer in 5 months : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/a6hcbu/become_an_embedded_programmer_in_5_months/)
+[Become an embedded programmer in 5 months - r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/a6hcbu/become_an_embedded_programmer_in_5_months/)
 
 </dl>
 
@@ -358,9 +326,7 @@ Bookmarks
 
 <dl>
 
-[Berkeley C Course](http://www-inst.eecs.berkeley.edu/~selfpace/c/)
-
-[http://www-inst.eecs.berkeley.edu/~selfpace/c/](http://www-inst.eecs.berkeley.edu/~selfpace/c/)
+[CS 9C: C for Programmers - Berkeley C Course](http://www-inst.eecs.berkeley.edu/~selfpace/c/)
 
 [How to C (as of 2016)](https://matt.sh/howto-c)
 
@@ -376,27 +342,9 @@ Bookmarks
 
 [How Do I Declare A Function Pointer in C?](https://fuckingfunctionpointers.com/)
 
-[cdecl: C gibberish ↔ English](https://cdecl.org/?q=int+%28*f%29%28int%2C+int%29)
-
-[How to C (as of 2016)](https://matt.sh/howto-c)
-
-[C Book Answers](https://github.com/lekkas/c-algorithms)
-
-[Mastering Algorithms with C > Mastering Algorithms with C : Safari Books Online](http://techbus.safaribooksonline.com/1565924533/id732826#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTEtNTY1OTItNDUzLTMlMkZpZDczMjgyNiZxdWVyeT0=)
-
 [Learn C The Hard Way](http://c.learncodethehardway.org/book/)
 
-[C/C++ for Hackers « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/c-c-for-hackers/)
-
-[C reference - cppreference.com](https://en.cppreference.com/w/c)
-
-[The Definitive C Book Guide and List – seclab](https://seclab.skku.edu/the-definitive-c-book-guide-and-list/)
-
-[Learn C the Hard Way](https://learncodethehardway.org/c/)
-
-[Style Guide for C — CS50 Docs](https://cs50.readthedocs.io/style/c/)
-
-[UMBC | Essential C (45 page summary of everything you need to know)](http://cslibrary.stanford.edu/101/)
+[Essential C (45 page summary of everything you need to know RE: the C Language) | Stanford)](http://cslibrary.stanford.edu/101/)
 
 </dl>
 
@@ -444,19 +392,15 @@ Bookmarks
 
 [Recommended Intermediate Book: Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
 
-[proper resource management and exception safety in C++ through Resource Acquisition is Initialization (RAII) in addition to in-depth coverage of a variety of other topics including the pimpl idiom, name lookup, good class design, and the C++ memory model](https://www.amazon.com/dp/0201615622/?tag=stackoverflow17-20)
+[Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions.  This text encompasses proper resource management and exception safety in C++ through Resource Acquisition is Initialization (RAII) in addition to in-depth coverage of a variety of other topics including the pimpl idiom, name lookup, good class design, and the C++ memory model.](https://www.amazon.com/dp/0201615622/?tag=stackoverflow17-20)
 
-[generic programming, optimization, and resource management; this book also has an excellent exposition of how to write modular code](https://www.amazon.com/dp/0201760428/?tag=stackoverflow17-20)
+[Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems, and Solutions (1st ed.).  This reference revolves around generic programming, optimization, and resource management.  Further, this book also has an excellent exposition of how to write modular code.](https://www.amazon.com/dp/0201760428/?tag=stackoverflow17-20)
 
-[101 best practices, idioms, and common pitfalls that can help you to write correct, understandable, and efficient C++ code](https://www.amazon.com/dp/0321113586/?tag=stackoverflow17-20)
+[C++ Coding Standards: 101 Rules, Guidelines, and Best Practices (1st ed.).  101 best practices, idioms, and common pitfalls that can help you to write correct, understandable, and efficient C++ code.](https://www.amazon.com/dp/0321113586/?tag=stackoverflow17-20)
 
-[Amazon.com: Accelerated C++: Practical Programming by Example](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X)
+[Accelerated C++: Practical PRogramming by Example (1st ed.).](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X)
 
 </dl>
-
-
-
-[The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 </dl>
 
@@ -488,7 +432,7 @@ Bookmarks
 
 [Learn C++ - Free Interactive C++ Tutorial](http://learn-cpp.org/)
 
-[Learn C++](http://www.learncpp.com/)
+[Learn C++ - Alternative Free C++ Tutorial-](http://www.learncpp.com/)
 
 [C++ Programming Language - GeeksforGeeks](http://www.geeksforgeeks.org/c-plus-plus/)
 
@@ -508,7 +452,7 @@ Bookmarks
 
 
 
-[C++ Tutorial Front Page - 2018](https://www.bogotobogo.com/cplusplus/cpptut.php)
+[C++ Tutorial Home - 2020](https://www.bogotobogo.com/cplusplus/cpptut.php)
 
 [C++ FAQ](https://isocpp.org/wiki/faq)
 
@@ -516,7 +460,7 @@ Bookmarks
 
 [Big Picture Issues, C++ FAQ](https://isocpp.org/wiki/faq/big-picture)
 
-[C++ Programming/Code/Statements/Functions - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Statements/Functions)
+[C++ Programming/Code/Statements/Functions - Wikibooks](https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Statements/Functions)
 
 </dl>
 
@@ -534,13 +478,11 @@ Bookmarks
 
 <dl>
 
-[Pass By Reference](https://www.cs.fsu.edu/~myers/c++/notes/references.html)
+[Pass By Reference vs Pass By Value](https://www.cs.fsu.edu/~myers/c++/notes/references.html)
 
 [c++ - Isn't "const" redundant when passing by value? - Stack Overflow](https://stackoverflow.com/questions/8714250/isnt-const-redundant-when-passing-by-value)
 
 [Const Correctness, C++ FAQ](https://isocpp.org/wiki/faq/const-correctness)
-
-[C++ Programming/Code/Statements/Functions - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Statements/Functions#by_reference)
 
 </dl>
 
@@ -554,11 +496,9 @@ Bookmarks
 
 [C++ Stuff from r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/a34sws/codecademy_finally_launched_learn_c/)
 
-[Effective Modern C++ [Book]](https://www.oreilly.com/library/view/effective-modern-c/9781491908419/)
-
 [RAII - cppreference.com](https://en.cppreference.com/w/cpp/language/raii)
 
-[c++ - Why is list initialization (using curly braces) better than the alternatives? - Stack Overflow](https://stackoverflow.com/questions/18222926/why-is-list-initialization-using-curly-braces-better-than-the-alternatives)
+[C++ - Advantages of List Initialization (using curly brackets)](https://stackoverflow.com/questions/18222926/why-is-list-initialization-using-curly-braces-better-than-the-alternatives)
 
 [C++ Braced Initialization](https://blog.quasardb.net/2017/03/05/cpp-braced-initialization)
 
@@ -566,15 +506,13 @@ Bookmarks
 
 [ObjectOrientedProgramminginC4thEdition.pdf](https://fac.ksu.edu.sa/sites/default/files/ObjectOrientedProgramminginC4thEdition.pdf)
 
-[CPP_v1.1.pdf](https://ms.sapientia.ro/~manyi/teaching/c++/CPP_v1.1.pdf)
-
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
-[The C++ Standard](https://isocpp.org/)
+[The Standard C++](https://isocpp.org/)
 
 [Ampersand (&) operator in a C++ function argument](https://www.quora.com/What-does-ampersand-operator-do-in-a-C-C++-function-argument)
 
-[pointers - How to pass objects to functions in C++? - Stack Overflow](https://stackoverflow.com/questions/2139224/how-to-pass-objects-to-functions-in-c/2139254#2139254)
+[Pointers - How to pass objects to functions in C++? - Stack Overflow](https://stackoverflow.com/questions/7626116/how-to-pass-object-to-function-in-c)
 
 [Use constexpr for faster, smaller, and safer code | Trail of Bits Blog](https://blog.trailofbits.com/2019/06/27/use-constexpr-for-faster-smaller-and-safer-code/)
 
@@ -584,12 +522,6 @@ Bookmarks
 
 [Embedded Systems Coding Standard](http://stroustrup.com/JSF-AV-rules.pdf)
 
-[Good C++ Coding Standards: 101 Rules, Guidelines, and Best Practices (9780321113580): Herb Sutter, Andrei Alexandrescu: Books](https://www.amazon.com/exec/obidos/ASIN/0321113586/)
-
-[C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-
-
-
 ###### Coding Standards
 
 <dl>
@@ -598,33 +530,17 @@ Bookmarks
 
 </dl>
 
-
-
 [Resource Acquisition is Initialisation (RAII) Explained — Tom Dalling](https://www.tomdalling.com/blog/software-design/resource-acquisition-is-initialisation-raii-explained/)
 
 </dl>
-
-
-
-
 
 ###### Data Structures
 
 <dl>
 
-[USC - CSCI 104 – Data Structures and Object Oriented Design](http://www-scf.usc.edu/~csci104/20142/lectures/)
-
-[Data Structures and Algorithms in C++, Second Edition: Safari Books Online - Premium](http://techbus.safaribooksonline.com/book/programming/cplusplus/9780470383278)
-
 [Notes on Data Structures and Programming Techniques (CPSC 223, Spring 2018)](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#cplusplus)
 
-[Storage Classes in C++](https://www.tutorialspoint.com/cplusplus/cpp_storage_classes.htm)
-
 </dl>
-
-
-
-
 
 ###### Memory Management
 
@@ -714,13 +630,13 @@ Bookmarks
 
 [Introduction to Computer Science and Programming in Python - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/)
 
-[Berkeley Python Course](http://www-inst.eecs.berkeley.edu/~selfpace/python/)
+[CS 9H: Python for Programmers - Berkeley Python Course](http://www-inst.eecs.berkeley.edu/~selfpace/python/)
 
 [The Python Tutorial — Python 3.7.0 documentation](https://docs.python.org/3/tutorial/)
 
 [Welcome to Python 101! — Python 101 1.0 documentation](https://python101.pythonlibrary.org/)
 
-[MIT - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
+[EdX - MITx -  Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
 
 [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 
@@ -778,15 +694,11 @@ Bookmarks
 
 [Interfacing Python and C: Advanced “ctypes” Features – dbader.org](https://dbader.org/blog/python-ctypes-tutorial-part-2)
 
-[Serious Python | No Starch Press](https://nostarch.com/seriouspython)
+[Book - Serious Python | No Starch Press](https://nostarch.com/seriouspython)
 
-[Math Adventures with Python | No Starch Press](https://nostarch.com/mathadventures)
-
-[How to Write Perfect Python Command-line Interfaces — Learn by Example](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)
+[Book - Math Adventures with Python | No Starch Press](https://nostarch.com/mathadventures)
 
 [Writing Python Command-Line Tools With Click – dbader.org](https://dbader.org/blog/python-commandline-tools-with-click)
-
-[Python - Multiple constructors](http://coding.derkeiler.com/Archive/Python/comp.lang.python/2005-02/1294.html)
 
 [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html#)
 
@@ -836,8 +748,6 @@ Bookmarks
 
 [Mathematical functions — NumPy v1.16 Manual](https://docs.scipy.org/doc/numpy/reference/routines.math.html)
 
-[Random sampling (numpy.random) — NumPy v1.16 Manual](https://docs.scipy.org/doc/numpy/reference/routines.random.html)
-
 [Broadcasting — NumPy v1.16 Manual](https://docs.scipy.org/doc/numpy/user/basics.broadcasting.html)
 
 [Array creation — NumPy v1.16 Manual](https://docs.scipy.org/doc/numpy/user/basics.creation.html)
@@ -858,7 +768,7 @@ Bookmarks
 
 [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 
-[PyPI tutorial](https://packaging.python.org/)
+[Python Packaging Tutorial - User Guide](https://packaging.python.org/)
 
 [10 Essential Python Tips And Tricks For Programmers - GeeksforGeeks](https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/)
 
@@ -884,9 +794,7 @@ Bookmarks
 
 </dl>
 
-
-
-[Python Tutorial: Home - 2019](https://www.bogotobogo.com/python/pytut.php)
+[Python Tutorial: Python Home - 2020](https://www.bogotobogo.com/python/pytut.php)
 
 
 
@@ -938,10 +846,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 #### Rust
 
 <dl>
@@ -950,17 +854,11 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 #### x86 Assembly
 
 <dl>
 
-[Easy x86-64](http://ian.seyler.me/easy_x86-64/)
-
-[Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
+[Book - Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation - on Amazon](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
 
 [c - Can I use Intel syntax of x86 assembly with GCC? - Stack Overflow](https://stackoverflow.com/questions/9347909/can-i-use-intel-syntax-of-x86-assembly-with-gcc)
 
@@ -974,15 +872,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 #### Full Stack Development
 
 <dl>
-
-
 
 ##### Front End Development
 
@@ -994,10 +886,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ###### JavaScript
 
 <dl>
@@ -1005,10 +893,6 @@ Bookmarks
 [JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 </dl>
-
-
-
-
 
 ##### Frameworks
 
@@ -1020,19 +904,13 @@ Bookmarks
 
 </dl>
 
-
-
 [A collection of full-stack resources for programmers.](https://github.com/charlax/professional-programming)
 
 [YouTube - Web Dev Stuff](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 [freeCodeCamp - Full Stack Tutorial](https://learn.freecodecamp.org/)
 
-[Courses | The Odin Project](https://www.theodinproject.com/courses)
-
 [Full Stack Book: crash-course-django](https://github.com/codexplore-io/crash-course-django)
-
-[Super Crash Course in Full Stack Web Development with Python and Django](http://www.codexplore.io/books/crash-course/)
 
 [The Odin Project | Free Course on Web Development](https://www.theodinproject.com/home)
 
@@ -1040,25 +918,17 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 #### Unix Stuff (Shell Stuff)
 
 <dl>
-
-
 
 ##### Courses
 
 <dl>
 
-[Berkeley UNIX Course](http://www-inst.eecs.berkeley.edu/~selfpace/unix/)
+[CS 9E: Productive Use of the Unix Environment - Berkeley UNIX Course](http://www-inst.eecs.berkeley.edu/~selfpace/unix/)
 
 </dl>
-
-
 
 [Learn Shell Programming - Free Interactive Shell Programming Tutorial](http://www.learnshell.org/)
 
@@ -1070,21 +940,17 @@ Bookmarks
 
 [#!/bin/bash](https://www.reddit.com/r/bash/)
 
-[Linux Command Line Tutorial](https://learnpythonthehardway.org/book/appendixa.html)
+[Linux Command Line Use Tutorial - hosted at "Learn Python The Hard Way"](https://learnpythonthehardway.org/book/appendixa.html)
 
 [LinuxCommand.org: Learning the shell.](http://linuxcommand.org/lc3_learning_the_shell.php)
 
 [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
-
-[The Bash Academy](http://www.bash.academy/)
 
 [A curated list of Shell Stuff](https://github.com/alebcay/awesome-shell)
 
 [OverTheWire: Bandit - Wargame For Learning UNIX Shell Stuff](http://overthewire.org/wargames/bandit/)
 
 [OverTheWire: Leviathan - Unix Wargame](http://overthewire.org/wargames/leviathan/)
-
-[Bash tips & tricks: good and not-so-good bash practices | Pragmatic Coders](https://pragmaticcoders.com/blog/bash-tips-and-tricks/)
 
 [Bash scripting cheatsheet](https://devhints.io/bash)
 
@@ -1098,29 +964,19 @@ Bookmarks
 
 </dl>
 
-
-
 [Open Source: 2018 - Java/C++/Python/BigData/Android/](https://www.bogotobogo.com/index.php)
 
 [Project-based-learning: Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning)
 
 </dl>
 
-
-
-
-
 ##### Intro Courses/Tutorials/Books
 
 <dl>
 
-
-
 ##### Books
 
 <dl>
-
-[free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 [The Pragmatic Programmer: From Journeyman to Master: 8601404321023: Computer Science Books @ Amazon.com](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
@@ -1132,41 +988,25 @@ Bookmarks
 
 [SICP - Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/)
 
-[The Pragmatic Programmer: From Journeyman to Master: 8601404321023: Computer Science Books @ Amazon.com](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
-
-[free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
-
-[Free Programming Books – GoalKicker.com](https://goalkicker.com/?fbclid=IwAR1oOo1DczRZygIUd2KQ31qWqVHucHtcY6ylYVcj7pzFKGrwKFbXE_icumw)
-
-[Welcome to the SICP Web Site](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
-
 [Catalog - zyBooks](https://www.zybooks.com/catalog/)
 
 [Code Complete: A Practical Handbook of Software Construction, Second Edition: Steve McConnell: 0790145196705: Amazon.com: Books](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 
 </dl>
 
-
-
 ### Harvard Stuff (CS 50)
 
 <dl>
-
-[CS50](https://cs50.harvard.edu/2018/fall/)
 
 [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
 [CS50 - Reference](https://reference.cs50.net/)
 
-[Introduction to Game Development](https://cs50.github.io/games/)
-
 [CSCI S-51: Introduction to Computer Science II](https://hc3.seas.harvard.edu/walton/cs51/web/index.html)
 
 [CS 61: Systems Programming and Machine Organization](https://cs61.seas.harvard.edu/site/2018/)
 
-
 </dl>
-
 
 ### Carnegie Mellon - Intro to Comp Sci
 
@@ -1185,8 +1025,6 @@ Bookmarks
 [Berkeley 61B - Data Structures](https://www2.eecs.berkeley.edu/Courses/CS61B/)
 
 [Berkeley 61C - Computer Architecture](https://www2.eecs.berkeley.edu/Courses/CS61C/)
-
-[Berkeley CS and EE Course Achives](http://www-inst.eecs.berkeley.edu/classes-eecs.html)
 
 [Computer Science 61A, 001 - Spring 2011 : Free Movies : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
 
@@ -1221,8 +1059,6 @@ Bookmarks
 
 [Stevey's Blog Rants: Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 
-
-
 ### Is CS Useful? What is CS?
 
 <dl>
@@ -1232,7 +1068,6 @@ Bookmarks
 [Is computer science all about coding? If not, what do we actually learn in computer science in the university? - Quora](https://www.quora.com/Is-computer-science-all-about-coding-If-not-what-do-we-actually-learn-in-computer-science-in-the-university)
 
 [Is "Computer Science != Software Engineering" an excuse to teach programming poorly? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/11721/is-computer-science-software-engineering-an-excuse-to-teach-programming-poo)
-
 
 ### Other Good CS Stuff
 
@@ -1245,8 +1080,6 @@ Bookmarks
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 [List of free university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
-
-[awesome-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 [Googles CS Guide](https://techdevguide.withgoogle.com/)
 
@@ -1270,7 +1103,7 @@ Bookmarks
 
 [Programming Pearls (2nd Edition): Jon Bentley: 0785342657883: Amazon.com: Books](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 
-[Code Complete: A Practical Handbook of Software Construction, Second Edition: Steve McConnell: 0790145196705: Amazon.com: Books](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=cm_cr_arp_d_product_top?ie=UTF8)
+[Code Complete: A Practical Handbook of Software Construction, Second Edition: Steve McConnell: 0790145196705: Amazon.com: Books](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/)
 
 [First Few Chaps CMU Recommended - The Practice of Programming (Addison-Wesley Professional Computing Series) eBook: Brian W. Kernighan, Rob Pike: Kindle Store](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing-ebook/dp/B00HU50A12)
 
@@ -1280,15 +1113,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Makefile/CMake
 
 <dl>
-
-[Must Read - Makefiles – Mrbook's Stuff](http://mrbook.org/blog/tutorials/make/)
 
 [Automatic make file generator](http://www.robertnz.net/genmake.htm)
 
@@ -1297,8 +1124,6 @@ Bookmarks
 [CMake Tutorial | CMake](https://cmake.org/cmake-tutorial/)
 
 [Introduction to CMake | Skand Hurkat](https://skandhurkat.com/post/intro-to-cmake/)
-
-[CMake Tutorial | CMake](https://cmake.org/cmake-tutorial/)
 
 [Unix Makefile Tutorial](http://www.tutorialspoint.com/makefile/index.htm)
 
@@ -1378,8 +1203,6 @@ Bookmarks
 
 [Introduction to Object-oriented Programming - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-14/)
 
-[Object-Oriented Programming - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/)
-
 [Encapsulation, Inheritance, Shadowing - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-16/)
 
 [University of Helsinki - Object-Oriented programming with Java, part I](http://moocfi.github.io/courses/2013/programming-part-1/)
@@ -1432,7 +1255,7 @@ Bookmarks
 
 [Refactoring: When and Why (Okay example in PERL)](https://medium.com/@audi17.2/refactoring-when-and-why-b5262ae92fcb)
 
-[The Clean Coder: A Code of Conduct for Professional Programmers: Robert C. Martin: 4708364241379: Amazon.com: Books](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=0137081073&pd_rd_r=979e48c3-f72a-11e8-b224-df517db04d31&pd_rd_w=kGnlx&pd_rd_wg=o4jpB&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=TG9C9V8KNQE1XB4MAYQ5&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TG9C9V8KNQE1XB4MAYQ5)
+[The Clean Coder: A Code of Conduct for Professional Programmers: Robert C. Martin: 4708364241379: Amazon.com: Books](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
 [Refactoring](https://refactoring.com/)
 
@@ -1510,8 +1333,6 @@ Bookmarks
 
 <dl>
 
-[MUST READ - The Interview Study Guide For Software Engineers](https://www.coriers.com/the-interview-study-guide-for-software-engineers/)
-
 [How do you get better at coding interviews? : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/ai4q1i/how_do_you_get_better_at_coding_interviews/eel4su9/)
 
 [A list of events and fellowship opportunities for Computer Science students](https://github.com/anu0012/awesome-computer-science-opportunities)
@@ -1521,8 +1342,6 @@ Bookmarks
 [Google Interview Problems: Synonymous Queries – Alex Golec – Medium](https://medium.com/@alexgolec/google-interview-problems-synonymous-queries-36425145387c)
 
 [joyoyao/interviews: Everything you need to know to get the job.](https://github.com/joyoyao/interviews)
-
-[The Interview Study Guide For Data Engineers](https://www.coriers.com/the-interview-study-guide-for-data-engineers/)
 
 [User Level thread Vs Kernel Level thread - LeetCode Discuss](https://leetcode.com/discuss/interview-question/operating-system/124631/User-Level-thread-Vs-Kernel-Level-thread)
 
@@ -1596,19 +1415,11 @@ Bookmarks
 
 <dl>
 
-[Harvard - Advanced Algorithms (CS 224)](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
-
 [Advanced Data Structures - GeeksforGeeks](https://www.geeksforgeeks.org/advanced-data-structures/)
 
 </dl>
 
-
-
 </dl>
-
-
-
-
 
 ### Good Videos For Algorithms
 
@@ -1653,8 +1464,6 @@ Bookmarks
 [VisuAlgo - visualising data structures and algorithms through animation](https://visualgo.net/en)
 
 [Algorithms for Visual Learners | Hackaday](https://hackaday.com/2018/05/06/algorithms-for-visual-learners/)
-
-[Algorithms | Computer science | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/)
 
 [Red Blob Games](https://www.redblobgames.com/)
 
@@ -1728,27 +1537,15 @@ Bookmarks
 
 <dl>
 
-[Berkeley Foundations of Software Engineering](https://www.mooc-list.com/university-entity/university-california-berkeley?title=software+engineer&field_start_date_value_op=between&field_start_date_value%5Bvalue%5D%5Bdate%5D=&field_start_date_value%5Bmin%5D%5Bdate%5D=&field_start_date_value%5Bmax%5D%5Bdate%5D=&sort_by=field_start_date_value&sort_order=DESC)
-
-[UC Berkeley CS 169 Software Engineering](http://cs169.saas-class.org/)
-
 [Allen Holub: Training/Consulting/Programming: Agile, Architecture, Swift, Java](https://www.holub.com/goodies/rules.html)
 
 [CMU - Syllabus for Software Engineering](https://www.cs.cmu.edu/~aldrich/courses/15-413/)
 
 </dl>
 
-
-
-
-
 ### Computer Organization and Architecture
 
 <dl>
-
-[Georgia Tech - High Performance Computer Architecture - Udacity](https://classroom.udacity.com/courses/ud007)
-
-[MIT - Comp Org, Arch, and Digital Design](https://6004.mit.edu/web/spring19/course_information)
 
 [Cornell - CS 3410 Comp System Organization - Fall 2016](http://www.cs.cornell.edu/courses/cs3410/2016fa/)
 
@@ -1775,8 +1572,6 @@ Bookmarks
 ### Carnegie Mellon University OS Course
 
 <dl>
-
-[OS Book used by CMU](http://iips.icci.edu.iq/images/exam/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf)
 
 [Other OS Book used by CMU](https://www.amazon.com/Operating-Systems-Principles-Thomas-Anderson/dp/0985673524)
 
@@ -1868,15 +1663,15 @@ Bookmarks
 
 <dl>
 
-[ud923-birrell-paper.pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-birrell-paper.pdf)
+[An Introduction to Programming with Threads -- ud923 Birrell Paper pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-birrell-paper.pdf)
 
-[eykholt.pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-eykholt-paper.pdf)
+[Beyond Multiprocessing ... Multithreading the SunOS Kernel -- eykholt pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-eykholt-paper.pdf)
 
-[ud923-stein-shah-paper.pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-stein-shah-paper.pdf)
+[Implementing Lightweight Threads -- ud923 Stein Shah Paper pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-stein-shah-paper.pdf)
 
-[paper.dvi](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-pai-paper.pdf)
+[Flash: An Efficient and Portable Web Server -- Pai, Drushel, and Zwaenepoel Paper pdf](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-pai-paper.pdf)
 
-[The Case For Architecture-Aware OS Kernel](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-fedorova-paper.pdf)
+[The Case For Architecture-Aware OS Kernel -- PDF, called "Chip Multithreading Systems Need a New Operation System Scheduler".](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-fedorova-paper.pdf)
 
 [The performance of spin lock alternatives for shared-money multiprocessors - Parallel and Distributed Systems, IEEE Transactions on](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-anderson-paper.pdf)
 
@@ -1897,8 +1692,6 @@ Bookmarks
 [GOOD - SystemProgramming Wiki · GitHub](https://github.com/angrave/SystemProgramming/wiki)
 
 [An Introduction to programming with threads](http://www.hpl.hp.com/techreports/Compaq-DEC/SRC-RR-35.pdf)
-
-[hessmjr/operating-systems: Georgia Tech OMSCS - Operating Systems](https://github.com/hessmjr/operating-systems)
 
 [drharris/pretty-bonnie: Helps with Bonnie test output on Udacity.](https://github.com/drharris/pretty-bonnie)
 
@@ -1927,8 +1720,6 @@ Bookmarks
 <dl>
 
 [AOSPrereq-and-Concepts-List.pdf](https://www.omscs.gatech.edu/sites/default/files/images/AOSPrereq-and-Concepts-List.pdf)
-
-[Advanced Operating Systems Readings - Udacity](https://www.udacity.com/wiki/ud156-readings)
 
 </dl>
 
@@ -2020,27 +1811,15 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### RTOS
 
 <dl>
 
-[Waterloo - CS452 - Spring 2012](http://www.cgl.uwaterloo.ca/wmcowan/teaching/cs452/s12/)
-
 </dl>
-
-
-
-
 
 ### Linux Specific Stuff
 
 <dl>
-
-
 
 ### Linux Kernel Research Stuff
 
@@ -2049,8 +1828,6 @@ Bookmarks
 [User-mode Linux - Wikipedia](https://en.wikipedia.org/wiki/User-mode_Linux)
 
 [Heavily Commented Linux Kernel Source Code](http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf)
-
-[Wonderful World of Linux 3.0 | Kniggit.net](https://kniggit.net/wonderful-world-linux/wonderful-world-linux-3-0/)
 
 [linux_internals.pdf](http://www.cse.unsw.edu.au/~cs9242/11/lectures/08-linux_internals.pdf)
 
@@ -2062,8 +1839,6 @@ Bookmarks
 
 [Syscall Hooking via the Interrupt Descriptor Table (2.6)](https://web.archive.org/web/20150504080415/http://www.elliotbradbury.com/linux-syscall-hooking-interrupt-descriptor-table/)
 
-[CMSC 421 - Adding a System Call to the Linux Kernel](https://bluegrit.cs.umbc.edu/~lsebald1/cmsc421-sp2019/hello-syscall.shtml)
-
 [SYSENTER - OSDev Wiki](https://wiki.osdev.org/SYSENTER)
 
 [HowTos/I need the Kernel Source - CentOS Wiki](https://wiki.centos.org/HowTos/I_need_the_Kernel_Source)
@@ -2071,10 +1846,6 @@ Bookmarks
 [Implementing a System Call on Linux 2.6 for i386](https://www.tldp.org/HOWTO/html_single/Implement-Sys-Call-Linux-2.6-i386/)
 
 [The Linux Kernel, Kernel Modules And Hardware Drivers](http://haifux.org/lectures/86-sil/kernel-modules-drivers/kernel-modules-drivers.html)
-
-[The Linux Kernel API](http://kernelbook.sourceforge.net/kernel-api.html/)
-
-[Linux Interrupt Handling](ftp://ftp.lpp.polytechnique.fr/jeandet/keep/sync/LINUX/interrupt/t3.pdf)
 
 [Understanding the Linux Kernel, Third Edition - Amazon](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
 
@@ -2096,7 +1867,7 @@ Bookmarks
 
 [CPU Rings, Privilege, and Protection | Many But Finite](https://manybutfinite.com/post/cpu-rings-privilege-and-protection/)
 
-[Linux Memory Management](http://www.cse.psu.edu/~axs53/spring01/linux/memory.ppt)
+[Linux Memory Management - MS ppt file](http://www.cse.psu.edu/~axs53/spring01/linux/memory.ppt)
 
 [Inside the Linux 2.6 Completely Fair Scheduler – IBM Developer](https://developer.ibm.com/tutorials/l-completely-fair-scheduler/)
 
@@ -2104,31 +1875,19 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### IPC - Interprocess Communication Mechanisms
 
 <dl>
 
 [Message Queue/IPC](https://www.tldp.org/LDP/tlk/ipc/ipc.html)
 
-[Beej - Message Queues](https://beej.us/guide/bgipc/html/multi/mq.html)
-
 [Message Queue](https://www.tldp.org/LDP/lpg/node28.html#SECTION00742100000000000000)
 
 </dl>
 
-
-
-
-
 ### Memory Management
 
 <dl>
-
-
 
 ### Shared Memory
 
@@ -2138,29 +1897,15 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Mapped Memory
-
-
 
 [Memory Management](https://www.tldp.org/LDP/tlk/mm/memory.html)
 
-[Linux Memory Management](http://www.cse.psu.edu/~axs53/spring01/linux/memory.ppt)
-
 </dl>
-
-
-
-
 
 ### Process & Threads
 
 <dl>
-
-
 
 ### Pthreads
 
@@ -2169,10 +1914,6 @@ Bookmarks
 [Pthread Examples](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/resources/ud923-p2l3-pthreads.zip)
 
 </dl>
-
-
-
-[An overview of Linux processes - Real world Linux Blog](https://www.ibm.com/developerworks/community/blogs/58e72888-6340-46ac-b488-d31aa4058e9c/entry/an_overview_of_linux_processes21?lang=en)
 
 [TLDP - Ch 4 - Processes](https://www.tldp.org/LDP/tlk/kernel/processes.html)
 
@@ -2194,8 +1935,6 @@ Bookmarks
 
 [Linux Device Drivers, 3rd Edition: Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman: 9780596005900: Amazon.com: Books](https://www.amazon.com/Linux-Device-Drivers-Jonathan-Corbet/dp/0596005903/ref=sr_1_4?ie=UTF8&qid=1483650712&sr=8-4&keywords=understanding+linux+kernel)
 
-[Linux Kernel Teaching — The Linux Kernel documentation](https://linux-kernel-labs.github.io/master/)
-
 [Is linux 'the eudyptula challenge' still alive? - Quora](https://www.quora.com/Is-linux-the-eudyptula-challenge-still-alive)
 
 </dl>
@@ -2213,10 +1952,6 @@ Bookmarks
 [Linux Kernel Programming Challenge | eudyptula-challenge](https://github.com/agelastic/eudyptula)
 
 </dl>
-
-
-
-
 
 ### Generic Kernels and Kernel Programming
 
@@ -2254,69 +1989,31 @@ Bookmarks
 
 [Paging Implementation](https://os.phil-opp.com/paging-implementation/)
 
-[x89k - OS Dev for Dummies](http://x89k.cf/operating%20systems/2018/12/10/OSdevfordummies.html)
-
-[GitHub - lduck11007/os-tutorial: How to create an OS from scratch](https://github.com/lduck11007/os-tutorial)
-
 </dl>
-
-
-
-
 
 ### Distributed Systems and Parallel Computing
 
 <dl>
 
-
-
 ### CMU - Distributed Systems
 
 <dl>
 
-[Problem Sets and Solutions](https://www.andrew.cmu.edu/course/15-440/PROBLEMSETS/2015-2018/)
-
 [Guide to Reliable Distributed Systems: Building High-Assurance Applications and Cloud-Hosted Services](https://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance-ebook/dp/B007ELT702)
 
-[P1-handout.pdf](https://www.andrew.cmu.edu/course/15-440/PROJECTS/15440-p1-handout.pdf)
-
-[P2-handout.pdf](https://www.andrew.cmu.edu/course/15-440/PROJECTS/15440-p2-handout.pdf)
-
-[P3-handout.pdf](https://www.andrew.cmu.edu/course/15-440/PROJECTS/15440-p3-handout.pdf)
-
-[P4-handout.pdf](https://www.andrew.cmu.edu/course/15-440/PROJECTS/15440-p4-handout.pdf)
-
-[ProblemSet1.pdf](https://www.andrew.cmu.edu/course/15-440/PROBLEMSETS/ProblemSet1.pdf)
-
-[ProblemSet2.pdf](https://www.andrew.cmu.edu/course/15-440/PROBLEMSETS/ProblemSet2.pdf)
-
-[ProblemSet3.pdf](https://www.andrew.cmu.edu/course/15-440/PROBLEMSETS/ProblemSet3.pdf)
-
-[ProblemSet4.pdf](https://www.andrew.cmu.edu/course/15-440/PROBLEMSETS/ProblemSet4.pdf)
-
 [Distributed Systems: Principles and Paradigms](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X)
-
-[Course Readings](https://www.andrew.cmu.edu/course/15-440/readings.html)
 
 [15-440, Fall 2010: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F10/index.html)
 
 </dl>
 
-
-
-
-
 ### UMBC Distributed Systems
 
 <dl>
 
-[IS651 | Distributed Systems](https://userpages.umbc.edu/~jianwu/is651/651.syll.s18.html)
-
 [Distributed Systems Textbook](https://userpages.umbc.edu/~jianwu/is651/651book/is651-toc.php)
 
 </dl>
-
-
 
 [A pattern language for microservices](https://microservices.io/patterns/index.html)
 
@@ -2328,25 +2025,17 @@ Bookmarks
 
 [CMU - Parallel Computer Architecture and Programming : Parallel Computer Architecture and Programming : 15-418/618 Spring 2015](http://15418.courses.cs.cmu.edu/spring2015/)
 
-[Introduction to Parallel Computing](https://www-users.cs.umn.edu/~karypis/parbook/)
-
 [Designing Data-Intensive Applications - O'Reilly Media](http://shop.oreilly.com/product/0636920032175.do)
 
 [CSEP552: PMP Distributed Systems, Spring 2013](https://courses.cs.washington.edu/courses/csep552/13sp/)
 
 </dl>
 
-
-
-
-
 ### Functional Programming / Programming Language Design
 
 <dl>
 
 [Princeton - COS 326: Functional Programming](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php)
-
-[UC Berkeley - CS164: Hack Your Language!](https://sites.google.com/a/bodik.org/cs164/home)
 
 [Cornell - CS 3110 - Functional Programming and DS](http://www.cs.cornell.edu/courses/cs3110/2014fa/course_info.php)
 
@@ -2358,37 +2047,25 @@ Bookmarks
 
 [CS 15-150: Principles of Functional Programming (Fall 2015)](https://www.cs.cmu.edu/~iliano/courses/15F-CMU-CS150/schedule.shtml)
 
-[CS 5010: Program Design Paradigms](https://course.ccs.neu.edu/cs5010/index.html)
-
 [CSCI 334: Principles of Programming Languages](http://www.cs.williams.edu/~dbarowy/cs334s18/#home)
 
 [Repl.it - Oak Programming Language](https://repl.it/@cmihai/Oak-Programming-Language)
 
 </dl>
 
-
-
-
-
 ### Compilers
 
 <dl>
 
-
-
 ### Compiler Specific Courses
 
 <dl>
-
-[UMD - CMSC430: Introduction to Compilers](http://www.cs.umd.edu/class/spring2015/cmsc430/)
 
 [Stanford - CS143: Compilers](https://web.stanford.edu/class/cs143/)
 
 [UIUC - CS 421 Programming Languages and Compilers](https://courses.engr.illinois.edu/cs421/fa2014/)
 
 [Cornell - CS 4120 - Intro to Compilers](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
-
-[Compilers and Compiler Generators](http://www.cs.ru.ac.za/compilers/pdfvers.pdf)
 
 [compiler construction - What's the difference between parse trees and abstract syntax trees? - Stack Overflow](https://stackoverflow.com/questions/5967888/whats-the-difference-between-parse-trees-and-abstract-syntax-trees)
 
@@ -2399,8 +2076,6 @@ Bookmarks
 [UT Austin - Advanced Compiler Techniques](http://www.cs.utexas.edu/users/mckinley/380C/)
 
 </dl>
-
-
 
 [Compilers: Principles, Techniques, and Tools --- Second Errata Sheet](http://infolab.stanford.edu/~ullman/dragon/errata.html)
 
@@ -2426,15 +2101,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Machine Learning/AI/Data Science
 
 <dl>
-
-
 
 ### Intro to Machine Learning?
 
@@ -2452,17 +2121,11 @@ Bookmarks
 
 [Metacademy - Deep learning from the bottom up](https://metacademy.org/roadmaps/rgrosse/deep_learning)
 
-[Deep Learning For Coders—36 hours of lessons for free](http://course.fast.ai/start.html)
-
 [Machine Learning - complete course notes](http://www.holehouse.org/mlclass/)
 
 [Machine Learning Tutorial Part 1 | Machine Learning For Beginners - YouTube](https://www.youtube.com/watch?v=E3l_aeGjkeI)
 
 </dl>
-
-
-
-
 
 ### Machine Learning Books
 
@@ -2478,35 +2141,23 @@ Bookmarks
 
 [Field Guide to Genetic Programming](http://digitalcommons.morris.umn.edu/cgi/viewcontent.cgi?article=1001&context=cs_facpubs)
 
-[Artificial Intelligence: A Modern Approach (3rd Edition)](https://www.ics.uci.edu/~rickl/courses/cs-171/aima-resources/Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
-
 [Machine Learning Books : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 
 [Essentials.pdf](https://cs.gmu.edu/~sean/book/metaheuristics/Essentials.pdf)
 
 [An Introduction to Genetic Algorithms (Complex Adaptive Systems): Melanie Mitchell: 9780262631853: Amazon.com: Books](https://www.amazon.com/dp/0262631857/?tag=stackoverflow17-20)
 
-[Microsoft Word - EvolProg_Introduction.doc](http://www.cse.dmu.ac.uk/~mgongora/csci3405/EvolProg_Intro.pdf)
-
 [awesome-machine-learning/books.md at master · josephmisiti/awesome-machine-learning · GitHub](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
 </dl>
-
-
-
-
 
 ### Machine Learning Courses
 
 <dl>
 
-
-
 ### Crash Courses
 
 <dl>
-
-[https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 
 [Machine Learning & Artificial Intelligence: Crash Course Computer Science #34 - YouTube](https://www.youtube.com/watch?v=z-EtmaFJieY)
 
@@ -2514,13 +2165,7 @@ Bookmarks
 
 [Machine Learning Crash Course 2015 - YouTube - YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ4TgDuCDINRu8hOMw31gRj)
 
-[Prof. Lorenzo Rosasco (part 1) - Machine Learning: A basic toolkit - YouTube](https://www.youtube.com/watch?v=vxFNir9yavg&index=9&list=PLyGKBDfnk-iB_rPiS0BbSHefK1HJMrPK_)
-
 </dl>
-
-
-
-
 
 ### Cornells Machine Learning for Intelligent Systems
 
@@ -2533,8 +2178,6 @@ Bookmarks
 [Lecture Notes](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)
 
 </dl>
-
-
 
 [A List of Awesome Machine Learning Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md#machine-learning)
 
@@ -2550,8 +2193,6 @@ Bookmarks
 
 [Stanford University: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 
-[Columbia - Machine Learning 4771](http://www.cs.columbia.edu/~jebara/4771/index.html)
-
 [CS 189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
 [Stanford University CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
@@ -2562,21 +2203,11 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Meh
 
 <dl>
 
 [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
-
-[Deep Learning](http://deeplearning.net/)
-
-[Tutorials « Deep Learning](http://deeplearning.net/reading-list/tutorials/)
-
-[Deep Learning Tutorials — DeepLearning 0.1 documentation](http://deeplearning.net/tutorial/)
 
 [Creating a genetic algorithm for beginners](http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3)
 
@@ -2585,10 +2216,6 @@ Bookmarks
 [NEATEvolve.lua - Pastebin.com](https://pastebin.com/ZZmSNaHX)
 
 </dl>
-
-
-
-
 
 ### AI Courses
 
@@ -2606,10 +2233,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Data Science
 
 <dl>
@@ -2624,37 +2247,23 @@ Bookmarks
 
 [Learning From Data - Online Course (MOOC)](https://work.caltech.edu/telecourse.html)
 
-[Algorithms for Big Data (CS 229r)](http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html)
-
 </dl>
-
-
-
-
 
 ### Reinforcement Learning
 
 <dl>
 
-
-
 ### Q Learning
 
 <dl>
 
-[A Painless Q-Learning Tutorial](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
-
 </dl>
-
-
 
 [RL Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 [Reinforcement Learning Introduction - Georgia Tech - Machine Learning - YouTube](https://www.youtube.com/watch?v=_ocNerSvh5Y&list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
 
 </dl>
-
-
 
 [Collection: Getting started with machine learning · GitHub](https://github.com/collections/machine-learning)
 
@@ -2668,19 +2277,13 @@ Bookmarks
 
 [Machine Learning for Cyber Security Resources](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
-[Introduction To Genetic Algorithms | Codecademy](https://www.codecademy.com/courses/javascript-beginner-en-pqhEw/0/1)
-
 [index - MachineLearning](https://www.reddit.com/r/MachineLearning/wiki/index)
-
-[Welcome — Theano 1.0.0 documentation](http://deeplearning.net/software/theano/)
 
 [TensorFlow](https://www.tensorflow.org/)
 
 [Start Here With Machine Learning - Machine Learning Mastery](https://machinelearningmastery.com/start-here/#getstarted)
 
 [Choosing the right estimator — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-
-[Geoffrey Hinton Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks/home/welcome)
 
 [[D] What is the best ML paper you read in 2018 and why? : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/a6cbzm/d_what_is_the_best_ml_paper_you_read_in_2018_and/)
 
@@ -2690,23 +2293,13 @@ Bookmarks
 
 [Georgia Tech | Machine Learning](https://classroom.udacity.com/courses/ud262)
 
-
-
 ### Machine Learning Challenges
 
 <dl>
 
-[openai Gym](https://gym.openai.com/)
-
 </dl>
 
-
-
 </dl>
-
-
-
-
 
 ### Computer Vision
 
@@ -2717,10 +2310,6 @@ Bookmarks
 [Intro Computer Vision Resources](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/computer_vision.md)
 
 </dl>
-
-
-
-
 
 ### Secure Programming
 
@@ -2734,15 +2323,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Network Programming
 
 <dl>
-
-[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/single/bgnet.html)
 
 [Intro Computer Networks Resources](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_networks.md)
 
@@ -2752,21 +2335,13 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### High Performance Computing
 
 <dl>
 
 [Agner Fog](https://www.agner.org/)
 
-[Gamasutra: Niklas Gray's Blog - Data Structures Part 1: Bulk Data](https://www.gamasutra.com/blogs/NiklasGray/20190724/347232/Data_Structures_Part_1_Bulk_Data.php)
-
 </dl>
-
-
 
 [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
 
@@ -2782,27 +2357,17 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### SW Reverse Engineering/Malware Analysis
 
 <dl>
-
-
 
 ### Courses/Learning/Challenges
 
 <dl>
 
-
-
 ### Books
 
 <dl>
-
-[Reverse Engineering for Beginners Book (REALLY LONG)](http://beginners.re/RE4B-EN.pdf)
 
 [Reversing: Secrets of Reverse Engineering: Eldad Eilam](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817)
 
@@ -2826,33 +2391,17 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Intro Courses
 
 <dl>
-
-
 
 ### Good Hands On Intro to Cracking and Basic RE
 
 <dl>
 
-[Lenas Reversing for Newbies](https://tuts4you.com/e107_plugins/download/download.php?view.2876)
-
-[Tutorials « The Legend Of Random](http://octopuslabs.io/legend/blog/sample-page.html)
-
-[Cracking Sublime Text 3](http://blog.fernandodominguez.me/cracking-sublime-text-3/)
-
 [zerosum0x0: Removing Sublime Text Nag Window](https://zerosum0x0.blogspot.com/2016/09/removing-sublime-text-nag-window.html)
 
 </dl>
-
-
-
-
 
 ### Video Presentations
 
@@ -2870,10 +2419,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Open Security Training
 
 <dl>
@@ -2884,13 +2429,7 @@ Bookmarks
 
 </dl>
 
-
-
-[Software RE Resources | NSA Codebreaker Challenge](https://codebreaker.ltsnet.net/resources)
-
 [Software Reverse Engineering and Malware Analysis](http://www.cs.fsu.edu/~liux/courses/reversing/calendar.html)
-
-[Microcorruption - Interactive Intro to RE](https://microcorruption.com/login)
 
 [RE for Beginners | Reverse Engineering](https://www.begin.re/)
 
@@ -2900,9 +2439,7 @@ Bookmarks
 
 [Reverse Engineering 101 - Reverse Engineering - 0x00sec](https://0x00sec.org/t/reverse-engineering-101/1233)
 
-[[Tutorial] Reversing a multi stage binary step-by-step - Reverse Engineering - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/tutorial-reversing-a-multi-stage-binary-step-by-step/2692)
-
-[RPISEC INTROSEC](https://introsec.backdrifting.net/lectures/2017fall/06_reverse_engineering.html#1)
+[Welcome to the Poly Bomb - Reversing a multi-stage binary step by step - Reverse Engineering](https://0x00sec.org/t/tutorial-reversing-a-multi-stage-binary-step-by-step/2692)
 
 [How to Reverse Engineer Software (Windows) in a Right Way](https://www.apriorit.com/dev-blog/364-how-to-reverse-engineer-software-windows-in-a-right-way?utm_source=reddit&utm_medium=blog-march19&utm_campaign=feed)
 
@@ -2910,31 +2447,19 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Challenges
 
 <dl>
 
-
-
 ### Bombs
 
 <dl>
-
-[RPI Bomb](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/rev2/bomb)
 
 [Reversing and Exploiting a Nuclear Bomb ;) - Reverse Engineering - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/reversing-and-exploiting-a-nuclear-bomb/3412)
 
 [Linux Bomb Walkthrough – Part1 (Setup) – mcb101](https://mcb101.blog/2019/02/15/linux-binary-bomb-walkthrough-setup/)
 
 </dl>
-
-
-
-
 
 ### Crackme
 
@@ -2974,21 +2499,13 @@ Bookmarks
 
 [VIDEO: Tips, Tricks, and Clues to Escape the LabyREnth CTF](https://unit42.paloaltonetworks.com/unit42-video-tips-tricks-clues-escape-labyrenth-ctf/)
 
-[Palo Alto - LabyREnth](http://blog.labyrenth.com/community/)
-
 [[Crackme] ESET Crackme Challenge 2015 - Archived - Tuts 4 You](https://forum.tuts4you.com/topic/36862-crackme-eset-crackme-challenge-2015/)
 
 ["ESET - Malware analyst challenge"](http://www.nullsecurity.org/article/eset_malware_anlyst_challenge)
 
-[ESET CrackMe Challenge 2015 Walkthrough - UIC Academy](https://quequero.org/2016/01/eset-crackme-challenge-2015-walkthrough/)
-
 [Crack me ESET site](https://join.eset.com/en/challenges/crack-me)
 
 [SANS 2018 Holiday Hack Writeup](https://www.holidayhackchallenge.com/2018/winners/esnet_hhc18/)
-
-[SANS Penetration Testing | SANS 2015 Shmoo Challenge Winners and Official Answer | SANS Institute](https://pen-testing.sans.org/blog/2015/03/23/sans-2015-shmoo-challenge-winners-and-official-answer)
-
-[ROOTCON 2019's CTF Writeups for Web Category - InfoSec Write-ups - Medium](https://medium.com/bugbountywriteup/rootcon-2019s-ctf-writeups-for-web-category-753abe95fe15)
 
 [SAN 2015 Challenge #ShmooCon - writeup](https://evandrix.github.io/blogpost-20150205-sans-pentest@shmoocon/)
 
@@ -3000,23 +2517,13 @@ Bookmarks
 
 [Coding | Reversing: Flare-On Challenge 2017 Writeup](https://0xec.blogspot.com/2017/10/flare-on-challenge-2017-writeup.html)
 
-[2017 Flare-On Challenge Solutions « 2017 Flare-On Challenge Solutions | FireEye Inc](https://www.fireeye.com/blog/threat-research/2017/10/2017-flare-on-challenge-solutions.html)
-
 [Network Forensics Puzzle Contest](http://forensicscontest.com/puzzles)
 
 [Network Forensics Puzzle Contest 2014 Walkthrough – Network Forensics Puzzle Contest](http://forensicscontest.com/2014/08/14/network-forensics-puzzle-contest-2014-walkthrough#more-1221)
 
-[Network Forensics Puzzle 2014 – BytePuzzles](https://bytepuzzles.com/products/network-forensics-puzzle-2014)
-
 [DEFCON 22 Network Forensics Puzzle Contest Walkthrough : netsec](https://www.reddit.com/r/netsec/comments/2dnc8c/defcon_22_network_forensics_puzzle_contest/)
 
-[SANS Digital Forensics and Incident Response Challenge](https://digital-forensics.sans.org/community/challenges)
-
 </dl>
-
-
-
-[Reverse Engineering & Exploitation of a “Connected Alarm Clock” – Courk's Blog](https://courk.fr/index.php/2017/09/10/reverse-engineering-exploitation-connected-clock/)
 
 [2018 B-day Reverse Engineering Challenge](http://rikaard.io/post/2018-bday-reversing/)
 
@@ -3046,63 +2553,21 @@ Bookmarks
 
 [Assembly Basics](https://platform.avatao.com/paths/a0dc20fc-f1b5-43c9-89fc-3a5fccfb5f0b/challenges/e63cb4dd-4777-4d2d-b81d-a822277983bc)
 
-[Getting ready for Assembly Programming – Anatomy of Intel Processor - Part 2](https://scriptdotsh.com/index.php/2018/05/13/anatomy-of-intel-processor/)
-
-[Getting ready for Assembly Language Programming – Part 1](https://scriptdotsh.com/index.php/2018/05/05/linux-asm-32bit-part-1/)
-
-[Getting started with Assembly language programming - End of theory - Part 3](https://scriptdotsh.com/index.php/2018/07/14/end-of-theory/)
-
-[Assembly Language Programming and Shellcoding - Lab setup and some important things - Part 4](https://scriptdotsh.com/index.php/2018/07/21/labsetup/)
-
-[Assembly Language Programming and Shellcoding - Hello World - Part 5](https://scriptdotsh.com/index.php/2018/07/29/hello-world/)
-
-[Assembly Language Programming and Shellcoding - Important Functions - Part 6](https://scriptdotsh.com/index.php/2018/10/12/rot1/)
-
-[Assembly Language Programming and Shellcoding – Important Functions – Part 7](https://scriptdotsh.com/index.php/2018/10/26/rot2/)
-
-[A crash course in x86 Assembly](https://x89k.tk/reverse%20engineering%20basics/2018/06/14/reb3.html)
-
 [Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 </dl>
-
-
-
-
 
 ### Linux RE - 64bit
 
 <dl>
 
-[Part 1 - Reverse Engineering Basics - Linux x64](https://scriptdotsh.com/index.php/2018/04/09/ground-zero-part-1-reverse-engineering-basics/)
-
-[Part 1-2 – Reverse Engineering Password Protected Reverse Shells – Linux x64](https://scriptdotsh.com/index.php/2018/07/26/ground-zero-part-1-2-reverse-engineering-password-protected-reverse-shells-linux-x64/)
-
-[Part 3 - Reverse Engineering Basics - Linux on ARM64](https://scriptdotsh.com/index.php/2018/04/26/ground-zero-part-3-reverse-engineering-basics-linux-on-arm64/)
-
-[Part 3-2 - Reverse Engineering - Patching Binaries with Radare2 - ARM64 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/08/13/reverse-engineering-patching-binaries-with-radare2-arm-aarch64/)
-
 </dl>
-
-
-
-
 
 ### Windows RE - 64bit
 
 <dl>
 
-[Part 2 - Reverse Engineering Basics - Windows x64 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/04/16/ground-zero-part-2-reverse-engineering-basics/)
-
-[Part 2-2 – Reverse Engineering – XOR encryption – Windows x64 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/05/09/ground-zero-part-2-2-reverse-engineering-xor-encryption-windows-x64/)
-
-[Part 2-3 – Reverse Engineering – Building Cracked Binaries – Windows x64 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/06/09/ground-zero-part-2-3-reverse-engineering-building-cracked-binaries-windows-x64/)
-
 </dl>
-
-
-
-
 
 ### Wargames
 
@@ -3120,7 +2585,7 @@ Bookmarks
 
 [Blizzard CTF 2017 – The LichKing Reverse Engineering challenge walkthrough | Shortjump!](http://0xeb.net/2018/02/blizzard-ctf-2017-the-lichking-reverse-engineering-challenge-walkthrough/)
 
-[Beginner RE Resources](https://github.com/the-akira/computer_science_web_resources/blob/master/db/reverse_engineering.md)
+[Beginner Reverse Engineering Resources](https://github.com/the-akira/computer_science_web_resources/blob/master/db/reverse_engineering.md)
 
 [[Tutorial] An example of reversing an undocumented game file format](https://www.unknowncheats.me/forum/general-programming-and-reversing/332048-example-reversing-undocumented-game-file-format.html)
 
@@ -3128,15 +2593,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Debugging
 
 <dl>
-
-
 
 ### GDB - Debugger
 
