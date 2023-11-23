@@ -2601,8 +2601,6 @@ Bookmarks
 
 <dl>
 
-
-
 ### Record and Replay
 
 <dl>
@@ -2659,8 +2657,6 @@ Bookmarks
 
 [PEDA Slides](http://ropshell.com/peda/Linux_Interactive_Exploit_Development_with_GDB_and_PEDA_Slides.pdf)
 
-[Multi-Architecture GDB Enhanced Features for Exploiters & Reverse-Engineers: GEF](https://n0where.net/multi-architecture-gdb-enhanced-features-for-exploiters-reverse-engineers-gef)
-
 [GNU Debugger Tutorial](http://www.tutorialspoint.com/gnu_debugger)
 
 [Guide to Faster, Less Frustrating Debugging](http://heather.cs.ucdavis.edu/~matloff/UnixAndC/CLanguage/Debug.html)
@@ -2670,8 +2666,6 @@ Bookmarks
 [Georgia Tech - Debugging with GDB](https://sourceware.org/gdb/onlinedocs/gdb/)
 
 [Using GDB to Develop Exploits - A Basic Run Through](https://www.exploit-db.com/papers/13205)
-
-[Home - GEF - GDB Enhanced Features documentation](https://gef.readthedocs.io/en/master/)
 
 [gdb-refcard.pdf](https://www.cs.princeton.edu/courses/archive/fall16/cos432/hw2/gdb-refcard.pdf)
 
@@ -2685,15 +2679,9 @@ Bookmarks
 
 [Debugging C/C++ Programs Remotely Using Visual Studio Code and gdbserver](https://medium.com/@spe_/debugging-c-c-programs-remotely-using-visual-studio-code-and-gdbserver-559d3434fb78)
 
-[Awesome GDB](https://blahcat.github.io/slides/ruxmon-2016-08-gef/?print-pdf#/)
-
 [Debugging with GDB - Set Breaks](https://ftp.gnu.org/old-gnu/Manuals/gdb/html_node/gdb_28.html)
 
 </dl>
-
-
-
-
 
 ### x64dbg - Debugger
 
@@ -2711,10 +2699,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Windbg - Windows Debugger
 
 <dl>
@@ -2725,21 +2709,11 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Immunity Debugger
 
 <dl>
 
-[Immunity Debugger Downloads / Downloads - Tuts 4 You](https://tuts4you.com/download.php?list.72)
-
 </dl>
-
-
-
-
 
 ### OllyDbg - Debugger
 
@@ -2753,8 +2727,6 @@ Bookmarks
 
 </dl>
 
-
-
 [rr: lightweight recording & deterministic debugging](https://rr-project.org/)
 
 [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com/)
@@ -2762,8 +2734,6 @@ Bookmarks
 [Introduction to Debuggers](https://www.slideshare.net/saumilshah/introduction-to-debuggers)
 
 [Debugging with PTrace](http://www.secretmango.com/jimb/Whitepapers/ptrace/ptrace.html)
-
-
 
 ### Anti-Debug Stuff
 
@@ -2773,25 +2743,15 @@ Bookmarks
 
 </dl>
 
-
-
 </dl>
-
-
-
-
 
 ### Tools (Disassemblers/Decompilers/Hex Editors)
 
 <dl>
 
-
-
 ### GHIDRA - Static Analysis - Disassembler/Decompiler
 
 <dl>
-
-
 
 ### Ghidra Plugins
 
@@ -2807,13 +2767,9 @@ Bookmarks
 
 </dl>
 
-
-
 [GitHub - NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 [Ghidra](https://ghidra-sre.org/)
-
-[Ghidra](https://www.nsa.gov/resources/everyone/ghidra/)
 
 [Ghidra Cheat Sheet](https://ghidra-sre.org/CheatSheet.html)
 
@@ -2829,10 +2785,6 @@ Bookmarks
 
 [Ghidra Plugin Development for Vulnerability Research - Part-1 — Somerset Recon](https://www.somersetrecon.com/blog/2019/ghidra-plugin-development-for-vulnerability-research-part-1)
 
-[decompiler: Decompiler Analysis Engine](https://ghidra-decompiler-docs.netlify.com/)
-
-[Ghidra RSA Presentation](https://www.youtube.com/watch?v=BxMGfcxQfwk&feature=youtu.be)
-
 [Ghidra Ninja - YouTube](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 
 [Using NSA's Ghidra to make a keyboard backlight match in-game graphics of SuperHexagon : programming](https://www.reddit.com/r/programming/comments/bbqg1b/using_nsas_ghidra_to_make_a_keyboard_backlight/)
@@ -2841,11 +2793,7 @@ Bookmarks
 
 [Working With Ghidra's P-Code To Identify Vulnerable Function Calls - River Loop Security](https://www.riverloopsecurity.com/blog/2019/05/pcode/)
 
-[Online Courses – Ghidra](https://ghidra.re/online-courses/)
-
 [A Vagrantfile for provisioning a VM with Ghidra and X11 forwarding enabled.](https://gist.github.com/nathanqthai/668f09adbc4b10da600aeaad66b108e9)
-
-
 
 ### SLEIGH
 
@@ -2853,17 +2801,9 @@ Bookmarks
 
 [decompiler: SLEIGH](https://ghidra-decompiler-docs.netlify.com/sleigh.html)
 
-[SLEIGH](https://ghidra.re/courses/languages/html/sleigh.html)
-
 </dl>
 
-
-
 </dl>
-
-
-
-
 
 ### IDA Pro/HexRays - Static Analysis - Disassembler/Decompiler
 
@@ -2873,8 +2813,6 @@ Bookmarks
 
 [Reversing Basics - A Practical Approach Using IDA Pro | www.SecurityXploded.com](http://securityxploded.com/reversing-basics-ida-pro.php)
 
-[ida pro tutorial for beginners - Google Search](https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1AVNE_enUS658US663&ion=1&espv=2&ie=UTF-8#q=ida%20pro%20tutorial%20for%20beginners)
-
 [Basic Dynamic Analysis with IDA Pro and WinDBG - YouTube](https://www.youtube.com/watch?v=_ACDiW2I4ns)
 
 [GitHub - patois/IDACyber: Data Visualization Plugin for IDA Pro](https://github.com/patois/IDACyber)
@@ -2882,12 +2820,6 @@ Bookmarks
 [Real-world Decompilation with IDA Pro - Part 1: Introduction - YouTube](https://www.youtube.com/watch?v=vb18UVF4a_o)
 
 [Real-world Decompilation with IDA Pro - Part 2: String Handling - YouTube](https://www.youtube.com/watch?v=tVvYsFStPTc)
-
-[IDA series, part 2: debugging a .NET executable](https://qmemcpy.github.io/post/ida-series-2-debugging-net)
-
-[IDA series, part 1: the Hex-Rays decompiler](https://qmemcpy.github.io/post/ida-series-1-hex-rays)
-
-[Marco Ramilli's Blog: How to Patch Binary with IDA Pro](http://marcoramilli.blogspot.com/2011/01/how-to-patch-binary-with-ida-pro.html)
 
 [daniel_plohmann / simpliFiRE.IDAscope — Bitbucket](https://bitbucket.org/daniel_plohmann/simplifire.idascope)
 
@@ -2899,27 +2831,15 @@ Bookmarks
 
 [Binary Cracking & Byte Patching with IDA Pro - CodeProject](https://www.codeproject.com/Articles/833955/Binary-Cracking-Byte-Patching-with-IDA-Pro)
 
-[Free IDA Pro Reverse Code Engineering and Binary Auditing Training Material for University Lectures](http://www.binary-auditing.com/)
-
 [Using Z3 with IDA to simplify arithmetic operations in functions | Shortjump!](http://0xeb.net/2018/03/using-z3-with-ida-to-simplify-arithmetic-operations-in-functions/)
 
 [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and ... - James Forshaw - Google Books](https://books.google.com/books?id=kLgrDwAAQBAJ&pg=PT215&lpg=PT215&dq=how+to+find+debug+symbol+file+when+reverse+engineering&source=bl&ots=PWvn1aBqJi&sig=sgBk9yoWfZOqDaScAXEBnv16IXI&hl=en&sa=X&ved=0ahUKEwiXmKm3lpfcAhVyg-AKHTRsA64Q6AEIVTAE#v=onepage&q=how%20to%20find%20debug%20symbol%20file%20when%20reverse%20engineering&f=false)
 
-[TiGa's Video Tutorial Site](http://www.woodmann.com/TiGa/idaseries.html)
-
 [RE for Beginners | Short Intro to IDA](https://www.begin.re/short-intro-to-ida)
-
-[IDA Shortcuts [PDF]](file:///home/emtuls/Downloads/IDA_Pro_Shortcuts.pdf)
 
 [IDA Pro Malware Analysis Tips - YouTube](https://www.youtube.com/watch?v=qCQRKLaz2nQ)
 
-[TiGa Tuts - IDA Pro Disassembler & Debugger - Tuts 4 You](https://tuts4you.com/download/category/67//)
-
 </dl>
-
-
-
-
 
 ### Binary Ninja - Static Analysis - Disassembler/Decompiler
 
@@ -2929,19 +2849,11 @@ Bookmarks
 
 [GitHub - ColdHeat/liil: Linear IL view for Binary Ninja](https://github.com/ColdHeat/liil)
 
-[Binary Ninja](https://www.trailofbits.com/research-and-development/binja/)
-
 [2000 cuts with Binary Ninja | Trail of Bits Blog](https://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja/)
 
 [binary ninja Defcon 2017](https://blog.trailofbits.com/2017/07/30/an-extra-bit-of-analysis-for-clemency/)
 
-[De-obfuscating Jump Chains with Binary Ninja - This is Security :: by Stormshield](https://thisissecurity.stormshield.com/2018/03/20/de-obfuscating-jump-chains-with-binary-ninja/)
-
 </dl>
-
-
-
-
 
 ### Radare2 - Static Analysis - Disassembler/Decompiler
 
@@ -2971,8 +2883,6 @@ Bookmarks
 
 [Crackme0x07 Dissected with Radare2 - MOVEAX.ME](https://moveax.me/crackme0x07/)
 
-[Crackme0x08 Dissected with Radare2 - MOVEAX.ME](https://moveax.me/crackme0x08/)
-
 [Debugging Using Radare2… and Windows! – Jacob Pimental – Medium](https://medium.com/@jacob16682/debugging-using-radare2-and-windows-5e58677bf943)
 
 [Crackme0x09 Dissected with Radare2 - MOVEAX.ME](https://moveax.me/crackme0x09/)
@@ -2982,8 +2892,6 @@ Bookmarks
 [Reverse engineering a Gameboy ROM with radare2 – Megabeets](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2/)
 
 [BombLab Dissected with Radare2 - MOVEAX.ME](https://moveax.me/bomblab/)
-
-[Dr Von Noizeman's Nuclear Bomb defused with Radare2 - MOVEAX.ME](https://moveax.me/dr-von-noizemans-binary-bomb/)
 
 [Crackme0x01 Dissected with Radare2 - MOVEAX.ME](https://moveax.me/crackme0x01/)
 
@@ -2995,15 +2903,9 @@ Bookmarks
 
 [radareorg/radeco: radare decompiler tool based on radeco-lib](https://github.com/radareorg/radeco)
 
-[radareorg/cutter: A Qt and C++ GUI for radare2 reverse engineering framework](https://github.com/radareorg/cutter)
-
 [A journey into Radare 2 – Part 1: Simple crackme – Megabeets](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
 
 </dl>
-
-
-
-
 
 ### Hopper - Linux and MacOS Disassembler/Decompiler
 
@@ -3012,10 +2914,6 @@ Bookmarks
 [Hopper - Linux and MacOS Disassembler](https://www.hopperapp.com/)
 
 </dl>
-
-
-
-
 
 ### Hex Editors
 
@@ -3027,10 +2925,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Angr - static and dynamic symbolic ("concolic") binary analysis
 
 <dl>
@@ -3041,10 +2935,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### dnSpy (RE tool for .NET)
 
 <dl>
@@ -3052,8 +2942,6 @@ Bookmarks
 [dnSpy: .NET decompiler, debugger and assembly editor](https://github.com/0xd4d/dnSpy)
 
 </dl>
-
-
 
 [Compiler Explorer - Programming Language to Assembler Converter](http://godbolt.org/)
 
@@ -3067,21 +2955,13 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Assembly Language Stuff
 
 <dl>
 
-
-
 ### Intel x86/64
 
 <dl>
-
-
 
 ### Open Security Training
 
@@ -3094,8 +2974,6 @@ Bookmarks
 [Open Security Training - Intermediate X86](http://opensecuritytraining.info/IntermediateX86.html)
 
 </dl>
-
-
 
 [WORTH READING - x86 Disassembly.pdf](https://www.csee.umbc.edu/courses/undergraduate/CMSC491malware/x86%20Disassembly.pdf)
 
@@ -3113,8 +2991,6 @@ Bookmarks
 
 [x86 Disassembly - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/X86_Disassembly)
 
-[Assembly x86 Emulator](https://carlosrafaelgn.com.br/asm86/)
-
 [xorpd | xchg rax,rax](https://www.xorpd.net/pages/xchg_rax/snip_00.html)
 
 [jasmin download | SourceForge.net](https://sourceforge.net/projects/tum-jasmin/)
@@ -3129,10 +3005,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### ARM
 
 <dl>
@@ -3145,13 +3017,7 @@ Bookmarks
 
 [Azeria Arm Exploit Slides](https://azeria-labs.com/downloads/Slides-SAS_final.pdf)
 
-[Online Arm Assembler by Azeria Labs](https://azm.azerialabs.com/)
-
 </dl>
-
-
-
-
 
 ### MIPS
 
@@ -3161,8 +3027,6 @@ Bookmarks
 
 </dl>
 
-
-
 [When and how to use an assembler. Assembly programming basics.](https://www.pelock.com/articles/when-and-how-to-use-an-assembler-assembly-programming-basics)
 
 [Assembly Programming Exercises](https://github.com/blankwall/asm_prog_ex)
@@ -3171,15 +3035,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Calling Conventions
 
 <dl>
-
-
 
 ### Good Resources
 
@@ -3188,8 +3046,6 @@ Bookmarks
 [Stack frame layout on x86-64 - Eli Bendersky's website](https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64)
 
 </dl>
-
-
 
 [WORTH READING - x86 Disassembly.pdf](https://www.csee.umbc.edu/courses/undergraduate/CMSC491malware/x86%20Disassembly.pdf)
 
@@ -3207,15 +3063,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### File Format/Protocol Stuff
 
 <dl>
-
-
 
 ### File Formats
 
@@ -3229,8 +3079,6 @@ Bookmarks
 
 [The 101 of ELF files on Linux: Understanding and Analysis - Linux Audit](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
 
-
-
 ### ELF Stuff
 
 <dl>
@@ -3241,9 +3089,9 @@ Bookmarks
 
 [GitHub - 0xM3R/cgPwn: A lightweight VM for hardware hacking, RE (fuzzing, symEx, exploiting etc) and wargaming tasks](https://github.com/0xM3R/cgPwn)
 
-[BinExp/README.md at master · r0hi7/BinExp](https://github.com/r0hi7/BinExp/blob/master/Lecture1/README.md)
+[BinExp - Lecture 1: Understanding Memories at master · r0hi7/BinExp](https://github.com/r0hi7/BinExp/blob/master/Lecture1/README.md)
 
-[BinExp/README.md at master · r0hi7/BinExp](https://github.com/r0hi7/BinExp/blob/master/Lecture2/README.md)
+[BinExp - Lecture 2: Stack Overflows at master · r0hi7/BinExp](https://github.com/r0hi7/BinExp/blob/master/Lecture2/README.md)
 
 [Anatomy of a Program in Memory | Many But Finite](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
 
@@ -3251,11 +3099,7 @@ Bookmarks
 
 </dl>
 
-
-
 </dl>
-
-
 
 [ELF Tools](http://wiki.yobi.be/wiki/Reverse-Engineering#ELF)
 
@@ -3265,29 +3109,17 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Data Structures
 
 <dl>
 
-[Automatic Reverse Engineering of Data Structures from Binary Execution [PDF]](https://www.isoc.org/isoc/conferences/ndss/10/pdf/23.pdf)
-
 [Digging For Data Structures [PDF]](http://ben.ransford.org/srg/papers/cozzie--digging.pdf)
 
-[TIE: Principled Reverse Engineering of Types in Binary Programs [PDF]](https://reverse.put.as/wp-content/uploads/2011/06/D1T2-Mark-Dowd-Tarjei-Mandt-iOS6-Security.pdf)
+[iOS 6 Kernel Security: A Hacker's Guide - Azimuth Security - PDF](https://reverse.put.as/wp-content/uploads/2011/06/D1T2-Mark-Dowd-Tarjei-Mandt-iOS6-Security.pdf)
 
 [MemPick: High-Level Data Structure Detection in C/C++ Binaries [PDF]](http://www.cs.vu.nl/~herbertb/papers/mempick_wcre13.pdf)
 
-[Howard: a dynamic excavator for reverse engineering data structures [PDF]](http://www.isoc.org/isoc/conferences/ndss/11/pdf/5_1.pdf)
-
 </dl>
-
-
-
-
 
 ### Windows Stuff
 
@@ -3295,15 +3127,11 @@ Bookmarks
 
 [Windows API Index (Windows)](https://msdn.microsoft.com/en-us/library/windows/desktop/ff818516(v=vs.85).aspx)
 
-[.NET Reverse Enginering - Part 1 – CodePool – Programming and a bit more](http://codepool.me/NET-Reverse-Enginering-Part-1/)
-
 [Getting Started with Windows Debugging - Windows 10 hardware dev](https://msdn.microsoft.com/en-us/library/mt219729.aspx)
 
 [WinDbg](http://www.windbg.org/)
 
 [Debug Universal Drivers - Step by Step Lab (Echo Kernel-Mode) - Windows 10 hardware dev](https://msdn.microsoft.com/en-us/library/mt269367.aspx)
-
-[Exploring Windows virtual memory management](http://www.triplefault.io/2017/08/exploring-windows-virtual-memory.html)
 
 [An In-Depth Look into the Win32 Portable Executable File Format - Part 1 - DelphiBasics](http://www.delphibasics.info/home/delphibasicsarticles/anin-depthlookintothewin32portableexecutablefileformat-part1)
 
@@ -3311,7 +3139,7 @@ Bookmarks
 
 [Visual Studio Documentation | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/)
 
-[An Introduction to Windows Kernel Debugging | Endgame](https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging)
+[Introducting Elastic Endpoint Security - An Introduction to Windows Kernel Debugging | Endgame](https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging)
 
 [ReactOS (open source Windows remake)](https://doxygen.reactos.org/)
 
@@ -3319,13 +3147,7 @@ Bookmarks
 
 [Terminus Project](http://terminus.rewolf.pl/terminus/)
 
-[CVE-2019-8372: Local Privilege Elevation in LG Kernel Driver - @Jackson_T](http://jackson-t.ca/lg-driver-lpe.html)
-
 </dl>
-
-
-
-
 
 ### Linux OS Stuff
 
@@ -3335,15 +3157,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Mobile Phones
 
 <dl>
-
-
 
 ### iOS
 
@@ -3355,25 +3171,15 @@ Bookmarks
 
 </dl>
 
-
-
 </dl>
-
-
-
-
 
 ### Malware Analysis
 
 <dl>
 
-
-
 ### VM's and Environments for Malware Analysis
 
 <dl>
-
-
 
 ### Apple (MacOS)
 
@@ -3383,29 +3189,17 @@ Bookmarks
 
 </dl>
 
-
-
-[Malware Unicorn Environment VM's](https://securedorg.github.io/RE101/section1/)
-
-[SIFT Workstation Download](https://digital-forensics.sans.org/community/downloads)
-
 [Creating a Simple Free Malware Analysis Environment - MalwareTech](https://www.malwaretech.com/2017/11/creating-a-simple-free-malware-analysis-environment.html)
 
 [Creating the Ultimate Tor Virtual Network - MalwareTech](https://www.malwaretech.com/2015/08/creating-ultimate-tor-virtual-network.html)
 
 [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/)
 
-[Official Documentation — Viper 2.0-dev documentation](https://viper.li/en/latest/)
-
 [phoenix: Cuckoo Sandbox is an automated dynamic malware analysis system](https://github.com/SparkITSolutions/phoenix)
 
 [Cuckoo Sandbox - Automated Malware Analysis](https://cuckoosandbox.org/)
 
 </dl>
-
-
-
-
 
 ### Intro Courses for Malware Analysis
 
@@ -3442,10 +3236,6 @@ Bookmarks
 [The Beginner Malware Analysis Course + VirusBay Access](https://0verfl0w.podia.com/beginner-analysis-course-vb-access)
 
 </dl>
-
-
-
-
 
 ### Tools for Malware Analysis
 
