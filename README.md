@@ -3205,17 +3205,9 @@ Bookmarks
 
 <dl>
 
-[RPISEC - Malware Analysis 2013](http://security.cs.rpi.edu/courses/malware-spring2013/)
-
 [RPISEC - Malware Analysis 2015](https://github.com/RPISEC/Malware)
 
-[Malware Unicorn 101](https://securedorg.github.io/RE101/)
-
-[Malware Unicorn 102](https://securedorg.github.io/RE102/)
-
 [Intro to RE/Malware Analysis](https://www.youtube.com/watch?feature=youtu.be&v=-Ml04jPMH3U&app=desktop)
-
-[RPISEC INTROSEC](https://introsec.backdrifting.net/lectures/2017fall/08_creepy_crawlies.html#1)
 
 [Open Security Training - Reverse Engineering Malware](http://opensecuritytraining.info/ReverseEngineeringMalware.html)
 
@@ -3263,10 +3255,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Books
 
 <dl>
@@ -3276,10 +3264,6 @@ Bookmarks
 [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.amazon.com/gp/product/0470613033/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=s4comecom20-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0470613033&linkId=9d2a92127a925e343dca0bc51da20c62)
 
 </dl>
-
-
-
-
 
 ### Videos to learn from
 
@@ -3299,10 +3283,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Challenges
 
 <dl>
@@ -3310,10 +3290,6 @@ Bookmarks
 [Beginner Malware Reversing Challenges - MalwareTech](https://www.malwaretech.com/beginner-malware-reversing-challenges)
 
 </dl>
-
-
-
-
 
 ### Encryption in Malware
 
@@ -3323,17 +3299,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Cheatsheets and Tips
 
 <dl>
-
-[SANS Malware Tips](https://digital-forensics.sans.org/media/SANS_Poster_2018_Hunt_Evil_FINAL.pdf)
-
-[malwaretech Cheatsheet.rtf](http://www.malwaretech.com/Cheatsheet.rtf)
 
 [GitHub - corkami/docs: documentations, slides decks...](https://github.com/corkami/docs)
 
@@ -3345,23 +3313,13 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### MalwareTech
 
 <dl>
 
 [MalwareTech - Guides to Reversing Malware](https://www.malwaretech.com/tag/malware)
 
-[MalwareTechBlog - Beginner Reverse Engineering - Twitch](https://www.twitch.tv/videos/325654484)
-
 </dl>
-
-
-
-
 
 ### Malware Samples
 
@@ -3377,23 +3335,15 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Indicators Of Compromise Searching
 
 <dl>
-
-[Malware Domain List](http://www.malwaredomainlist.com/mdl.php)
 
 [Malware-Traffic-Analysis.net](http://www.malware-traffic-analysis.net/index.html)
 
 [AutoFocus Intelligence Summary](https://docs.paloaltonetworks.com/pan-os/8-0/pan-os-admin/threat-prevention/learn-more-about-and-assess-threats/assess-firewall-artifacts-with-autofocus/autofocus-intelligence-summary)
 
 </dl>
-
-
 
 [A curated list of malware analysis tools and resources.](https://github.com/rshipp/awesome-malware-analysis#readme)
 
@@ -3405,39 +3355,25 @@ Bookmarks
 
 [ANY.RUN - Interactive Online Malware Sandbox](https://any.run/)
 
-
-
 ### Anti-Debugging Techniques
 
 <dl>
-
-
 
 ### Windows
 
 <dl>
 
-[Anti-debugging Techniques Cheat Sheet - 0xAA - Random notes on security](http://antukh.com/blog/2015/01/19/malware-techniques-cheat-sheet/)
-
 [Windows Anti-Debug Reference | Symantec Connect Community](https://www.symantec.com/connect/articles/windows-anti-debug-reference)
 
 </dl>
 
-
-
 </dl>
-
-
 
 [Macro Malware Analysis](https://spreadsecurity.github.io/2016/08/14/macro-malware-analysis.html)
 
 [rshipp/awesome-malware-analysis: A curated list of awesome malware analysis tools and resources.](https://github.com/rshipp/awesome-malware-analysis)
 
 </dl>
-
-
-
-
 
 ### Software Cracking
 
@@ -3455,15 +3391,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Game Hacking
 
 <dl>
-
-
 
 ### PwnAdventure
 
@@ -3480,8 +3410,6 @@ Bookmarks
 [Pwn Adventure 3: Pwnie Island](http://www.pwnadventure.com/)
 
 </dl>
-
-
 
 [Intro to Game Hacking](https://drewkestell.us/)
 
@@ -3507,10 +3435,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Crypto
 
 <dl>
@@ -3527,8 +3451,6 @@ Bookmarks
 
 </dl>
 
-
-
 [Statically Rewriting x86 Binaries Without Heuristics (Paper and GitHub Sources) - ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/comments/8ivhcd/statically_rewriting_x86_binaries_without/)
 
 [Rewriting Functions in Compiled Binaries | Trail of Bits Blog](https://blog.trailofbits.com/2019/09/02/rewriting-functions-in-compiled-binaries/)
@@ -3539,15 +3461,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Comp Eng/Hardware/Embedded Systems Hacking
 
 <dl>
-
-
 
 ### Books and Research Papers
 
@@ -3565,31 +3481,17 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Courses
 
 <dl>
 
 [Hardware Security | Coursera](https://www.coursera.org/learn/hardware-security)
 
-[RPI - Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
-
 [nand2tetris](https://www.nand2tetris.org/)
-
-[Simple CPU v1](http://www.simplecpudesign.com/simple_cpu_v1/index.html)
 
 [GT - Embedded Systems](https://www.udacity.com/course/embedded-systems--ud169)
 
-[Hacking USB on the Cheap with USB-Tools](https://mini.usbc.tf/)
-
 </dl>
-
-
-
-
 
 ### Computer Engineering Stuff
 
@@ -3601,13 +3503,7 @@ Bookmarks
 
 [Learning FPGA And Verilog A Beginner’s Guide Part 1 – Introduction | Numato Lab Help Center](https://numato.com/kb/learning-fpga-verilog-beginners-guide-part-1-introduction/)
 
-[Mojo V3 | Alchitry](https://alchitry.com/collections/all/products/mojo-v3)
-
-[Verilog | Alchitry](https://alchitry.com/pages/verilog)
-
 [Game for Hardware Design - Robot Odyssey Rewired](https://www.robotodyssey.online/)
-
-[Icarus Verilog](http://iverilog.icarus.com/)
 
 [GTKWave](http://gtkwave.sourceforge.net/)
 
@@ -3616,10 +3512,6 @@ Bookmarks
 [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
 
 </dl>
-
-
-
-
 
 ### Videos to learn from
 
@@ -3641,21 +3533,11 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Tools to Use
 
 <dl>
 
 [The IoT Hacker's Toolkit · System Overlord](https://systemoverlord.com/2018/04/16/the-iot-hackers-toolkit.html)
-
-[Analog Discovery 2 - National Instruments](http://www.ni.com/en-us/shop/select/analog-discovery-2?skuId=162509)
-
-[Syonyk's Project Blog: DSO138 Scope, Acrylic Housing Assembly, and USB Power](https://syonyk.blogspot.com/2016/11/dso138-scope-acrylic-housing-assembly.html)
-
-[RFID Thief v2.0 - scund00r](https://scund00r.com/all/rfid/tutorial/2018/07/12/rfid-theif-v2.html)
 
 [newaetech/chipwhisperer: ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks](https://github.com/newaetech/chipwhisperer)
 
@@ -3671,21 +3553,11 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### JTAG
 
 <dl>
 
-[JTAG Explained (finally!): Why "IoT" Makers, Software Security Folks, and Device Manufacturers Should Care - Senrio](http://blog.senr.io/blog/jtag-explained)
-
 </dl>
-
-
-
-
 
 ### Lifting and Reversing Firmware
 
@@ -3717,10 +3589,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Reversing Integrated Circuits
 
 <dl>
@@ -3732,10 +3600,6 @@ Bookmarks
 [Universal asynchronous receiver-transmitter - Wikipedia](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
 
 </dl>
-
-
-
-
 
 ### Video Game Console Reversing
 
@@ -3757,10 +3621,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Reversing IoT Devices
 
 <dl>
@@ -3779,10 +3639,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Reversing Protocols
 
 <dl>
@@ -3790,8 +3646,6 @@ Bookmarks
 [Syonyk's Project Blog: Reverse Engineering the TEC-06 Serial Protocol](https://syonyk.blogspot.com/2018/01/reverse-engineering-tec-06-serial.html)
 
 </dl>
-
-
 
 [Hackaday | Fresh hacks every day](http://hackaday.com/)
 
@@ -3828,10 +3682,6 @@ Bookmarks
 [NAND Flash Data Recovery Cookbook](http://adreca.net/NAND-Flash-Data-Recovery-Cookbook.pdf)
 
 </dl>
-
-
-
-
 
 ### Vulnerability Research and Exploitation
 
