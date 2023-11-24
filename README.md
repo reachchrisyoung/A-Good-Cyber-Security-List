@@ -12,8 +12,6 @@ Bookmarks
 
 <dl>
 
-
-
 ### Amazing Resources For Learning
 
 <dl>
@@ -32,8 +30,6 @@ Bookmarks
 
 </dl>
 
-
-
 ### FSU Course
 
 <dl>
@@ -41,8 +37,6 @@ Bookmarks
 [Offensive Security 2013 - FSU - Lecture5: Reverse Engineering (x86) Workshop Day 1 - YouTube](https://www.youtube.com/watch?v=Pg8bmV9vcKg&feature=youtu.be)
 
 </dl>
-
-
 
 ### RPI Classes
 
@@ -53,7 +47,6 @@ Bookmarks
 [GitHub - RPISEC/Malware: Course materials for Malware Analysis by RPISEC](https://github.com/RPISEC/Malware)
 
 </dl>
-
 
 ### MIT OpenCourseWare
 
@@ -142,13 +135,9 @@ Bookmarks
 
 <dl>
 
-
-
 #### C Stuff
 
 <dl>
-
-
 
 #### GT Recommended
 
@@ -182,15 +171,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 #### Books and References
 
 <dl>
-
-
 
 ##### Translation Phases
 
@@ -203,10 +186,6 @@ Bookmarks
 [GCC Preprocessor Options](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html)
 
 </dl>
-
-
-
-
 
 ##### Style Things
 
@@ -232,8 +211,6 @@ Bookmarks
 
 [Learn C the Hard Way: Practical Exercises on the Computational Subjects You Keep Avoiding (Like C)](https://www.amazon.com/Learn-Hard-Way-Practical-Computational/dp/0321884922)
 
-
-
 ##### Coding Standards
 
 <dl>
@@ -241,10 +218,6 @@ Bookmarks
 [Intro to Coding Standards — Coding Rules and Guidelines | Perforce](https://www.perforce.com/resources/qac/coding-standards#important-c)
 
 </dl>
-
-
-
-
 
 ##### Other Useful Things
 
@@ -257,10 +230,6 @@ Bookmarks
 [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/)
 
 </dl>
-
-
-
-
 
 ##### Useful Tutorials and Tools
 
@@ -280,10 +249,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ##### Data Structures
 
 <dl>
@@ -292,10 +257,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ##### Embedded Programming
 
 <dl>
@@ -303,10 +264,6 @@ Bookmarks
 [Become an embedded programmer in 5 months - r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/a6hcbu/become_an_embedded_programmer_in_5_months/)
 
 </dl>
-
-
-
-
 
 ##### Pointer Stuff
 
@@ -317,10 +274,6 @@ Bookmarks
 [PointersAndMemory.pdf](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
 
 </dl>
-
-
-
-
 
 ##### Courses
 
@@ -336,8 +289,6 @@ Bookmarks
 
 </dl>
 
-
-
 [GitHub - fffaraz/awesome-cpp: A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.](https://github.com/fffaraz/awesome-cpp)
 
 [How Do I Declare A Function Pointer in C?](https://fuckingfunctionpointers.com/)
@@ -348,27 +299,17 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 #### C++ Stuff
 
 <dl>
-
-
 
 ##### Good Learning Material
 
 <dl>
 
-
-
 ##### Books
 
 <dl>
-
-
 
 ###### Beginner Books
 
@@ -381,10 +322,6 @@ Bookmarks
 [Recommended Intro Book for Prior Programmers: A Tour of C++](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=ZY920TA5XY0D0C8BD3A6)
 
 </dl>
-
-
-
-
 
 ###### Intermediate Books
 
@@ -404,10 +341,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ##### Courses
 
 <dl>
@@ -421,8 +354,6 @@ Bookmarks
 [C++ Tutorial for Complete Beginners | Udemy](https://www.udemy.com/free-learn-c-tutorial-beginners/)
 
 </dl>
-
-
 
 [Stroustrup: FAQ](http://www.stroustrup.com/bs_faq.html#learning)
 
@@ -438,8 +369,6 @@ Bookmarks
 
 [Storage Classes in C++](https://www.tutorialspoint.com/cplusplus/cpp_storage_classes.htm)
 
-
-
 #### Translation Phases
 
 <dl>
@@ -449,8 +378,6 @@ Bookmarks
 [The C++ Compilation Process](https://github.com/green7ea/cpp-compilation/blob/master/README.md)
 
 </dl>
-
-
 
 [C++ Tutorial Home - 2020](https://www.bogotobogo.com/cplusplus/cpptut.php)
 
@@ -464,15 +391,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ##### Best Practices
 
 <dl>
-
-
 
 ###### Pass By Reference vs Pass By Value
 
@@ -485,8 +406,6 @@ Bookmarks
 [Const Correctness, C++ FAQ](https://isocpp.org/wiki/faq/const-correctness)
 
 </dl>
-
-
 
 [The rule of three/five/zero - cppreference.com](https://en.cppreference.com/w/cpp/language/rule_of_three)
 
@@ -546,8 +465,6 @@ Bookmarks
 
 <dl>
 
-
-
 ###### Smart Pointers
 
 <dl>
@@ -570,8 +487,6 @@ Bookmarks
 
 </dl>
 
-
-
 [c++ - clearing a vector of pointers](https://stackoverflow.com/questions/12795196/clearing-a-vector-of-pointers)
 
 [Destructors (C++) | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/cpp/destructors-cpp?view=vs-2019&viewFallbackFrom=vs-2019%5C)
@@ -588,8 +503,6 @@ Bookmarks
 
 </dl>
 
-
-
 [GitHub - fffaraz/awesome-cpp: A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.](https://github.com/fffaraz/awesome-cpp)
 
 [Solve C++ | HackerRank](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=classes)
@@ -600,8 +513,6 @@ Bookmarks
 
 [Strong vs Weak References – Elliot Chance – Medium](https://medium.com/@elliotchance/strong-vs-weak-references-70356d37dfd2)
 
-
-
 ##### Solutions to Problems
 
 <dl>
@@ -610,19 +521,11 @@ Bookmarks
 
 </dl>
 
-
-
 </dl>
-
-
-
-
 
 #### Python
 
 <dl>
-
-
 
 ##### Courses
 
@@ -641,10 +544,6 @@ Bookmarks
 [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 
 </dl>
-
-
-
-
 
 ##### Videos To Learn From
 
@@ -671,10 +570,6 @@ Bookmarks
 [Python for Beginners - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 </dl>
-
-
-
-
 
 ##### Advanced Python Style/OOP Stuff
 
@@ -704,10 +599,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ##### Python Issue Fixes
 
 <dl>
@@ -720,10 +611,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ##### Useful Python things
 
 <dl>
@@ -733,10 +620,6 @@ Bookmarks
 [I made a threading guide for beginners. : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/btpol1/i_made_a_threading_guide_for_beginners/)
 
 </dl>
-
-
-
-
 
 ##### Numpy/SciPy
 
@@ -762,8 +645,6 @@ Bookmarks
 
 </dl>
 
-
-
 [CMU - The Pythonic Way [PDF]](https://www.cs.cmu.edu/~srini/15-441/F11/lectures/r04-python.pdf)
 
 [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
@@ -782,8 +663,6 @@ Bookmarks
 
 [How to use SimpleHTTPServer](https://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver/)
 
-
-
 ##### Profiling/Timing
 
 <dl>
@@ -796,8 +675,6 @@ Bookmarks
 
 [Python Tutorial: Python Home - 2020](https://www.bogotobogo.com/python/pytut.php)
 
-
-
 ##### Projects
 
 <dl>
@@ -805,10 +682,6 @@ Bookmarks
 [OrbitalArt/OrbitalArt.py at master · LAMagicx/OrbitalArt · GitHub](https://github.com/LAMagicx/OrbitalArt/blob/master/OrbitalArt.py)
 
 </dl>
-
-
-
-
 
 ##### Books
 
@@ -818,19 +691,11 @@ Bookmarks
 
 </dl>
 
-
-
 </dl>
-
-
-
-
 
 #### Java Stuff
 
 <dl>
-
-
 
 ##### Data Structures
 
@@ -1135,10 +1000,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Optimization
 
 <dl>
@@ -1151,21 +1012,13 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Refactoring, Object Oriented Programming, and Design Patterns
 
 <dl>
 
-
-
 ### Object Oriented Programming
 
 <dl>
-
-
 
 ### Books for OOP
 
@@ -1176,10 +1029,6 @@ Bookmarks
 [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-dp-0134757599/dp/0134757599/ref=mt_hardcover?_encoding=UTF8&me=&qid=)
 
 </dl>
-
-
-
-
 
 ### Videos for OOP
 
@@ -1192,10 +1041,6 @@ Bookmarks
 ["Uncle" Bob Martin - YouTube](https://www.youtube.com/watch?v=QHnLmvDxGTY)
 
 </dl>
-
-
-
-
 
 ### Courses for OOP
 
@@ -1211,8 +1056,6 @@ Bookmarks
 
 </dl>
 
-
-
 [Design Patterns | Object Oriented Design](https://www.oodesign.com/)
 
 [SOLID - Wikipedia](https://en.wikipedia.org/wiki/SOLID)
@@ -1227,10 +1070,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Design Patterns
 
 <dl>
@@ -1242,10 +1081,6 @@ Bookmarks
 [Head First Design Patterns Book](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
 </dl>
-
-
-
-
 
 ### Refactoring
 
@@ -1261,17 +1096,11 @@ Bookmarks
 
 </dl>
 
-
-
 [Notes on Data Structures and Programming Techniques (CPSC 223, Spring 2018)](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
 
 [MIT - Software Construction - How to write good code](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
 
 </dl>
-
-
-
-
 
 ### Pointer Stuff
 
@@ -1282,10 +1111,6 @@ Bookmarks
 [Chapter 22: Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
 
 </dl>
-
-
-
-
 
 ### User Programming References
 
@@ -1324,10 +1149,6 @@ Bookmarks
 [Code Review Stack Exchange](https://codereview.stackexchange.com/)
 
 </dl>
-
-
-
-
 
 ### Interview Stuff
 
@@ -6239,8 +6060,6 @@ Bookmarks
 
 [Downloads :: Andrew Griffiths' Exploit Education](https://exploit.education/downloads/)
 
-[OpenSSH Server](https://help.ubuntu.com/14.04/serverguide/openssh-server.html)
-
 [virtualbox - Is it possible to “SSH” into my virtual machine remotely? - Ask Ubuntu](https://askubuntu.com/questions/490872/is-it-possible-to-ssh-into-my-virtual-machine-remotely)
 
 [image - How can I convert a .img.xz file to .img to transfer it to my SDCard? - Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/30246/how-can-i-convert-a-img-xz-file-to-img-to-transfer-it-to-my-sdcard)
@@ -6303,10 +6122,6 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Hardware
 
 <dl>
@@ -6315,15 +6130,9 @@ Bookmarks
 
 [ASRock EP2C602-4L/D16 SSI EEB Server Motherboard Dual LGA 2011 Intel C602 DDR3 1866 / 1600 / 1333 / 1066 R / LR ECC and UDIMM - Newegg.com](https://www.newegg.com/Product/Product.aspx?Item=N82E16813157350)
 
-[SR0KX E5-2670 Xeon Intel 8 Core 2.60Ghz 20M 115W CPU /w Thermal - 670523-001 | eBay](https://www.ebay.com/itm/SR0KX-E5-2670-Xeon-Intel-8-Core-2-60Ghz-20M-115W-CPU-w-Thermal-670523-001/152722328653?hash=item238ef5cc4d:g:PRYAAOSwNnRYk1Z2:rk:2:pf:0)
-
 [Amazon.com: Intel E5-2670 2.60Ghz 20M Cache 8-Core 115W Processor SR0KX: Computers & Accessories](https://www.amazon.com/Intel-E5-2670-2-60Ghz-8-Core-Processor/dp/B007H29FRS)
 
 [Amazon.com: ASRock Motherboard ATX DDR3 1066 Intel LGA 2011 EP2C602-4L/D16: Computers & Accessories](https://www.amazon.com/gp/product/B00G9TZAIS/ref=as_li_tl?ie=UTF8&tag=liberty0f5-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00G9TZAIS&linkId=48544653eeea80c9f619797c6cb6008c)
-
-[Samsung 128GB (16 x 8GB) 2Rx4 PC3-10600R M393B1K70CHD-CH9 PowerEdge R710 | eBay](https://www.ebay.com/itm/Samsung-128GB-16-x-8GB-2Rx4-PC3-10600R-M393B1K70CHD-CH9-PowerEdge-R710/333020696306?_trkparms=aid%3D888007%26algo%3DDISC.MBE%26ao%3D1%26asc%3D55675%26meid%3Dc25386cee7c9453d9f0e52e0ae183730%26pid%3D100009%26rk%3D1%26rkt%3D1%26sd%3D351723853480%26itm%3D333020696306&_trksid=p2047675.c100009.m1982)
-
-[Cyber Range Build | Liberty](https://liberty-shell.com/sec/2019/02/03/lab-build/)
 
 [Amazon.com: Rosewill Gaming 80 Plus Bronze 850W Full Modular Power Supply/PSU, HIVE Series 850 Watt 80 Plus Bronze Certified PSU with Silent 135mm Fan and Auto Fan Speed Control, 3 Year Warranty: Computers & Accessories](https://www.amazon.com/gp/product/B00N2KAOW4/ref=as_li_tl?ie=UTF8&tag=liberty0f5-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00N2KAOW4&linkId=edfc166bf159f5f1a68d7ed9015673f4)
 
@@ -6332,8 +6141,6 @@ Bookmarks
 [Amazon.com: Cooler Master GeminII S524 Version 2 CPU Air Cooler with 5 Direct Contact Heat Pipes (RR-G5V2-20PK-R1): Computers & Accessories](https://www.amazon.com/dp/B00UOIK3FU/ref=emc_b_5_t)
 
 [Amazon.com: Cooler Master Hyper 212 Evo (RR-212E-20PK-R2) CPU Cooler with PWM Fan, Four Direct Contact Heat Pipes: Electronics](https://www.amazon.com/dp/B005O65JXI/ref=emc_b_5_t)
-
-[Amazon.com: Dell Precision T5500 Workstation Desktop PC Intel Xeon 12 Core 3.33GHz 72GB RAM 2TB Hard Drive NVIDIA Quadro K2000 Graphics Windows 10 Pro 64-bit: Computers & Accessories](https://www.amazon.com/Dell-Precision-T5500-Workstation-Graphics/dp/B07CHS7LMG/ref=olp_product_details?_encoding=UTF8&me=)
 
 [128GB (16x 8GB) 10600R ECC REG RAM MEMORY FOR DELL HP SERVERS | eBay](https://www.ebay.com/itm/128GB-16x-8GB-10600R-ECC-REG-RAM-MEMORY-FOR-DELL-HP-SERVERS/351723853480?hash=item51e46016a8:g:i3sAAOSwteFb9GjL:rk:2:pf:0)
 
@@ -6345,15 +6152,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### VM's/Virtualization Stuff
 
 <dl>
-
-
 
 ### Windows VMs
 
@@ -6361,15 +6162,9 @@ Bookmarks
 
 [Windows Server Free Trial | Microsoft](https://www.microsoft.com/en-us/cloud-platform/windows-server-trial)
 
-[Free Virtual Machines from IE8 to MS Edge - Microsoft Edge Development](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
-
 [Windows 10 App Dev VM](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines)
 
 </dl>
-
-
-
-
 
 ### Hyper-V
 
@@ -6382,8 +6177,6 @@ Bookmarks
 [How to create a Linux virtual machine on Windows 10 using Hyper-V](https://www.windowscentral.com/how-run-linux-distros-windows-10-using-hyper-v)
 
 </dl>
-
-
 
 [Installation Guide | Qubes OS](https://www.qubes-os.org/doc/installation-guide/)
 
@@ -6405,8 +6198,6 @@ Bookmarks
 
 </dl>
 
-
-
 [r/homelab](https://www.reddit.com/r/homelab/)
 
 [How to Set up an SSH Server on a Home Computer - DEV Community 👩‍💻👨‍💻](https://dev.to/zduey/how-to-set-up-an-ssh-server-on-a-home-computer)
@@ -6421,15 +6212,9 @@ Bookmarks
 
 [Setting Up A Penetration Testing Lab](https://kb.help.rapid7.com/docs/setting-up-a-penetration-testing-lab)
 
-[Infosec_Reference/Building A Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md)
-
 [Building a Home Lab for Offensive Security & Security Research · System Overlord](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html)
 
-[Building-Your-Own-Kickass-Home-Lab-Jeff-McJunkin.pdf](https://files.sans.org/summit/pen_test_hackfest_2016/PDFs/Building-Your-Own-Kickass-Home-Lab-Jeff-McJunkin.pdf)
-
 [My semi-humble homelab! : homelab](https://www.reddit.com/r/homelab/comments/91dedg/my_semihumble_homelab/)
-
-[Stumbled into /r/homelab? Start Here! : homelab](https://www.reddit.com/r/homelab/comments/5gz4yp/stumbled_into_rhomelab_start_here/)
 
 [software - homelab](https://www.reddit.com/r/homelab/wiki/software)
 
@@ -6438,8 +6223,6 @@ Bookmarks
 [resources - homelab](https://www.reddit.com/r/homelab/wiki/resources)
 
 [My actual "mini-lab" : homelab](https://www.reddit.com/r/homelab/comments/8d2g90/my_actual_minilab/)
-
-[UniFi Home Setup - Page 4 - Ubiquiti Networks Community](https://community.ubnt.com/t5/UniFi-Stories/UniFi-Home-Setup/cns-p/1973110/page/4#comments)
 
 [Saw this in /r/oddlysatisfying, thought some people here might find it useful : homelab](https://www.reddit.com/r/homelab/comments/664jj9/saw_this_in_roddlysatisfying_thought_some_people/)
 
@@ -6615,8 +6398,6 @@ Bookmarks
 
 [linux - How to turn off Wireless power management permanently - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/269661/how-to-turn-off-wireless-power-management-permanently)
 
-[How to Update Ubuntu Kernel - wikiHow](https://www.wikihow.com/Update-Ubuntu-Kernel)
-
 [wireless - Wifi Hard Blocked After Suspend in Ubuntu on GS65 - Ask Ubuntu](https://askubuntu.com/questions/1043547/wifi-hard-blocked-after-suspend-in-ubuntu-on-gs65)
 
 [SOLUTION: 18.04 MSI GS65 wifi hardware switch disabled after suspend - Ask Ubuntu](https://askubuntu.com/questions/1068054/18-04-msi-gs65-wifi-hardware-switch-disabled-after-suspend?noredirect=1&lq=1)
@@ -6639,8 +6420,6 @@ Bookmarks
 
 [How to Install Desktop Themes on Ubuntu 18.04 LTS](https://www.howtogeek.com/358049/how-to-install-desktop-themes-on-ubuntu-18.04-lts/)
 
-[How To Install Numix Theme And Icons In Ubuntu 18.04 | Omgfoss.com](http://omgfoss.com/install-numix-theme-icons-ubuntu-18-04/)
-
 [5 Of The Best Linux Desktop Themes Compared](https://www.devpy.me/5-of-the-best-linux-desktop-themes-compared/)
 
 [GitHub - arcticicestudio/nord: An arctic, north-bluish color palette.](https://github.com/arcticicestudio/nord)
@@ -6650,10 +6429,6 @@ Bookmarks
 [gnome - Why aren't my pictures appearing in the "pictures" section of the change wallpapers window? - Ask Ubuntu](https://askubuntu.com/questions/960601/why-arent-my-pictures-appearing-in-the-pictures-section-of-the-change-wallpap)
 
 </dl>
-
-
-
-
 
 ### Sonos on Linux
 
@@ -6671,10 +6446,6 @@ Bookmarks
 
 [Package missing 2](https://stackoverflow.com/questions/48944407/trouble-using-qml-material-design-qtquick-controls-material-is-not-installed/48998356#48998356)
 
-[Package Missing 3](https://github.com/webcamoid/webcamoid/issues/40#issuecomment-204985231)
-
-[Package Missing 4](https://packages.ubuntu.com/xenial/libs/qml-module-qt-labs-settings)
-
 [Package Missing 5](https://askubuntu.com/questions/450948/module-qtqml-models-is-not-installed)
 
 [mkchromecast: Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices](https://github.com/muammar/mkchromecast)
@@ -6685,11 +6456,7 @@ Bookmarks
 
 [How to stream from linux to Sonos | Sonos Community](https://en.community.sonos.com/advanced-setups-229000/how-to-stream-from-linux-to-sonos-6790670)
 
-[SonosTube](http://www.frontierapp.com/sonostube.html)
-
 </dl>
-
-
 
 [filesystem - How to make read-only file system writable?](https://askubuntu.com/questions/47538/how-to-make-read-only-file-system-writable)
 
@@ -6704,8 +6471,6 @@ Bookmarks
 [[SOLVED] Error: Unable to correct problems, you have held broken packages](https://ubuntuforums.org/showthread.php?t=2386369)
 
 [Install VMware Workstation or VMware Player from a .bundle file | Linuxlookup](http://www.linuxlookup.com/howto/install_vmware_workstation_or_vmware_player_bundle_file)
-
-[Could not get vmci driver version: The handle i... |VMware Communities](https://communities.vmware.com/thread/543606)
 
 [How to reinstall network manager without internet access? - Ask Ubuntu](https://askubuntu.com/questions/422928/how-to-reinstall-network-manager-without-internet-access)
 
@@ -6722,8 +6487,6 @@ Bookmarks
 [How to Install Deepin Desktop Environment on Ubuntu 18.04 - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2018/06/how-to-install-deepin-desktop-environment-on-ubuntu-18-04)
 
 [[ubuntu] How To: Setup DOD Common Access Card (CAC) for service portals](https://ubuntuforums.org/showthread.php?t=1221961)
-
-[Gnome Authentication Error When Logging in After Lock - Ask Fedora: Community Knowledge Base and Support Forum](https://ask.fedoraproject.org/en/question/115963/gnome-authentication-error-when-logging-in-after-lock/)
 
 [Is there any way to roll back the most recent upgrade? - Ask Ubuntu](https://askubuntu.com/questions/34888/is-there-any-way-to-roll-back-the-most-recent-upgrade)
 
@@ -6744,8 +6507,6 @@ Bookmarks
 ### Tmux
 
 <dl>
-
-[A Gentle Introduction to tmux – Hacker Noon](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
 
 [tmux/tmux: tmux source code](https://github.com/tmux/tmux)
 
@@ -6773,8 +6534,6 @@ Bookmarks
 
 [Process Killing](https://pbs.twimg.com/media/DcwearbXkAAnSzm.jpg:large)
 
-[Creating SSH keys - Atlassian Documentation](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
-
 [[SOLVED] merge pdf files with each file as a index entry in the big pdf](https://www.linuxquestions.org/questions/linux-general-1/merge-pdf-files-with-each-file-as-a-index-entry-in-the-big-pdf-4175453292/)
 
 [GouveaHeitor/nipe: Nipe is a script to make Tor Network your default gateway.](https://github.com/GouveaHeitor/nipe)
@@ -6787,10 +6546,6 @@ Bookmarks
 
 </dl>
 
-
-
-[20 Linux Command Tips and Tricks That Will Save You A Lot of Time - Tips and Tricks](http://www.tipsandtricks.ga/2018/10/20-linux-command-tips-and-tricks-that.html)
-
 [how to change hostname ubuntu - Google Search](https://www.google.com/search?client=ubuntu&hs=z4t&ei=JMEwXc7gDpH45gLolJLQCQ&q=how+to+change+hostname+ubuntu&oq=how+to+change+hostname+ubuntu&gs_l=psy-ab.3..0l3j0i7i10i30j0l2j0i8i7i10i30j0i30l2j0i5i30.3243.3816..4179...0.0..0.111.457.3j2......0....1..gws-wiz.......0i71j0i10j0i10i30j0i8i10i30.PRm7Jnc_rEo&ved=0ahUKEwjOgu34kr_jAhURvFkKHWiKBJoQ4dUDCAo&uact=5)
 
 [How to compress and extract files using tar command in Linux – Hostway Help Center](https://support.hostway.com/hc/en-us/articles/360000263544-How-to-compress-and-extract-files-using-tar-command-in-Linux)
@@ -6798,8 +6553,6 @@ Bookmarks
 [Home | Linux Journey](https://linuxjourney.com/)
 
 [Rosetta Stone for Unix](http://bhami.com/rosetta.html)
-
-[Courses - LPI Linux Essentials](https://linuxacademy.com/linux/training/course/name/lpi-linux-essentials)
 
 [Table of contents - ArchWiki](https://wiki.archlinux.org/index.php/Table_of_contents)
 
@@ -6851,13 +6604,7 @@ Bookmarks
 
 [Windows Subsystem for Linux 2 (WSL 2) Released to Insiders](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-2-wsl-2-released-to-insiders/)
 
-[The Windows Subsystem for Linux Guide! — Windows Subsystem for Linux Guide documentation](http://wsl-guide.org/en/latest/)
-
 </dl>
-
-
-
-
 
 ### Electrical Engineering and Math
 
@@ -6875,13 +6622,9 @@ Bookmarks
 
 
 
-
-
 ### Math Stuff
 
 <dl>
-
-
 
 ### Statistics
 
@@ -6893,15 +6636,9 @@ Bookmarks
 
 </dl>
 
-
-
 </dl>
 
-
-
 </dl>
-
-
 
 [/r/netsecstudents](https://www.reddit.com/r/netsecstudents/)
 
