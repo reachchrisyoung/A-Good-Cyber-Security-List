@@ -4853,8 +4853,6 @@ Bookmarks
 
 [OSCP Goldmine](http://0xc0ffee.io/blog/OSCP-Goldmine)
 
-[Prep guide for Offsec’s PWK – Tulpa Security](https://tulpa-security.com/2016/09/19/prep-guide-for-offsecs-pwk/)
-
 [tulpa-pwk-prep-guide1.pdf](https://tulpasecurity.files.wordpress.com/2016/09/tulpa-pwk-prep-guide1.pdf)
 
 [offsec_pdfs: your offsec knowledge](https://github.com/jivoi/offsec_pdfs)
@@ -4862,10 +4860,6 @@ Bookmarks
 [abatchy's blog | How to prepare for PWK/OSCP, a noob-friendly guide](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
 
 [Offensive Security Training and Professional Services](https://www.offensive-security.com/)
-
-[Offensive Security Certified Professional (OSCP) Study Guide Links & Material | Computer Security.org - CyberSecurity News, Information, Education, Certifications, Vulnerabilities and Guides](http://www.computersecurity.org/computer-cyber-security-certifications-education-college-courses/offensive-security-certified-professional-oscp-study-guide-links-material/)
-
-[Offensive Security – Godlike Security](http://godlikesecurity.com/index.php/tag/offensive-security/)
 
 [Free Advanced Penetration Testing Training Class from Cybrary](https://www.cybrary.it/course/advanced-penetration-testing/)
 
@@ -4878,8 +4872,6 @@ Bookmarks
 [A Detailed Guide on OSCP Preparation - From Newbie to OSCP - Checkmate](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 
 [xMilkPowderx/OSCP: OSCP cheet sheet](https://github.com/xMilkPowderx/OSCP)
-
-[x89k - OSCP survival guide](https://lduck11007.github.io/infosec/2018/11/03/oscpsurvivalguide.html)
 
 [Cheatsheet-God: Penetration Testing](https://github.com/OlivierLaflamme/Cheatsheet-God)
 
@@ -4903,11 +4895,7 @@ Bookmarks
 
 [Corelan Exploit Development Training](https://www.corelan-training.com/)
 
-[0x5 Course Review: Cracking The Perimeter (OSCE)](http://www.primalsecurity.net/course-review-osce/)
-
 [Cracking the Perimeter (CTP) + Offensive Security Certified Expert (OSCE)](https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/)
-
-[Course Review: Offensive Security AWE (Advanced Windows Exploitation) - EH-Net Online Mag](https://www.ethicalhacker.net/features/root/course-review-offensive-security-awe-advanced-windows-exploitation)
 
 [abatchy's blog: OSCE Study Plan](http://www.abatchy.com/2017/03/osce-study-plan.html?m=1)
 
@@ -4925,27 +4913,13 @@ Bookmarks
 
 <dl>
 
-[OSCP Review](http://netsec.ws/?p=398)
-
-[31 days of OSCP Experience - ScriptDotSh](https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/)
-
-[The OSCP: A Process Focused Review – Occult Sec](https://occultsec.com/2018/04/27/the-oscp-a-process-focused-review/)
-
 [www.techexams.net/forums/security-certifications/120656-osce-jollyfrogs-tale.html](http://www.techexams.net/forums/security-certifications/120656-osce-jollyfrogs-tale.html)
 
-[Zero to OSCP in 292 Days... or How I Accidentally the Whole Thing - Part 2](https://blog.mallardlabs.com/zero-to-oscp-in-292-days-or-how-i-accidentally-the-whole-thing-part-2/)
-
 [Check out my review of the OSCP!! Comes with recommendations on how you too can pass the OSCP! I Tried Harder!! Hope this helps! : netsecstudents](https://www.reddit.com/r/netsecstudents/comments/6m76h1/check_out_my_review_of_the_oscp_comes_with/)
-
-[Offensive Security Certified Professional (OSCP) Review - Jim Wilbur's Blog](https://www.jimwilbur.com/2017/07/oscp-review/)
-
-[Another OSCP Prep Review](https://areyou1or0.blogspot.com/2019/01/finally-oscp-may-force-be-with-you.html)
 
 [The Journey to Try Harder: TJNull’s Preparation Guide for PWK/OSCP | NetSec Focus](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)
 
 [Hakluke’s Ultimate OSCP Guide: Part 3 — Practical hacking tips and tricks](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
-
-[Passing OSCP - scund00r](https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html)
 
 </dl>
 
@@ -5025,8 +4999,6 @@ Bookmarks
 
 [Nmap: the Network Mapper - Free Security Scanner](https://nmap.org/)
 
-[NMAP CHEAT-SHEET](https://www.peerlyst.com/posts/nmap-cheat-sheet-sanyam-chawla?trk=search_page_search_result)
-
 [21y4d/nmapAutomator: A script that you can run in the background!](https://github.com/21y4d/nmapAutomator)
 
 </dl>
@@ -5038,8 +5010,6 @@ Bookmarks
 ### Subdomain/DNS Stuff
 
 <dl>
-
-[FindSubDomains.com — subdomains search service](https://findsubdomains.com/)
 
 [Sublist3r: Fast subdomains enumeration tool](https://github.com/aboul3la/Sublist3r)
 
@@ -5059,8 +5029,6 @@ Bookmarks
 
 [Gobuster: Directory/file & DNS busting tool written in Go](https://github.com/OJ/gobuster)
 
-[SANS - Foot Printing with WhoIS/DNS records](https://www.sans.org/reading-room/whitepapers/hackers/paper/956)
-
 [DNSdumpster.com - dns recon and research, find and lookup dns records](https://dnsdumpster.com/)
 
 [dnsrecon: DNS Enumeration Script](https://github.com/darkoperator/dnsrecon/)
@@ -5079,7 +5047,7 @@ Bookmarks
 
 [Google Dorks for finding Emails, Admin users etc.](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/)
 
-[Recon-ng — Bitbucket](https://bitbucket.org/LaNMaSteR53/recon-ng)
+[Recon-ng — Bitbucket](https://github.com/lanmaster53/recon-ng)
 
 [EnumerationVisualized Wiki](https://github.com/DigitalAftermath/EnumerationVisualized/wiki)
 
@@ -5087,17 +5055,7 @@ Bookmarks
 
 [Reconnoitre: A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.](https://github.com/codingo/Reconnoitre)
 
-[Search - Public Database Directory - Public DB Host](https://databases.today/search.php)
-
-[Penetration Testing Methodology - 0DAYsecurity.com](http://www.0daysecurity.com/penetration-testing/enumeration.html)
-
-[Recon Video List](https://davyrogers.uk/courses.html#Reconnaissance)
-
 [Find email addresses in seconds • Hunter (Email Hunter)](https://hunter.io/)
-
-[A Pentester's Guide - Part 1 (OSINT - Passive Recon and Discovery of Assets) | Sequoia](https://www.sequoiacybersolutions.com/a-pentesters-guide-part-1-osint-passive-recon-and-discovery-of-assets/)
-
-[We Leak Info - Data Breach Search Engine](https://search.weleakinfo.com/)
 
 [Tib3rius/AutoRecon: AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.](https://github.com/Tib3rius/AutoRecon)
 
@@ -5149,8 +5107,6 @@ Bookmarks
 
 [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
-[SQLite3 Injection Cheat Sheet](http://atta.cked.me/home/sqlite3injectioncheatsheet)
-
 [A collection of web attack payloads.](https://github.com/foospidy/payloads)
 
 [Useful payloads and bypass for Web App](https://github.com/swisskyrepo/PayloadsAllTheThings)
@@ -5159,15 +5115,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### 4\. Post Exploitation
 
 <dl>
-
-
 
 ### Hack Back
 
