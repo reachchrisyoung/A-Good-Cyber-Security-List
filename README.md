@@ -1142,9 +1142,9 @@ Bookmarks
 
 [Computer Programming/Standards and Best Practices - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Computer_Programming/Standards_and_Best_Practices)
 
-[Set (abstract data type) - Wikipedia](https://en.wikipedia.org/wiki/Set_(abstract_data_type))
+[Set (abstract data type) - Wikipedia](https://en.wikipedia.org/wiki/Set_(abstract_data_type)
 
-[Library (computing) - Wikipedia](https://en.wikipedia.org/wiki/Library_(computing))
+[Library (computing) - Wikipedia](https://en.wikipedia.org/wiki/Library_(computing)
 
 [Code Review Stack Exchange](https://codereview.stackexchange.com/)
 
