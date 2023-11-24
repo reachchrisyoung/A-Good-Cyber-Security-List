@@ -4303,11 +4303,7 @@ Bookmarks
 
 [funfuzz/src/funfuzz/js/jsfunfuzz at master · MozillaSecurity/funfuzz · GitHub](https://github.com/MozillaSecurity/funfuzz/tree/master/src/funfuzz/js/jsfunfuzz)
 
-[Csmith](https://embed.cs.utah.edu/csmith/)
-
 [issre13.pdf](http://www.cs.utah.edu/~regehr/papers/issre13.pdf)
-
-[The Art of Fuzzing – Slides and Demos | SEC Consult](https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html)
 
 [Automating Web Apps Input fuzzing via Burp Macros - SecureLayer7](http://blog.securelayer7.net/automating-web-apps-input-fuzzing-via-burp-macros/)
 
@@ -4331,8 +4327,6 @@ Bookmarks
 
 [RUB-SysSec/nautilus: a grammar based feedback fuzzer](https://github.com/RUB-SysSec/nautilus)
 
-[NDSS19-Nautilus.pdf](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2018/12/17/NDSS19-Nautilus.pdf)
-
 [ClusterFuzz - ClusterFuzz](https://google.github.io/clusterfuzz/)
 
 [TriforceAFL/limit_memory.sh at master · nccgroup/TriforceAFL · GitHub](https://github.com/nccgroup/TriforceAFL/blob/master/experimental/asan_cgroups/limit_memory.sh)
@@ -4346,8 +4340,6 @@ Bookmarks
 [libFuzzer – a library for coverage-guided fuzz testing. — LLVM 10 documentation](https://llvm.org/docs/LibFuzzer.html)
 
 [AFL-Qemu | fuzzing without source](https://www.google.com/search?q=AFL-Qemu&oq=AFL-Qemu&aqs=chrome..69i57&client=ubuntu&sourceid=chrome&ie=UTF-8)
-
-[Good Fuzzing Talk from Talos](https://talos-intelligence-site.s3.amazonaws.com/production/document_files/files/000/041/799/original/anikolic_covnavi_asiasecwest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIXACIED2SPMSC7GA%2F20190916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190916T140144Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9ca69acc5ef75f0b79b8a3b6e8d8b9a6afaf5d89c6aeba2dbe9de39400a36007)
 
 [Cisco-Talos/crashdog](https://github.com/Cisco-Talos/crashdog)
 
@@ -4382,8 +4374,6 @@ Bookmarks
 [FuzzySecurity | Windows ExploitDev: Part 19](https://www.fuzzysecurity.com/tutorials/expDev/23.html)
 
 [Defcon 27](https://eclypsium.com/wp-content/uploads/2019/08/EXTERNAL-Get-off-the-kernel-if-you-cant-drive-DEFCON27.pdf)
-
-[ASUS Drivers Elevation of Privilege Vulnerabilities | SecureAuth](https://www.secureauth.com/labs/advisories/asus-drivers-elevation-privilege-vulnerabilities)
 
 [GIGABYTE Drivers Elevation of Privilege Vulnerabilities | SecureAuth](https://www.secureauth.com/labs/advisories/gigabyte-drivers-elevation-privilege-vulnerabilities)
 
@@ -4421,8 +4411,6 @@ Bookmarks
 
 [Another list of bug bounty write-ups](https://github.com/ngalongc/bug-bounty-reference)
 
-[How I could have stolen your photos from Google - my first 3 bug bounty writeups](https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/)
-
 </dl>
 
 
@@ -4445,8 +4433,6 @@ Bookmarks
 
 [Android Internals: A Confectioner's Cookbook](http://newandroidbook.com/)
 
-[Android Internals](http://cecs.wright.edu/~pmateti/Courses/4440/Lectures/Internals/)
-
 [AnSec2.0](http://technologeeks.com/files/AnSec2.0.pdf)
 
 [Android Internals](http://technologeeks.com/course.jl?course=Android%20Internals)
@@ -4455,15 +4441,7 @@ Bookmarks
 
 [M1Con CTF Write up](https://blog.manchestergreyhats.co.uk/2018/03/28/m1con-ctf-writeup/)
 
-[YouTube](https://m.youtube.com/watch?v=m9UZnWLLurY&feature=youtu.be)
-
-[codemetrix.net - Hacking Android apps with FRIDA I](https://www.codemetrix.net/hacking-android-apps-with-frida-1/)
-
-[How to start Reverse Engineering on Android Application by Ankit Mishra - network, host, download | Peerlyst](https://www.peerlyst.com/posts/how-to-start-reverse-engineering-on-android-application-ankit-mishra)
-
-[How to start Reverse Engineering on Android Application - Part 2 by Ankit Mishra - download, virtual machine, location | Peerlyst](https://www.peerlyst.com/posts/how-to-start-reverse-engineering-on-android-application-part-2-ankit-mishra)
-
-[How to start Reverse Engineering on Android Application – Part 3 by Ankit Mishra - credentials, vulnerable, knowledge | Peerlyst](https://www.peerlyst.com/posts/how-to-start-reverse-engineering-on-android-application-part-3-ankit-mishra)
+[Reverse Engineering Android Applications - Tyler Lambert - YouTube](https://m.youtube.com/watch?v=m9UZnWLLurY&feature=youtu.be)
 
 [ashishb/android-security-awesome: A collection of android security related resources](https://github.com/ashishb/android-security-awesome)
 
@@ -4521,8 +4499,6 @@ Bookmarks
 
 [aslur/offensivecon-talk.pdf at master · blackzert/aslur · GitHub](https://github.com/blackzert/aslur/blob/master/offensivecon-talk.pdf)
 
-[asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf](https://www.blackhat.com/docs/asia-18/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf)
-
 [Exploit Mitigation Techniques - Stack Canaries - Exploit Development - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/exploit-mitigation-techniques-stack-canaries/5085)
 
 [Exploitation Mitigation Techniques · isislab/Project-Ideas Wiki](https://github.com/isislab/Project-Ideas/wiki/Exploitation-Mitigation-Techniques)
@@ -4573,8 +4549,6 @@ Bookmarks
 
 [Writing a simple x86 emulator with IDAPython | Shortjump!](http://0xeb.net/2018/02/writing-a-simple-x86-emulator-with-idapython/)
 
-[How to write an emulator (CHIP-8 interpreter) | Multigesture.net](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
-
 </dl>
 
 
@@ -4584,8 +4558,6 @@ Bookmarks
 ### Arm Specific Stuff
 
 <dl>
-
-[Smashing the ARM Stack: ARM Exploitation Part 1 — Mercked Security](https://www.merckedsecurity.com/blog/smashing-the-arm-stack-part-1)
 
 </dl>
 
@@ -4597,11 +4569,9 @@ Bookmarks
 
 <dl>
 
-[Kernel Rootkits - Dino Zovi](https://www.sans.org/reading-room/whitepapers/threats/paper/449)
-
 [Phrack - Linux on-the-fly kernel patching without LKM](http://phrack.org/issues/58/7.html)
 
-[Rootkit-based attacks and defenses - Rutgers University](https://www.csa.iisc.ac.in/~vg/talks/rootkits-past-present-future/rootkits.ppsx)
+[Rootkit-based attacks and defenses - PPTx presentation, Rutgers University](https://www.csa.iisc.ac.in/~vg/talks/rootkits-past-present-future/rootkits.ppsx)
 
 </dl>
 
@@ -4611,15 +4581,11 @@ Bookmarks
 
 [CVE - Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/index.html)
 
-[Recreating exploits - Disk Pulse Enterprise 9.9.16 - Remote Buffer Overflow (SEH) - Zero Aptitude](https://zeroaptitude.com/zerodetail/recreating-exploits-disk-pulse-enterprise-9-9-16-remote-buffer-overflow-seh/)
-
 [rowhammer + side channel via OS-supported memory deduplication to get arbitrary read+write using javascript in a browser](https://www.cs.vu.nl/~herbertb/download/papers/dedup-est-machina_sp16.pdf)
 
 [[1902.05178] Spectre is here to stay: An analysis of side-channels and speculative execution](https://arxiv.org/abs/1902.05178)
 
 [Project Zero: 0day "In the Wild"](https://googleprojectzero.blogspot.com/p/0day.html)
-
-[How spending our Saturday hacking earned us 20k – intigriti – Medium](https://medium.com/intigriti/how-spending-our-saturday-hacking-earned-us-20k-60990c4678d4)
 
 </dl>
 
@@ -4693,17 +4659,7 @@ Bookmarks
 
 [UMD - Intro to Ethical Hacking](https://github.com/UMD-CS-STICs/389Rfall18)
 
-[Practice 5 - System Hacking with Examples - Ethical Hacking Course - en.gburu.net](https://en.gburu.net/free-ethical-hacking-course-practice-5-system-hacking-with-examples/)
-
-[Module 6 - Hacking Webservers - Free Ethical Hacking Course - en.gburu.net](https://en.gburu.net/free-ethical-hacking-course-module-6-hacking-webservers/)
-
-[Tactical Burp Suite | Professionally Evil Training](https://training.secureideas.com/course/tactical-burp/)
-
-[Advanced Tactical Burp Suite | Professionally Evil Training](https://training.secureideas.com/course/adv-tactical-burp/)
-
 [THXAVET - secureideas military discount](https://twitter.com/secureideas/status/1087893521405759488)
-
-[Zero to Hero Pentesting | Cybersecurity Training | The Cyber Mentor](https://www.thecybermentor.com/zero-to-hero-pentesting)
 
 </dl>
 
@@ -4714,8 +4670,6 @@ Bookmarks
 ### Videos To Learn From
 
 <dl>
-
-[PowerShell for Penetration Testing: Nishang](https://n0where.net/powershell-penetration-testing-framework-nishang)
 
 [HackerSploit - YouTube](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 
@@ -4750,10 +4704,6 @@ Bookmarks
 [Armitage - Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/armitage/)
 
 [Armitage | Penetration Testing Tools](https://tools.kali.org/exploitation-tools/armitage)
-
-[Step by step Metasploit walkthrough](https://zero-day.io/metasploitwalkthrough/)
-
-[How to create metasploitable 3](https://zero-day.io/metasploitable3/)
 
 [GitHub - rapid7/metasploitable3: Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.](https://github.com/rapid7/metasploitable3)
 
@@ -4833,11 +4783,7 @@ Bookmarks
 
 <dl>
 
-[Red Teaming and Pentesting Tips | synack.blog](http://synack.blog/posts/red-teaming-and-pentesting-tips/index.html)
-
 [Pen Testing Standard (READ FOR STUDYING)](http://www.pentest-standard.org/index.php/Main_Page)
-
-[Penetration Testing Methodology - 0DAYsecurity.com](http://www.0daysecurity.com/penetration-testing/penetration.html)
 
 [Cyber Kill Chain® | Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 
@@ -4856,8 +4802,6 @@ Bookmarks
 [Introduction to Pen Testing](https://xapax.gitbooks.io/security/)
 
 [wtsxDev/Penetration-Testing: List of awesome penetration testing resources, tools and other shiny things](https://github.com/wtsxDev/Penetration-Testing#windows-utils)
-
-[125 Hacking Tools For Penetration Testing in 2019 - CyberX](https://s3.wasabisys.com/web.hosting.cyberx.tech/Hacking%20Tools%20Freebie/HackingToolsCyberX.pdf)
 
 [Web Security Academy](https://portswigger.net/web-security)
 
@@ -4886,10 +4830,6 @@ Bookmarks
 <dl>
 
 [ATT&CK™ Navigator](https://mitre.github.io/attack-navigator/enterprise/#)
-
-[Most Important Penetration Testing Cheat Sheet Linux Machine](https://techincidents.com/important-penetration-testing-cheat-sheet/)
-
-[SANS Penetration Testing Cheat Sheet: PowerShell](https://pen-testing.sans.org/blog/2016/05/25/sans-powershell-cheat-sheet/)
 
 [Cheat sheet and notes inspired by the book RTFM - Red Team Field Manual](https://github.com/droberson/rtfm)
 
