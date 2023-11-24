@@ -5143,8 +5143,6 @@ Bookmarks
 
 [tgcd - For forwarding ports, like for the SOCKS server, through the firewall - TCP/IP Gender Changer Daemon](http://tgcd.sourceforge.net/)
 
-[Mimikatz: A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
-
 [Samba - opening windows to a wider world](https://www.samba.org/)
 
 [ProxyChains - TCP and DNS through proxy server. HTTP and SOCKS](http://proxychains.sourceforge.net/)
@@ -5181,15 +5179,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### 5\. Privilege Escalation
 
 <dl>
-
-
 
 ### Linux Privesc
 
@@ -5203,8 +5195,6 @@ Bookmarks
 
 [Checksec.sh - Check Securities on a file](https://github.com/slimm609/checksec.sh)
 
-[Linux Privilege Escalation via Automated Script](http://www.hackingarticles.in/linux-privilege-escalation-via-automated-script/)
-
 [A guide to Linux Privilege Escalation - payatu](https://payatu.com/guide-linux-privilege-escalation/)
 
 [Abusing SUDO (Linux Privilege Escalation)](http://touhidshaikh.com/blog/?p=790)
@@ -5217,16 +5207,6 @@ Bookmarks
 
 [Linux Privilege Escalation using Misconfigured NFS](http://www.hackingarticles.in/linux-privilege-escalation-using-misconfigured-nfs/)
 
-[Linux Privilege Escalation via Dynamically Linked Shared Object Library | Context Information Security EN](https://www.contextis.com/en/blog/linux-privilege-escalation-via-dynamically-linked-shared-object-library)
-
-[Local Linux Enumeration & Privilege Escalation Cheatsheet – Rebootuser](https://www.rebootuser.com/?p=1623)
-
-[Privilege-Escalation Scripts](https://github.com/AusJock/Privilege-Escalation/tree/master/Linux)
-
-[Privilege Escalation on Linux with Live examples](https://resources.infosecinstitute.com/privilege-escalation-linux-live-examples/)
-
-[4 Ways to get Linux Privilege Escalation](http://www.hackingarticles.in/4-ways-get-linux-privilege-escalation/)
-
 [Linux Privilege Escalation by Exploiting Cronjobs](http://www.hackingarticles.in/linux-privilege-escalation-by-exploiting-cron-jobs/)
 
 [Privilege Escalation - Linux · pentestbook](https://chryzsh.gitbooks.io/pentestbook/privilege_escalation_-_linux.html)
@@ -5234,10 +5214,6 @@ Bookmarks
 [Linux elevation of privileges](https://guif.re/linuxeop)
 
 </dl>
-
-
-
-
 
 ### Windows Privesc
 
@@ -5257,12 +5233,6 @@ Bookmarks
 
 [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
 
-[Well, That Escalated Quickly… – To Shell And Back: Adventures In Pentesting](https://www.toshellandback.com/2015/11/24/ms-priv-esc/)
-
-[OSCP - Windows Priviledge Escalation](http://hackingandsecurity.blogspot.com/2017/09/oscp-windows-priviledge-escalation.html)
-
-[Privilege-Escalation Scripts](https://github.com/AusJock/Privilege-Escalation/tree/master/Windows)
-
 [Checklists-Windows-Privilege-Escalation](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
 
 [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
@@ -5272,10 +5242,6 @@ Bookmarks
 [Windows Privilege Escalation Methods for Pentesters – Pentest Blog](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/)
 
 [A Virgil's Guide to Pentest: Escalation Time](http://virgil-cj.blogspot.com/2018/02/escalation-time.html)
-
-[BeRoot For Windows – Privilege Escalation Project – Haxf4rall](https://haxf4rall.com/2018/07/06/beroot-for-windows-privilege-escalation-project/)
-
-[Elevating privileges by exploiting weak folder permissions | GreyHatHacker.NET](http://www.greyhathacker.net/?p=738)
 
 [Windows Priv Esc Stuff](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming#-privilege-escalation)
 
@@ -5298,10 +5264,6 @@ Bookmarks
 [sqlmap-cheatsheet](https://github.com/coreb1t/awesome-pentest-cheat-sheets/blob/master/docs/sqlmap-cheatsheet-1.0-SDB.pdf)
 
 [SQLMap Tamper Scripts (SQL Injection and WAF bypass)](https://forum.bugcrowd.com/t/sqlmap-tamper-scripts-sql-injection-and-waf-bypass/423)
-
-[Privilege Escalation Video List](https://davyrogers.uk/courses.html#PrivilegeEscalation)
-
-[Recipe for Root – Your Cookbook for Privilege Escalation](https://recipeforroot.com/)
 
 [Privilege Escalation Cheatsheet (Vulnhub)](https://www.hackingarticles.in/privilege-escalation-cheatsheet-vulnhub/)
 
@@ -5337,9 +5299,7 @@ Bookmarks
 
 [My First Go with BloodHound | Strategic Cyber LLC](https://blog.cobaltstrike.com/2016/12/14/my-first-go-with-bloodhound/)
 
-[BloodHoundAD - reveal the hidden and often unintended relationships within an Active Directory environment](https://github.com/BloodHoundAD/BloodHound/wiki)
-
-[Active Directory Pentesting Archives - ScriptDotSh](https://scriptdotsh.com/index.php/category/active-directory-pentesting/)
+[BloodHoundAD - reveal the hidden and often unintended relationships within an Active Directory environment](https://bloodhound.readthedocs.io/en/latest/index.html)
 
 [Active Directory Security – Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…](https://adsecurity.org/)
 
@@ -5367,8 +5327,6 @@ Bookmarks
 
 [Spiderfoot, an Open Source Intelligence Automation Tool](http://securitytrails.com/blog/spiderfoot-osint-automation-tool)
 
-[ꓘamerka — Build interactive map of cameras from Shodan](https://medium.com/@woj_ciech/%EA%93%98amerka-build-interactive-map-of-cameras-from-shodan-a0267849ec0a)
-
 [Open Source Intelligence Gathering 101 – Appsecco](https://blog.appsecco.com/open-source-intelligence-gathering-101-d2861d4429e3)
 
 [crt.sh | Certificate Search](https://crt.sh/)
@@ -5395,13 +5353,9 @@ Bookmarks
 
 [theHarvester: E-mails, subdomains and names Harvester](https://github.com/laramies/theHarvester)
 
-[OSINT Search Tool by IntelTechniques | Open Source Intelligence](https://inteltechniques.com/menu.html)
-
 [2019 OSINT Guide](https://www.randhome.io/blog/2019/01/05/2019-osint-guide/)
 
 [Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)
-
-[BelleBytes OSINT Guide - Storm CTF](https://stormctf.ninja/ctf/blog/stormctf/bellebytes-osint-guide)
 
 [From Email Address to Phone Number: A New OSINT Approach - Martin Vigo - YouTube](https://www.youtube.com/watch?v=0c92l9v5Sns)
 
@@ -5427,8 +5381,6 @@ Bookmarks
 
 </dl>
 
-
-
 [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper)
 
 [hashcat - advanced password recovery](https://hashcat.net/hashcat/)
@@ -5443,23 +5395,13 @@ Bookmarks
 
 [Nozzlr: Multithreaded Brute Forcer](https://github.com/intrd/nozzlr)
 
-[Decrypt Google Chrome / Chromium passwords and credit cards on macOS / OS X.](https://github.com/manwhoami/OSXChromeDecrypt)
-
-[Chrome Password Decryptor : Free Tool to Recover Lost or Forgotten Website Password from Google Chrome Browser](http://securityxploded.com/chromepassworddecryptor.php)
-
 [How to Grab All the Passwords « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/grab-all-passwords-0163301/)
 
 </dl>
 
-
-
-
-
 ### Web Security
 
 <dl>
-
-
 
 ### Books
 
@@ -5471,23 +5413,13 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Burp
 
 <dl>
 
 [Burp Intro](https://github.com/bugcrowd/bugcrowd_university/blob/master/An_introduction_to_Burp_Suite/Bugcrowd%20University%20-%20Burp%20Suite%20Introduction.pdf)
 
-[0x2 Exploit Tutorial: Web Hacking with Burp Suite](http://www.primalsecurity.net/0x2-exploit-tutorial-web-hacking-with-burp-suite/)
-
 </dl>
-
-
-
-
 
 ### XSS
 
@@ -5499,33 +5431,17 @@ Bookmarks
 
 [XSS Polyglot Challenge](http://polyglot.innerht.ml/)
 
-[Browser's XSS Filter Bypass Cheat Sheet · masatokinugawa/filterbypass Wiki](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
-
-[0×1 Exploit Tutorial: XSS](http://www.primalsecurity.net/0x1-exploit-tutorial-xss/)
-
-[XSS Payloads](http://www.xss-payloads.com/)
-
 [unescape() room](https://unescape-room.jobertabma.nl/)
 
 [Useful payloads and bypass for Web App](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 </dl>
 
-
-
-[$10k host header - Test](https://sites.google.com/site/testsitehacking/10k-host-header)
-
 [Web Security · isislab/Project-Ideas Wiki](https://github.com/isislab/Project-Ideas/wiki/Web-Security)
-
-[RPISEC INTROSEC](https://introsec.backdrifting.net/lectures/2017fall/03_web_exploitation.html#1)
 
 [Web Security - Webgoat](https://github.com/WebGoat/WebGoat)
 
-[zseano | UK Security Researcher](https://zseano.com/)
-
 [High Performance Web Brute-Forcing 🕸🐏 – hiburn8](http://hiburn8.org/index.php/2018/09/13/high-performance-web-brute-forcing/)
-
-[The Bug Hunter’s Methodology 2.0 – Jason Haddix](https://jasonhaddix.com/the-bug-hunters-methodology-2-0/)
 
 [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm)
 
@@ -5537,8 +5453,6 @@ Bookmarks
 
 [A Methodical Approach to Browser Exploitation | Ret2 Systems Blog](http://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)
 
-[ZAP - Zed Attack Proxy Project](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
-
 [Samurai 3.0 Branch - Web Pen Testing VM](https://sourceforge.net/projects/samurai/files/SamuraiWTF%203.0%20Branch/)
 
 [Samurai - Course -Web Pen-testing VM](https://sourceforge.net/projects/samurai/files/SamuraiWTF%20Course/)
@@ -5549,15 +5463,9 @@ Bookmarks
 
 </dl>
 
-
-
-
-
 ### Red-Team (C2 Stuff and Other Good Things)
 
 <dl>
-
-
 
 ### C2/Infrastructure
 
