@@ -5609,8 +5609,6 @@ Bookmarks
 
 [CTFs](https://github.com/ctfs)
 
-[CSAW CTF 2015 - Alexander Taylor – OSIRIS Lab at NYU SOE](http://blog.isis.poly.edu/2015/09/21/csaw-ctf-alexander-taylor/)
-
 [Practical case: Secura Grand Slam CTF “Easy Reverse” – Max Kersten](https://maxkersten.nl/binary-analysis-course/introduction/secura-grand-slam-ctf-easy-reverse/)
 
 [Capture the Flag Challenges](http://www.hackingarticles.in/capture-flag-challenges/)
@@ -5629,11 +5627,7 @@ Bookmarks
 
 [ctf-challenges/pwn/stackoverflow/ret2libc at master · ctf-wiki/ctf-challenges · GitHub](https://github.com/ctf-wiki/ctf-challenges/tree/master/pwn/stackoverflow/ret2libc)
 
-[33C3 CTF 2016 -- ESPR « Hacking Tube](http://bruce30262.logdown.com/posts/1255979-33c3-ctf-2016-espr)
-
 [write-ups-2016/hackcon-ctf-2016/pwn/easiest-pwn-not-250 at master · ctfs/write-ups-2016](https://github.com/ctfs/write-ups-2016/tree/master/hackcon-ctf-2016/pwn/easiest-pwn-not-250)
-
-[google-ctf - solutions](https://github.com/google/google-ctf/blob/master/2018/finals/solutions.pdf)
 
 [csaw-ctf-2014 - S3 writeup](https://github.com/ctfs/write-ups-2014/tree/master/csaw-ctf-2014/s3)
 
@@ -5663,25 +5657,17 @@ Bookmarks
 
 [zardus/ctf-tools- Some useful tools for various challenges](https://github.com/zardus/ctf-tools)
 
-[INTROSEC - Useful tools for various challenges](https://introsec.backdrifting.net/Assets)
-
 [Pip installation](https://pip.pypa.io/en/stable/installing/)
 
 [Online Decoder For Esolangs](https://tio.run/#)
 
 </dl>
 
-
-
-
-
 ### Crypto
 
 <dl>
 
 [CyberChef (Crypto)](https://gchq.github.io/CyberChef/)
-
-[dCode - Solvers, Crypto, Maths, Decoding, Online Tools](https://www.dcode.fr/)
 
 [Crypto Tools](https://github.com/apsdehal/awesome-ctf#crypto)
 
@@ -5706,10 +5692,6 @@ Bookmarks
 [Some inactive CTF challenge : codes](https://www.reddit.com/r/codes/comments/7yux88/some_inactive_ctf_challenge/)
 
 [Skipjack Decoder](http://rumkin.com/tools/cipher/skip.php)
-
-[MD5 Cracker Page - Over 312.072 billion cracked MD5 hashes - HashKiller.co.uk](https://hashkiller.co.uk/Cracker/MD5)
-
-[SHA1 Cracker Page - Over 312.072 billion cracked SHA1 hashes - HashKiller.co.uk](https://hashkiller.co.uk/Cracker/SHA1)
 
 </dl>
 
@@ -5740,10 +5722,6 @@ Bookmarks
 [GitHub - Gallopsled/pwntools: CTF framework and exploit development library](https://github.com/Gallopsled/pwntools)
 
 [hugsy/gef: GEF - GDB Enhanced Features for exploit devs & reversers](https://github.com/hugsy/gef)
-
-[Playing with rasm2 (for shellcoding)](http://radare.today/posts/playing-with-rasm2/)
-
-[Rasm2 · Radare2 Book (for shellcoding)](https://radare.gitbooks.io/radare2book/content/rasm2/intro.html)
 
 [zardus/preeny: Some helpful preload libraries for pwning stuff.](https://github.com/zardus/preeny)
 
@@ -5819,10 +5797,6 @@ Bookmarks
 
 [Memory Analysis with Volatility Analyzing a RAM Image with Volatility (15 Points)](https://samsclass.info/121/proj/p4-Volatility.htm)
 
-[Volatility & Memory-Forensics-Cheat-Sheet-v1_2.pdf](https://blogs.sans.org/computer-forensics/files/2012/04/Memory-Forensics-Cheat-Sheet-v1_2.pdf)
-
-[volatility-memory-forensics-cheat-sheet.pdf](https://digital-forensics.sans.org/media/volatility-memory-forensics-cheat-sheet.pdf)
-
 </dl>
 
 
@@ -5896,8 +5870,6 @@ Bookmarks
 ### FlareOn 2019
 
 <dl>
-
-[FLARE-On](https://2019.flare-on.com/challenges)
 
 [www.flare-on.com](http://www.flare-on.com/)
 
@@ -6101,14 +6073,6 @@ Bookmarks
 
 [Aircrack-ng - Wireless Pen Testing](http://www.aircrack-ng.org/)
 
-[Kismet Wireless Detector](https://kismetwireless.net/download.shtml)
-
-[WiFiJammer - Continuously jam all wifi clients/routers](https://n0where.net/wifijammer)
-
-[20 Popular Wireless Hacking Tools [updated for 2017]](http://resources.infosecinstitute.com/20-popular-wireless-hacking-tools-updated-for-2016/#gref)
-
-[How To Hack WiFi: The Ultimate Guide (2019) - CyberX](https://cyberx.tech/how-to-hack-wifi/)
-
 </dl>
 
 
@@ -6131,8 +6095,6 @@ Bookmarks
 
 <dl>
 
-[My experience with OSWP/WiFu v3.2 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/04/30/my-experience-with-oswp-wifu-v3-2/)
-
 </dl>
 
 
@@ -6141,8 +6103,6 @@ Bookmarks
 
 [Scapy: packet manipulation program & library](https://github.com/secdev/scapy)
 
-[RPISEC INTROSEC](https://introsec.backdrifting.net/lectures/2017fall/06_packet_sniffing.html#1)
-
 [Online IP CIDR / VLSM Supernet Calculator](http://www.subnet-calculator.com/cidr.php)
 
 [TCPDUMP/LIBPCAP public repository](http://www.tcpdump.org/)
@@ -6150,10 +6110,6 @@ Bookmarks
 [GitHub - defuse/sockstress: Sockstress (TCP DoS) implementation.](https://github.com/defuse/sockstress)
 
 [OSI model - Wikipedia](https://en.wikipedia.org/wiki/OSI_model)
-
-[Moloch - PCAP tool](https://molo.ch/)
-
-[Networking - YouTube](https://www.youtube.com/playlist?list=PLR0lm4gEfVFeKhfr9ho6Kcxt9acCKDQl3)
 
 </dl>
 
@@ -6177,21 +6133,13 @@ Bookmarks
 
 [Applied Network Defense | good cheap blue team courses](https://www.networkdefense.io/library/)
 
-[SANS Digital Forensics and Incident Response | DFIR Courses | SANS](https://digital-forensics.sans.org/training/courses)
-
 [meirwah/awesome-incident-response: A curated list of tools for incident response](https://github.com/meirwah/awesome-incident-response)
 
 </dl>
 
-
-
-
-
 ### ICS/SCADA
 
 <dl>
-
-
 
 ### Courses
 
@@ -6202,8 +6150,6 @@ Bookmarks
 [Cyber-Physical Systems Design & Analysis](https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876)
 
 </dl>
-
-
 
 [Resource list – Robert M. Lee](https://www.robertmlee.org/tag/resource-list/)
 
