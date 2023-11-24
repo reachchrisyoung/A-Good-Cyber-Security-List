@@ -3563,15 +3563,13 @@ Bookmarks
 
 <dl>
 
-[Reverse Engineering Firmware: Linksys WAG120N – /dev/ttyS0](http://www.devttys0.com/2011/05/reverse-engineering-firmware-linksys-wag120n/)
-
 [5-Min Tutorial: Lifting Firmware with the Bus Pirate – B-sides](http://konukoii.com/blog/2018/02/13/lifting-firmware-with-the-bus-pirate/)
 
 [postmarketOS Low-Level: Tiny Steps Towards Liberating Bootloaders and Cellular Modem Firmware of MediaTek Phones](https://postmarketos.org/blog/2018/04/14/lowlevel/)
 
 [Hacking Microcontroller Firmware through a USB | Securelist](https://securelist.com/hacking-microcontroller-firmware-through-a-usb/89919/89919/)
 
-[Breaking Bits](https://breaking-bits.gitbook.io/breaking-bits/vulnerability-discovery/reverse-engineering/modern-approaches-toward-embedded-research)
+[Modern Vulnerbaility Research Techniques on Embedded Systems - Breaking Bits](https://breaking-bits.gitbook.io/breaking-bits/vulnerability-discovery/reverse-engineering/modern-approaches-toward-embedded-research)
 
 [https://media.defcon.org/DEF CON 27/DEF CON 27 presentations/DEFCON-27-Christopher-Roberts-Firmware-Slap.pdf](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Christopher-Roberts-Firmware-Slap.pdf)
 
@@ -3631,8 +3629,6 @@ Bookmarks
 
 [Practical Reverse Engineering Part 1 - Hunting for Debug Ports · Hack The World](http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)
 
-[Rooting a Logitech Harmony Hub: Improving Security in Today's IoT World « Rooting a Logitech Harmony Hub: Improving Security in Today's IoT World | FireEye Inc](https://www.fireeye.com/blog/threat-research/2018/05/rooting-logitech-harmony-hub-improving-iot-security.html)
-
 [Heart of Darkness - exploring the uncharted backwaters of HID iCLASS RFID reader security](https://www.openpcd.org/dl/HID-iCLASS-security.pdf)
 
 [Bus Pirate - DP](http://dangerousprototypes.com/docs/Bus_Pirate)
@@ -3649,15 +3645,11 @@ Bookmarks
 
 [Hackaday | Fresh hacks every day](http://hackaday.com/)
 
-[Hardware Hacking for Software People | Don't Stuff Beans Up Your Nose](https://dontstuffbeansupyournose.com/2011/08/25/hardware-hacking-for-software-people/)
-
 [Methodologies For Hacking Embedded Security Appliances](https://media.blackhat.com/us-13/US-13-Bathurst-Methodologies-for-Hacking-Embdded-Security-Appliances-Slides.pdf)
 
 [bunnie's burrow](http://www.xenatera.com/bunnie/)
 
 [bunnie's blog](https://www.bunniestudios.com/)
-
-[Changing your MAC address in Windows - inc0x0](https://inc0x0.com/2019/01/changing-mac-address-windows/)
 
 [O.MG Cable](http://mg.lol/blog/omg-cable/)
 
@@ -3707,15 +3699,11 @@ Bookmarks
 
 [In-Memory-Only ELF Execution (Without tmpfs) Mrs Quis Will Think of a Better Title](https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html)
 
-[High-Level Approaches for Finding Vulnerabilities - @Jackson_T](http://jackson.thuraisamy.me/finding-vulnerabilities.html)
-
 [How do I get started in vulnerability research? : ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/comments/f6f5s/how_do_i_get_started_in_vulnerability_research/)
 
 [A bunch of Linux kernel exploitation resources](https://github.com/xairy/linux-kernel-exploitation)
 
 [Project Zero - Monorail](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary)
-
-[Travel blog of an evil transgirl: Reversing ALPC: Where are your windows bugs and sandbox escapes?](https://sandboxescaper.blogspot.com/2018/10/reversing-alpc-where-are-your-windows.html)
 
 [Weaponization of a JavaScriptCore Vulnerability | Ret2 Systems Blog](http://blog.ret2.io/2018/07/11/pwn2own-2018-jsc-exploit/)
 
@@ -3736,10 +3724,6 @@ Bookmarks
 [Extracting a 19 Year Old Code Execution from WinRAR - Check Point Research](https://research.checkpoint.com/extracting-code-execution-from-winrar/)
 
 [Zero Day Initiative — The Story of Two Winning Pwn2Own JIT Vulnerabilities in Mozilla Firefox](https://www.zerodayinitiative.com/blog/2019/4/18/the-story-of-two-winning-pwn2own-jit-vulnerabilities-in-mozilla-firefox)
-
-[Phrack - Javascript Jit Type Confusion](http://phrack.org/papers/jit_exploitation.html)
-
-[Phrack - Javascript Engine Basics](http://phrack.org/papers/attacking_javascript_engines.html)
 
 [Zero Day Initiative — CVE-2019-0708: A Comprehensive Analysis of a Remote Desktop Services Vulnerability](https://www.thezdi.com/blog/2019/5/27/cve-2019-0708-a-comprehensive-analysis-of-a-remote-desktop-services-vulnerability)
 
@@ -3807,12 +3791,6 @@ Bookmarks
 
 [Fall 2020 - Georgia Tech Information Security Lab Course](https://tc.gts3.org/cs6265/2018/cal.html)
 
-[Modern Binary Exploitation - Spring 2015](http://security.cs.rpi.edu/courses/binexp-spring2015/)
-
-[RPISEC INTROSEC - Command Line](https://introsec.backdrifting.net/lectures/2017fall/02_intro_to_command_line.html#1)
-
-[RPISEC INTROSEC - Stegonography](https://introsec.backdrifting.net/lectures/2017fall/04_steganography.html#1)
-
 [CNIT 127: Exploit Development -- Sam Bowne](https://samsclass.info/127/127_F15.shtml)
 
 [Violent Python and Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)
@@ -3821,11 +3799,7 @@ Bookmarks
 
 [SEED Project](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Software/)
 
-[Basic General Vulnerability Course](http://www.cis.syr.edu/~wedu/seed/all_labs.html)
-
 [NYU Tandon VR and Pen Test Course](https://github.com/isislab/Hack-Night)
-
-[Good Intro to VR - George Mason Security Lab - Google Drive](https://drive.google.com/drive/folders/1evPaqTcLf4cQblMipUkwjatKcOPYwHgz)
 
 </dl>
 
@@ -3871,10 +3845,6 @@ Bookmarks
 
 [io.netgarage.org](https://io.netgarage.org/)
 
-[SmashTheStack Wargaming Network](http://smashthestack.org/wargames.html)
-
-[CSAW 365](https://365.csaw.io/)
-
 [Binary Exploitation | pwnable.kr](http://pwnable.kr/)
 
 </dl>
@@ -3887,13 +3857,9 @@ Bookmarks
 
 <dl>
 
-[Analysis of a Chrome Zero Day: CVE-2019-5786 | McAfee Blogs](https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/analysis-of-a-chrome-zero-day-cve-2019-5786/)
-
 [One more Steam Windows Client Local Privilege Escalation 0day](https://amonitoring.ru/article/onemore_steam_eop_0day/)
 
 [Analysis of CVE-2019-0708 (BlueKeep) - MalwareTech](https://www.malwaretech.com/2019/05/analysis-of-cve-2019-0708-bluekeep.html)
-
-[sp0re/Nhttpd-exploits - Sp0re's Git](https://git.sp0re.sh/sp0re/Nhttpd-exploits)
 
 </dl>
 
@@ -3910,8 +3876,6 @@ Bookmarks
 [Fuzzing in Chromium](https://chromium.googlesource.com/chromium/src/+/master/testing/libfuzzer/README.md)
 
 [google/clusterfuzz: Scalable fuzzing infrastructure.](https://github.com/google/clusterfuzz)
-
-[v8 exploit | Sakuraのblog](http://eternalsakura13.com/2018/05/06/v8/)
 
 </dl>
 
@@ -3930,8 +3894,6 @@ Bookmarks
 [Android Internals & Others](http://technologeeks.com/courses.jl)
 
 [Tactical Network Solutions | IoT Security Training](https://www.tacnetsol.com/)
-
-[Windows Internals & Rootkits | Graceful Bits](https://gracefulbits.com/training-courses/)
 
 </dl>
 
@@ -3967,15 +3929,9 @@ Bookmarks
 
 <dl>
 
-[pwntools Documentation](https://media.readthedocs.org/pdf/pwntools/stable/pwntools.pdf)
-
 [Installation — pwntools 3.12.0 documentation](http://docs.pwntools.com/en/stable/install.html)
 
-[Exploit Development with AFL, PEDA and PwnTools](http://thecyberrecce.net/2017/07/28/exploit-development-with-afl-peda-and-pwntools/)
-
 [GitHub - Gallopsled/pwntools: CTF framework and exploit development library](https://github.com/Gallopsled/pwntools)
-
-[Weaponization of Nessus Plugins](https://depthsecurity.com/blog/weaponization-of-nessus-plugins)
 
 [merrychap/shellen: Interactive shellcoding environment to easily craft shellcodes](https://github.com/merrychap/shellen)
 
@@ -4012,8 +3968,6 @@ Bookmarks
 <dl>
 
 [Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course)
-
-[Intro Binary Hacking Course - LiveOverflow](http://liveoverflow.com/binary_hacking/index.html)
 
 [Open Security - Intro to Software Exploits for Linux](http://www.opensecuritytraining.info/Exploits1.html)
 
@@ -4077,12 +4031,6 @@ Bookmarks
 
 </dl>
 
-
-
-[A curated list of Windows Exploitation resources](https://github.com/enddo/awesome-windows-exploitation)
-
-[Introduction to Windows Kernel Driver Exploitation (Pt. 1)](https://glennmcgui.re/introduction-to-windows-kernel-exploitation-pt-1/)
-
 [Starting with Windows Kernel Exploitation – part 1 – setting up the lab | hasherezade's 1001 nights](https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/)
 
 [Open Security Videos - Intro to Windows Exploits](https://www.youtube.com/playlist?list=PL9F9E52502327B1CA)
@@ -4135,15 +4083,9 @@ Bookmarks
 
 [English Text Shellcode.pdf](http://www.cs.jhu.edu/~sam/ccs243-mason.pdf)
 
-[Shell-storm Mirror | A collection of shellcode, ripped straight from the shell-storm database. We host this just for easy access, since shell-storm cannot be reached within the Academy's Internet.](https://github.com/USCGA/shellcode)
-
 [0x2a0 Writing Shellcode](http://www.dmi.unipg.it/bista/didattica/sicurezza-pg/buffer-overrun/hacking-book/0x2a0-writing_shellcode.html)
 
 </dl>
-
-
-
-[Best books, tutorials and courses to learn about exploit development](http://www.pentest.guru/index.php/2016/01/28/best-books-tutorials-and-courses-to-learn-about-exploit-development/)
 
 [Ask HN: What's the prerequisite to become an exploit developer? | Hacker News](https://news.ycombinator.com/item?id=14481686)
 
@@ -4152,8 +4094,6 @@ Bookmarks
 [slimm609/checksec.sh: Checksec.sh](https://github.com/slimm609/checksec.sh)
 
 [Corelan Team - Exploit Writing Tutorials](https://www.corelan.be/index.php/articles/#cat_exploit-writing-tutorials)
-
-[[Backdoor 101] Backdooring PE File by Adding New Section Header - Hack.Learn.Share](https://capt-meelo.github.io/exploitdev/osceprep/2018/07/16/backdoor101-part1.html)
 
 [The Beginners Guide to Codecaves - CodeProject](https://www.codeproject.com/Articles/20240/The-Beginners-Guide-to-Codecaves)
 
@@ -4187,12 +4127,6 @@ Bookmarks
 
 [Linux ExploitDev: Part 3 - Buffer Overflow](http://www.fuzzysecurity.com/tutorials/expDev/12.html)
 
-[0x7 Exploit Tutorial: Bad Character Analysis](http://www.primalsecurity.net/0x7-exploit-tutorial-bad-character-analysis/)
-
-[0x0 Exploit Tutorial: Buffer Overflow – Vanilla EIP Overwrite](http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/)
-
-[0×3 Exploit Tutorial: Buffer Overflow – SEH Bypass](http://www.primalsecurity.net/0x3-exploit-tutorial-buffer-overflow-seh-bypass/)
-
 [Binary Exploitation ELI5– Part 1 –Stack/Buffer Overflow/Ret2Libc](https://hackernoon.com/binary-exploitation-eli5-part-1-9bc23855a3d8)
 
 [Binary Exploitation ELI5 — Part 2 – Bypass Stack Mitigations](https://medium.com/@danielabloom/binary-exploitation-eli5-part-2-8fd71bf214b9)
@@ -4215,8 +4149,6 @@ Bookmarks
 
 [ROP Emporium](https://ropemporium.com/)
 
-[ropchain | @kvakil](http://www.kvakil.me/posts/ropchain/)
-
 [SROP | Signals, you say? - Exploit Development - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/srop-signals-you-say/2890)
 
 [Learn ROP through a short series of practical challenges : netsec](https://www.reddit.com/r/netsec/comments/6x1gk4/learn_rop_through_a_short_series_of_practical/)
@@ -4230,8 +4162,6 @@ Bookmarks
 [Notes/ret2libc.txt at master · Malformation/Notes](https://github.com/Malformation/Notes/blob/master/ret2libc.txt)
 
 [libc - offset - 64-bit Linux stack smashing tutorial: Part 3](https://blog.techorganic.com/2016/03/18/64-bit-linux-stack-smashing-tutorial-part-3/)
-
-[ret2libc.pdf](https://www.shellblade.net/docs/ret2libc.pdf)
 
 [Binary Exploitation ELI5 — Part 3 – ROP/Heap Spray](https://medium.com/@danielabloom/binary-exploitation-eli5-part-3-d1872eef71b3)
 
@@ -4317,8 +4247,6 @@ Bookmarks
 
 [Heap Exploitation Part 2: Understanding the Glibc Heap Implementation | Azeria Labs](https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/)
 
-[xu:collision.pdf](https://gts3.org/~wen/assets/papers/xu:collision.pdf)
-
 [Heap Exploitation ~ Abusing Use-After-Free - Exploit Development - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/heap-exploitation-abusing-use-after-free/3580)
 
 [thread local caching in glibc malloc · Online tukan sanctuary](http://tukan.farm/2017/07/08/tcache/)
@@ -4328,8 +4256,6 @@ Bookmarks
 [Mathy Vanhoef, PhD: Understanding the Heap & Exploiting Heap Overflows](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)
 
 [dlmalloc: A Memory Allocator](http://gee.cs.oswego.edu/dl/html/malloc.html)
-
-[Understanding the Heap by Breaking it](https://www.blackhat.com/presentations/bh-usa-07/Ferguson/Whitepaper/bh-usa-07-ferguson-WP.pdf)
 
 [Glibc Adventures: The Forgotten Chunks | Context Information Security UK](https://www.contextis.com/en/resources/white-papers/glibc-adventures-the-forgotten-chunks)
 
@@ -4347,8 +4273,6 @@ Bookmarks
 
 [The Heap: How do use-after-free exploits work? - bin 0x16 - YouTube](https://www.youtube.com/watch?v=ZHghwsTRyzQ)
 
-[Unsorted bin attack - CTF Wiki](https://ctf-wiki.github.io/ctf-wiki/pwn/linux/glibc-heap/unsorted_bin_attack/)
-
 [ctf/0ctf/pwn/babyheap at master · guyinatuxedo/ctf](https://github.com/guyinatuxedo/ctf/tree/master/0ctf/pwn/babyheap)
 
 [Glibc Heap Exploitation Basics : Introduction to ptmalloc2 internals (Part 1)](https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html)
@@ -4365,13 +4289,7 @@ Bookmarks
 
 [Understanding the Heap & Exploiting Heap Overflows](https://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)
 
-[10_lecture.pdf](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/17/10_lecture.pdf)
-
 </dl>
-
-
-
-
 
 ### Fuzzing
 
